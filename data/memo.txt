@@ -1,0 +1,24 @@
+area["ISO3166-1"="DE"][admin_level=2];( node["amenity"="biergarten"](area);
+  way["amenity"="biergarten"](area);
+  rel["amenity"="biergarten"](area);
+);
+out center;
+
+area["boundary"="postal_code"]
+  	["postal_code"="21029"]
+	["postal_code_level"="8"]
+	["type"="boundary"];
+(
+  nwr["amenity"="restaurant"](area);
+);
+out center;
+
+[out:json][timeout:25];
+is_in(53.5101,11.2470) -> .a;
+area.a["boundary"="postal_code"]
+//    ["postal_code"~"2[012][0-9][0-9][0-9]"]
+//	["postal_code_level"="8"]
+//	["type"="boundary"];
+;
+out body;
+

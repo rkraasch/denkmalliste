@@ -1,0 +1,333 @@
+{| class="sortable wikitable" 
+! Lfd. Nr. || Denkmal-ID || Bezeichnung ||  Adresse || Typ || Geogr.Br. Denkmalliste || Geogr.Lg. Denkmalliste || Wikidata || Bezeichnung || ist ein || Adresse || Geogr.Br. Wikidata || Geogr.Lg. Wikidata || Entfernung
+|-
+| 1 || 11782 ||  || Wohn- und Kontorhaus || Bei den Mühren 88 || 53.545239 || 9.993341 || [[:d:Q23786517]] || Kontorhaus Hansaburg || Kontorhaus ||  || 53.545278 || 9.993611 || 18.38
+|-
+| 2 || 11785 || Spiegel-Haus || Verwaltungsgebäude || Brandstwiete 3 || 53.546957 || 9.997741 || [[:d:Q1317770]] || Dovenhof || Kontorhaus ||  || 53.546966 || 9.997749 || 1.13
+|-
+| 3 || 11826 ||  || Wohnhaus || Deichstraße 49 || 53.545254 || 9.987084 || [[:d:Q1590042]] || Haus Deichstraße 53 || Gebäude ||  || 53.545200 || 9.986800 || 19.72
+|-
+| 4 || 11858 || Hauptkirche St. Nikolai, Kirchenruine || Kirchengebäude (Ruine) {Mahnmal (nach Zerstörung und Umwidmung)} || Hopfenmarkt o.Nr.<br />Neue Burg o.Nr.<br />Willy-Brandt-Straße o.Nr.<br />Wölberstieg o.Nr. || 53.547525 || 9.991121 || [[:d:Q1979473]] || Neue Burg || Niederungsburg ||  || 53.547543 || 9.991290 || 11.35
+|-
+| 5 || 12079 ||  || Polizeiwache || Kehrwiederspitze 1 || 53.543063 || 9.983052 || [[:d:Q56878399]] || Hafenpolizeiwache No 2 || Polizeidienststelle ||  || 53.543107 || 9.983085 || 5.38
+|-
+| 6 || 12301 ||  || Siedlungsbau || Wincklerstraße 5<br />Wincklerstraße 7 || 53.547605 || 9.979743 || [[:d:Q18577776]] || Wikipedia:Kontor Hamburg || Regionaler Wikimedia-Treffpunkt || Wincklerstraße 3, 20459 Hamburg || 53.547611 || 9.979950 || 13.70
+|-
+| 7 || 12379 || Pinçon-Haus || Kontorhaus || Neuer Wall 26<br />Neuer Wall 28 || 53.552041 || 9.990839 || [[:d:Q436110]] || Alte Post (Hamburg) || Gebäude ||  || 53.551944 || 9.990833 || 10.75
+|-
+| 8 || 12398 ||  || Fassade || Spielbudenplatz 26 || 53.549180 || 9.963601 || [[:d:Q69058138]] || Hamburg-Amerika-Bar || Bar ||  || 53.549160 || 9.963620 || 2.55
+|-
+| 9 || 12417 || Block D || Speicher || Kehrwieder 6 || 53.543661 || 9.987677 || [[:d:Q1494448]] || Joop van den Ende Academy || Schule || Kehrwieder 6, 20457 Hamburg || 53.543800 || 9.987631 || 15.77
+|-
+| 10 || 12589 ||  || Wohngeschäftshaus || Ditmar-Koel-Straße 16<br />Ditmar-Koel-Straße 18 || 53.546115 || 9.975351 || [[:d:Q1573128]] || Hamburger Seemannskirchen || Kirchengebäude ||  || 53.546039 || 9.975135 || 16.61
+|-
+| 11 || 12814 || Kirchenzentrum St. Michaelis - Gemeindehaus || Pastorat/ Gemeindehaus || Krayenkamp 4a<br />Krayenkamp 4b || 53.548618 || 9.980019 || [[:d:Q28499802]] || Gemeindehaus St. Michaelis || Gebäude ||  || 53.548620 || 9.980020 || 0.23
+|-
+| 12 || 12891 ||  || Wohngeschäftshaus || Reeperbahn 77 || 53.549110 || 9.962159 || [[:d:Q34378644]] || Aladin Filmtheater || Kino || Reeperbahn 89 – 93, 20359 Hamburg || 53.549190 || 9.961910 || 18.72
+|-
+| 13 || 12930 ||  || Wohngeschäftshaus || Ditmar-Koel-Straße 20<br />Reimarusstraße 4 || 53.546044 || 9.974870 || [[:d:Q1573128]] || Hamburger Seemannskirchen || Kirchengebäude ||  || 53.546039 || 9.975135 || 17.53
+|-
+| 14 || 12937 || Lichtobjekt Gustav-Mahler-Park || Kunst im öffentlichen Raum (Lichtobjekt) || Dammtordamm o.Nr. || 53.558697 || 9.991452 || [[:d:Q23786557]] || Tiefbunker Dag-Hammarskjöld-Platz || Tiefbunker ||  || 53.558589 || 9.991389 || 12.73
+|-
+| 15 || 12945 || Grünspan || Gaststätte (mit Saal) || Große Freiheit 58 || 53.551806 || 9.958382 || [[:d:Q1550320]] || Gruenspan || Nachtclub ||  || 53.551728 || 9.958178 || 16.04
+|-
+| 16 || 12956 ||  || Veranstaltungsgebäude/Etablissement || Hamburger Berg 39<br />Reeperbahn 96 || 53.549737 || 9.961562 || [[:d:Q54268521]] || Elbschlosskeller || Kneipe ||  || 53.549722 || 9.961389 || 11.56
+|-
+| 17 || 13000 ||  || Etagenhaus || Lange Reihe 93 || 53.558778 || 10.012716 || [[:d:Q28791184]] || Café Gnosa || Café ||  || 53.558889 || 10.012778 || 13.00
+|-
+| 18 || 13075 ||  || Etagenhaus || Washingtonallee 42<br />Washingtonallee 42a<br />Washingtonallee 44 || 53.549694 || 10.089458 || [[:d:Q26794477]] || Theater das Zimmer || Theatergebäude ||  || 53.549702 || 10.089395 || 4.26
+|-
+| 19 || 13087 ||  || Plastik || Speckenreye 11 || 53.554521 || 10.095488 || [[:d:Q115216647]] || Schule Speckenreye || Schulgebäude || Speckenreye 11 || 53.554630 || 10.095650 || 16.18
+|-
+| 20 || 13139 || Volksschule Hübbesweg || Schulgebäude || Hübbesweg 7<br />Hübbesweg 9 || 53.553816 || 10.060985 || [[:d:Q106631187]] || Schule Hübbesweg || Schulgebäude || Hübbesweg 7-9 || 53.553790 || 10.061040 || 4.64
+|-
+| 21 || 13271 ||  || Etagenhaus (Vorderhaus, Wohnterrasse) || Karolinenstraße 33 || 53.560057 || 9.975088 || [[:d:Q1598945]] || Israelitische Töchterschule || Gedenkstätte || Karolinenstraße 35 || 53.560230 || 9.975070 || 19.29
+|-
+| 22 || 13295 || Viehhof Sternschanze,  Viehverkaufshalle (westl. Gebäudeteil) || Markthalle (Gebäudeteil) || Lagerstraße 34a<br />Lagerstraße 34b<br />Lagerstraße 34c || 53.562970 || 9.966064 || [[:d:Q25388618]] || Bullerei || Restaurant ||  || 53.563056 || 9.966111 || 10.02
+|-
+| 23 || 13377 ||  || Kontorhaus || Alter Wall 12 || 53.550713 || 9.991128 || [[:d:Q877566]] || Bucerius Kunst Forum || Kunstmuseum ||  || 53.550700 || 9.991040 || 5.99
+|-
+| 24 || 13378 ||  || Verwaltungsgebäude || Am Sandtorkai 1 || 53.544030 || 9.996271 || [[:d:Q96376285]] || Am Sandtorkai 1 || Gebäude ||  || 53.544054 || 9.996341 || 5.34
+|-
+| 25 || 13435 || Hauptkirche St. Trinitatis || Kirche || Kirchenstraße o.Nr. südlich von Nr. 40 || 53.548430 || 9.950527 || [[:d:Q2323379]] || St. Trinitatis || Hauptkirche ||  || 53.548333 || 9.950278 || 19.68
+|-
+| 26 || 13501 || Grenzstein M009 || Grenzstein || Brigittenstraße o.Nr. südlich von Nr. 3 || 53.554254 || 9.961322 || [[:d:Q34378696]] || B-Movie || Kino || Brigittenstraße 5, 20359 Hamburg || 53.554370 || 9.961230 || 14.27
+|-
+| 27 || 13506 ||  || Etagenhaus (mit Laden im Keller) || Lange Reihe 97 || 53.558911 || 10.012891 || [[:d:Q28791184]] || Café Gnosa || Café ||  || 53.558889 || 10.012778 || 7.88
+|-
+| 28 || 13531 || Schule Rostocker Straße || Schulgebäude (Mädchenvolksschule) || Rostocker Straße 62 || 53.557657 || 10.016991 || [[:d:Q70214017]] || Stadtteilschule St. Georg || Privatschule ||  || 53.557660 || 10.016960 || 2.07
+|-
+| 29 || 13912 ||  || Etagenhaus || Schmilinskystraße 30 || 53.559008 || 10.012671 || [[:d:Q28791184]] || Café Gnosa || Café ||  || 53.558889 || 10.012778 || 15.02
+|-
+| 30 || 13917 || Kreuzigungsgruppe aus St. Georg || Plastik (Andachtsgruppe, Kreuzwegstation) || St. Georgs Kirchhof o.Nr. in der Vorhalle der Heiligen-Dreieinigkeits-Kirche || 53.556356 || 10.007945 || [[:d:Q1308438]] || Hl. Dreieinigkeits-Kirche || Kirchengebäude ||  || 53.556389 || 10.007778 || 11.64
+|-
+| 31 || 14059 ||  || Wohnhaus || Ausschläger Elbdeich 3 || 53.530065 || 10.044371 || [[:d:Q100741724]] || Ausschläger Elbdeich 3 || Wohngebäude ||  || 53.530100 || 10.044381 || 3.94
+|-
+| 32 || 14079 || Lyzeum auf dem Lübecker Torfeld (ehem., heute Klosterschule) || Schulgebäude (Lyzeum) || Westphalensweg 7 || 53.555708 || 10.024603 || [[:d:Q71248365]] || Klosterschule || Gymnasium || Westphalensweg 7 || 53.555650 || 10.024680 || 8.22
+|-
+| 33 || 14169 || Simeonkirche, ehem. (heute Kirche des Hl. Nikolaos) || Kirchengebäude || Sievekingsallee 12 || 53.560306 || 10.043598 || [[:d:Q1742809]] || Kirche des heiligen Nikolaus || Kirchengebäude ||  || 53.560333 || 10.043472 || 8.85
+|-
+| 34 || 14855 || Metropolis-Kino || Kinosaal || Dammtorstraße 30 || 53.556239 || 9.988771 || [[:d:Q34379023]] || Metropolis Kino || abgegangenes Bauwerk || Dammtorstraße 30, 20354 Hamburg || 53.556280 || 9.988660 || 8.64
+|-
+| 35 || 15119 ||  || Etagenhaus (Vorderhaus); Mietfabrik (Hinterhaus) || Friedensallee 18<br />Friedensallee 20<br />Friedensallee 22 || 53.554853 || 9.927597 || [[:d:Q19964020]] || Monsun-Theater || Theatergebäude ||  || 53.554920 || 9.927690 || 9.66
+|-
+| 36 || 15433 || Glaswarenfabrik Gundlach Eifflerstraße || Werkstattgebäude || Eifflerstraße 1 || 53.561300 || 9.956446 || [[:d:Q104812793]] || Eifflerstraße 3 || Gebäude || Eifflerstraße 3 || 53.561320 || 9.956740 || 19.56
+|-
+| 37 || 15470 ||  || Etagenhaus; Hofbebauung (gewerblich) || Bergiusstraße 4 || 53.554094 || 9.927533 || [[:d:Q34379197]] || Zeise Kinos || Kino || Friedensallee 7 – 9, 22765 Hamburg || 53.554030 || 9.927410 || 10.81
+|-
+| 38 || 15703 ||  || Etagenhaus || Stresemannstraße 148<br />Stresemannstraße 150 || 53.561899 || 9.950345 || [[:d:Q800879]] || Bahnhof Hamburg Holstenstraße || Hochbahnhof || Stresemannstraße 156 || 53.561944 || 9.950278 || 6.73
+|-
+| 39 || 16122 ||  || Fassade (Etagenhausfassade) || Hospitalstraße 120 || 53.556346 || 9.946146 || [[:d:Q2415813]] || Theater Istasyon || Theatergebäude ||  || 53.556411 || 9.946240 || 9.53
+|-
+| 40 || 16437 ||  || Etagenhaus (Wohn- und Geschäftshaus) || Königstraße 30 || 53.548376 || 9.942901 || [[:d:Q61484356]] || Stadttheater Altona || abgegangenes Bauwerk || Königstraße 166, Hamburg-Altona || 53.548360 || 9.943130 || 15.25
+|-
+| 41 || 16516 ||  || Wohnhaus || Hasselmannstraße 3 || 53.551376 || 9.844057 || [[:d:Q111600518]] || Sieberlingstraße 7 || Gebäude || Sieberlingstraße 7 || 53.551380 || 9.844290 || 15.41
+|-
+| 42 || 16542 || "Langesche Mühle", Hafengroßmühle H. W. Lange || Mühlenanlage (Großmühlenbetrieb) || Große Elbstraße 27 || 53.544319 || 9.949910 || [[:d:Q19309458]] || Stadtlagerhaus || Mehrfamilienwohnhaus ||  || 53.544354 || 9.950172 || 17.75
+|-
+| 43 || 16857 ||  || Wohn- und Geschäftshäuser || Schulterblatt 75 || 53.562451 || 9.961030 || [[:d:Q113996384]] || SchanzenKino 73 || Programmkino ||  || 53.562380 || 9.960970 || 8.84
+|-
+| 44 || 17045 || Landhaus Eichenlust || Landhaus || Baron-Voght-Straße 27 || 53.550997 || 9.863686 || [[:d:Q115311344]] || Landhaus Eichenlust || Landhaus || Baron-Voght-Straße 27, 22609 Hamburg || 53.551000 || 9.863680 || 0.51
+|-
+| 45 || 17057 || Altes Schulhaus Övelgönne (ehem.) || Schulgebäude (Dorfschule) {Wohnhaus (Umnutzung nach 1945)} || Schulberg 6 || 53.545193 || 9.906154 || [[:d:Q114244665]] || Schulberg 6 || Gebäude || Schulberg 6 || 53.545190 || 9.906150 || 0.42
+|-
+| 46 || 17135 || Hilfsschule Bundesstraße, ehem. (Astrid-Lindgen-Schule) || Schulgebäude || Bundesstraße 94 || 53.572431 || 9.968397 || [[:d:Q106229543]] || Schulstandort Bundesstraße 94 || Schule in öffentlicher Trägerschaft || Bundesstraße 94 || 53.572450 || 9.968440 || 3.54
+|-
+| 47 || 17140 || Großkino Emelka-Palast, ehem. || Mehrfamilienhaus/ Kino || Osterstraße 124 || 53.576397 || 9.950529 || [[:d:Q34378820]] || Emelka-Palast || Kino || Osterstraße 124, 20255 Hamburg || 53.576410 || 9.950480 || 3.54
+|-
+| 48 || 17277 ||  || Schul- und Lehrgebäude || Felix-Dahn-Straße 3<br />Felix-Dahn-Straße 7<br />Hohe Weide 16 || 53.570758 || 9.966102 || [[:d:Q106224098]] || Lehrerinnenseminar Hohe Weide || Universitätsgebäude || Felix-Dahn-Straße 3 || 53.570820 || 9.966130 || 7.14
+|-
+| 49 || 17465 || Denkmal für die Erwerbung des Goßlers Park am 11. Juli 1924 || Gedenkstein || Goßlers Park 1 || 53.564838 || 9.808793 || [[:d:Q1540603]] || Goßlerhaus || Villa ||  || 53.564778 || 9.808750 || 7.28
+|-
+| 50 || 17564 ||  || Kleinwohnhaus (mit Werkstatt) || Blankeneser Bahnhofstraße 6 || 53.559198 || 9.811299 || [[:d:Q86607734]] || Blankeneser Kino || Kino || Blankeneser Bahnhofstraße 4, 22587 Hamburg || 53.559071 || 9.811224 || 14.98
+|-
+| 51 || 17663 || Jerusalemkirche || Kirche || Schäferkampsallee 36 || 53.569366 || 9.966955 || [[:d:Q28836438]] || Jerusalem-Kirche (Hamburg) || Kirchengebäude ||  || 53.569333 || 9.967000 || 4.72
+|-
+| 52 || 17883 || Huckauf & Bülle Maschinen- und Mühlenfabrik, Südteil (Kontorgebäude zur Straße) || Fabrikgebäude (Kontorgebäude mit Lagertrakt südwärts) || Borselstraße 14<br />Borselstraße 16 || 53.556355 || 9.925830 || [[:d:Q1407572]] || Theater in der Basilika || Theatergebäude ||  || 53.556330 || 9.925797 || 3.53
+|-
+| 53 || 18091 || Wandgemälde im Finanzamt Blankenese || Wandgemälde || Oesterleystraße 22 im Gebäude || 53.562146 || 9.807552 || [[:d:Q94371090]] || Bugenhagenschule Blankenese || weiterführende Schule || Oesterleystraße 22 || 53.562130 || 9.807410 || 9.55
+|-
+| 54 || 18416 || Shell-Verwaltungsgebäude, ehem. || Verwaltungsgebäude || Alsterufer 50<br />Alte Rabenstraße 1<br />Badestraße  o.Nr. || 53.566935 || 10.000512 || [[:d:Q294799]] || AMD Akademie Mode & Design || Schule ||  || 53.567083 || 10.000361 || 19.29
+|-
+| 55 || 18599 ||  || Mehrfamilienhaus (mit Laden) || Methfesselstraße 71 || 53.581958 || 9.947234 || [[:d:Q2252910]] || U-Bahnhof Lutterothstraße || U-Bahnhof ||  || 53.581944 || 9.947500 || 17.64
+|-
+| 56 || 18786 ||  || Villa || Alsterchaussee 30 || 53.573374 || 9.997043 || [[:d:Q51920]] || Theater im Zimmer || Theatergebäude ||  || 53.573390 || 9.997000 || 3.35
+|-
+| 57 || 19190 || Villa Michaelsen / Villa Rée (zuletzt Generalkonsulat der USA) || Villa {Verwaltungsgebäude (nach Zusammenfassung und Umnutzung)} || Alsterufer 27<br />Alsterufer 28 || 53.562156 || 9.996973 || [[:d:Q110151777]] || Alsterufer 27, 28 || Gebäude || Alsterufer 27-28 || 53.562140 || 9.997030 || 4.16
+|-
+| 58 || 19298 || Soziologisches Institut ("Pferdestall") || Stall/ Garage/ Remise {Institutsgebäude (nach Umnutzung)} || Allende-Platz 1 || 53.567238 || 9.982249 || [[:d:Q112277937]] || Allende-Platz 1 || Universitätsgebäude || Allende-Platz 1 || 53.567250 || 9.982250 || 1.33
+|-
+| 59 || 19349 || Siedlungsbau „Klinker" || Siedlungsbau || Grindelberg 81<br />Grindelberg 83<br />Schlankreye 65<br />Schlankreye 67<br />Schlankreye 69<br />Schlankreye 71<br />Schlankreye 73 || 53.577255 || 9.976654 || [[:d:Q29015730]] || Holi || Kino || Schlankreye 71, 20144 Hamburg || 53.577130 || 9.976690 || 14.11
+|-
+| 60 || 20299 || Gemeindehaus der St. Johannisgemeinde || Gemeindehaus || Ludolfstraße 53<br />Tewessteg 10<br />Tewessteg 8 || 53.593097 || 9.992702 || [[:d:Q1555234]] || Alma Hoppe || Cabaret ||  || 53.593056 || 9.992667 || 5.16
+|-
+| 61 || 20443 || Schule Meerweinstraße, ehem. (Gesamtschule Winterhude) || Schulgebäude || Meerweinstraße 26<br />Meerweinstraße 26a<br />Meerweinstraße 28<br />Meerweinstraße 28a || 53.587123 || 10.027413 || [[:d:Q2328173]] || Stadtteilschule Winterhude || Schulgebäude || Meerweinstraße 26 – 28, 22303 Hamburg || 53.587211 || 10.027511 || 11.75
+|-
+| 62 || 20868 || St.-Anschar-Kirche, ehem. Kirche Zum Guten Hirten || Kirchengebäude || Tarpenbekstraße o.Nr. westlich von Nr. 117 || 53.598679 || 9.982318 || [[:d:Q28171313]] || St. Anschar (Hamburg-Eppendorf) || Kirchengebäude ||  || 53.598670 || 9.982360 || 2.94
+|-
+| 63 || 21205 || Paul-Gerhardt-Kirche Winterhude - Kirchengebäude || Kirchengebäude (mit Verbindungsbauten) || Braamkamp 51 südöstlich || 53.600153 || 10.005593 || [[:d:Q54339437]] || Paul-Gerhardt-Kirche || Kirchengebäude ||  || 53.600000 || 10.005556 || 17.21
+|-
+| 64 || 21677 || St.-Gertrud-Kirche || Kirche || Bei der St. Gertrudkirche o.Nr.<br />Immenhof o.Nr. || 53.567360 || 10.027960 || [[:d:Q874288]] || St. Gertrud || Kirchengebäude ||  || 53.567222 || 10.027778 || 19.50
+|-
+| 65 || 21686 || Kunstgewerbeschule, ehem. (Hochschule für bildende Künste) || Schulgebäude (Gewerbeschulgebäude) || Lerchenfeld 2 || 53.567437 || 10.031264 || [[:d:Q1622237]] || Hochschule für bildende Künste Hamburg || staatliche Universität ||  || 53.567570 || 10.031320 || 15.26
+|-
+| 66 || 22360 || Bugenhagenkirche Barmbek, Pastorat || Pastorat || Biedermannplatz 17 || 53.581434 || 10.032059 || [[:d:Q1002408]] || Bugenhagenkirche || Kulturdenkmal in Deutschland ||  || 53.581556 || 10.031990 || 14.32
+|-
+| 67 || 22361 || Bugenhagenkirche Barmbek || Gemeindezentrum <Kirchengebäude; Gemeindesaal; Skulpturen; Außenanlagen (Treppen, Mauern, Freiflächen usw.)> || Biedermannplatz 19<br />Volkmannstraße 6 || 53.581614 || 10.031872 || [[:d:Q1002408]] || Bugenhagenkirche || Kulturdenkmal in Deutschland ||  || 53.581556 || 10.031990 || 10.12
+|-
+| 68 || 22584 || Gewerbeschule für Mädchen, ehem. (Staatl. Fachschule Sozialpädagogik) || Schulgebäude || Uferstraße 10 || 53.571032 || 10.038997 || [[:d:Q111049882]] || Schule Uferstraße 10 || Schulgebäude || Uferstraße 10 || 53.570970 || 10.039040 || 7.46
+|-
+| 69 || 22937 || Volksschule Lämmersieth (Gebäude) || Schulgebäude || Adlerstraße 30<br />Lämmersieth 72<br />Lämmersieth 72a || 53.587753 || 10.060509 || [[:d:Q66317581]] || Schule Lämmersieth || Grundschule ||  || 53.587860 || 10.060670 || 15.97
+|-
+| 70 || 23017 || New-York Hamburger Gummi-Waaren Compagnie, ehem. (Zinnschmelze) || Fabrikgebäude (Zinnschmelze) || Maurienstraße o.Nr. westlich von Nr. 19 || 53.585813 || 10.044954 || [[:d:Q25392126]] || Zinnschmelze || Kulturzentrum ||  || 53.585806 || 10.044889 || 4.38
+|-
+| 71 || 23330 || Kirche am Rockenhof - Kirchengebäude || Kirchengebäude || Rockenhof o.Nr. nördlich von Nr. 5 || 53.650831 || 10.164902 || [[:d:Q1742778]] || Kirche am Rockenhof || Kirchengebäude ||  || 53.650833 || 10.164722 || 11.86
+|-
+| 72 || 23457 ||  || Reihenhaus || Stübekamp 65 || 53.633981 || 10.050660 || [[:d:Q18287382]] || Haus Stübekamp 75 || Reihenhaus ||  || 53.633830 || 10.050824 || 19.99
+|-
+| 73 || 23652 || St.-Lukas-Kirche || Kirchengebäude || Erdkampsweg o.Nr. neben Nr. 104 || 53.634089 || 10.018791 || [[:d:Q1422348]] || St. Lukas || Kirchengebäude ||  || 53.634167 || 10.018889 || 10.79
+|-
+| 74 || 23706 ||  || Reihenhaus || Kornweg 17a || 53.634016 || 10.053357 || [[:d:Q18287379]] || Haus Kornweg 17E || Gebäude ||  || 53.633903 || 10.053511 || 16.17
+|-
+| 75 || 23707 ||  || Reihenhaus || Kornweg 17b || 53.633982 || 10.053389 || [[:d:Q18287379]] || Haus Kornweg 17E || Gebäude ||  || 53.633903 || 10.053511 || 11.92
+|-
+| 76 || 23708 ||  || Reihenhaus || Kornweg 17c || 53.633956 || 10.053441 || [[:d:Q18287379]] || Haus Kornweg 17E || Gebäude ||  || 53.633903 || 10.053511 || 7.49
+|-
+| 77 || 23709 ||  || Reihenhaus || Kornweg 17d || 53.633923 || 10.053472 || [[:d:Q18287379]] || Haus Kornweg 17E || Gebäude ||  || 53.633903 || 10.053511 || 3.40
+|-
+| 78 || 23710 ||  || Reihenhaus || Kornweg 17e || 53.633883 || 10.053484 || [[:d:Q18287379]] || Haus Kornweg 17E || Gebäude ||  || 53.633903 || 10.053511 || 2.85
+|-
+| 79 || 23711 ||  || Reihenhaus || Kornweg 17g || 53.633818 || 10.053547 || [[:d:Q18287379]] || Haus Kornweg 17E || Gebäude ||  || 53.633903 || 10.053511 || 9.75
+|-
+| 80 || 23712 ||  || Reihenhaus || Kornweg 17h || 53.633781 || 10.053589 || [[:d:Q18287379]] || Haus Kornweg 17E || Gebäude ||  || 53.633903 || 10.053511 || 14.52
+|-
+| 81 || 23713 ||  || Reihenhaus || Kornweg 17f || 53.633850 || 10.053516 || [[:d:Q18287379]] || Haus Kornweg 17E || Gebäude ||  || 53.633903 || 10.053511 || 5.90
+|-
+| 82 || 23883 ||  || Reihenhaus || Stübekamp 67 || 53.633948 || 10.050689 || [[:d:Q18287382]] || Haus Stübekamp 75 || Reihenhaus ||  || 53.633830 || 10.050824 || 15.87
+|-
+| 83 || 23884 ||  || Reihenhaus || Stübekamp 69 || 53.633922 || 10.050739 || [[:d:Q18287382]] || Haus Stübekamp 75 || Reihenhaus ||  || 53.633830 || 10.050824 || 11.67
+|-
+| 84 || 23885 ||  || Reihenhaus || Stübekamp 71 || 53.633883 || 10.050748 || [[:d:Q18287382]] || Haus Stübekamp 75 || Reihenhaus ||  || 53.633830 || 10.050824 || 7.74
+|-
+| 85 || 23886 ||  || Reihenhaus || Stübekamp 73 || 53.633850 || 10.050778 || [[:d:Q18287382]] || Haus Stübekamp 75 || Reihenhaus ||  || 53.633830 || 10.050824 || 3.76
+|-
+| 86 || 23888 ||  || Reihenhaus || Stübekamp 77 || 53.633784 || 10.050838 || [[:d:Q18287382]] || Haus Stübekamp 75 || Reihenhaus ||  || 53.633830 || 10.050824 || 5.20
+|-
+| 87 || 23889 ||  || Reihenhaus || Stübekamp 79 || 53.633750 || 10.050868 || [[:d:Q18287382]] || Haus Stübekamp 75 || Reihenhaus ||  || 53.633830 || 10.050824 || 9.36
+|-
+| 88 || 24659 || St.-Joseph-Kirche || Kirchengebäude || Witthöfftstraße 1 || 53.573302 || 10.074433 || [[:d:Q1381959]] || St. Joseph || Pfarrkirche ||  || 53.573292 || 10.074420 || 1.40
+|-
+| 89 || 26224 ||  || Landhaus || Billwerder Billdeich 72 || 53.520286 || 10.119660 || [[:d:Q76633440]] || Deutsches Maler- und Lackierermuseum || Landhaus || Billwerder Billdeich 72, 22113 Hamburg || 53.520267 || 10.119644 || 2.36
+|-
+| 90 || 26226 ||  || Wohnwirtschaftsgebäude || Billwerder Billdeich 256 || 53.503162 || 10.138257 || [[:d:Q115311294]] || Landhaus Billhof || Landhaus || Billwerder Billdeich 256, 21033 Hamburg || 53.503179 || 10.138230 || 2.60
+|-
+| 91 || 26242 || Grenzstein B225 || Grenzstein || Herzog-Carl-Friedrich-Platz o.Nr. || 53.490852 || 10.207582 || [[:d:Q34378841]] || Filmeck Lichtspielhaus || abgegangenes Bauwerk || Alte Holstenstraße 50, 21031 Hamburg || 53.490990 || 10.207510 || 16.08
+|-
+| 92 || 26266 || Friedrich-Ebert-Gymnasium/Friedrich-Ebert-Halle || Schulgebäude/Veranstaltungsgebäude || Alter Postweg 30<br />Alter Postweg 36<br />Alter Postweg 38<br />Petersweg 2<br />Petersweg 4<br />Petersweg 6 || 53.465587 || 9.964987 || [[:d:Q882453]] || Friedrich-Ebert-Gymnasium || Gymnasium || Alter Postweg 30–38 || 53.465469 || 9.964919 || 13.83
+|-
+| 93 || 26509 || Dankeskirche Rahlstedt || Kirchengebäude || Kielkoppelstraße 53 || 53.589318 || 10.180426 || [[:d:Q101513784]] || Dankeskirche || Kirchengebäude ||  || 53.589306 || 10.180444 || 1.78
+|-
+| 94 || 26843 || Martin-Luther-King-Kirche || Kirchengebäude/ Gemeindezentrum || Gründgensstraße 28 || 53.610046 || 10.059440 || [[:d:Q39839480]] || Martin-Luther-King-Kirche (Steilshoop) || Kirchengebäude || Gründgensstraße 28, 22309 Hamburg || 53.610159 || 10.059422 || 12.63
+|-
+| 95 || 26948 ||  || Schmiede || Karnapp 17 || 53.463485 || 9.984532 || [[:d:Q86828291]] || Spirituosen- und Likörfabrik Louis Hilke || Unternehmen ||  || 53.463528 || 9.984333 || 14.00
+|-
+| 96 || 26949 ||  || Wohngebäude || Karnapp 16 || 53.463431 || 9.984407 || [[:d:Q86828291]] || Spirituosen- und Likörfabrik Louis Hilke || Unternehmen ||  || 53.463528 || 9.984333 || 11.82
+|-
+| 97 || 26952 ||  || Etagenhaus || Karnapp 14 || 53.463520 || 9.984130 || [[:d:Q86828291]] || Spirituosen- und Likörfabrik Louis Hilke || Unternehmen ||  || 53.463528 || 9.984333 || 13.50
+|-
+| 98 || 26953 ||  || Wohngeschäftshaus || Karnapp 15 || 53.463545 || 9.984267 || [[:d:Q86828291]] || Spirituosen- und Likörfabrik Louis Hilke || Unternehmen ||  || 53.463528 || 9.984333 || 4.79
+|-
+| 99 || 27523 || St.-Johannis-Kirche || Kirchengebäude || Bremer Straße 9 || 53.457807 || 9.981092 || [[:d:Q2319467]] || St. Johannis || Kirchengebäude ||  || 53.457778 || 9.981111 || 3.49
+|-
+| 100 || 27636 || Bahnhofsempfangsgebäude der Marschenbahn || Bahnhofsgebäude || Oortkatenweg 81 || 53.459337 || 10.109516 || [[:d:Q115253992]] || Bahnhof Oortkaten || ehemaliger Bahnhof ||  || 53.459362 || 10.109576 || 4.87
+|-
+| 101 || 27851 ||  || Etagenhaus || Karnapp 13 || 53.463542 || 9.984044 || [[:d:Q86828291]] || Spirituosen- und Likörfabrik Louis Hilke || Unternehmen ||  || 53.463528 || 9.984333 || 19.24
+|-
+| 102 || 27854 || Portal des zerstörten Gebäudes Harburger Schloßstraße 3 ("Alter Ratskeller") || Portal || Knoopstraße 12<br />Knoopstraße 14 || 53.458978 || 9.977443 || [[:d:Q1584947]] || Harburger Theater || Theatergebäude ||  || 53.459028 || 9.977306 || 10.66
+|-
+| 103 || 28090 || Wasserturm Harburg || Wasserturm || Groß-Sand 4 || 53.503438 || 9.985122 || [[:d:Q2551784]] || Wasserturm Groß Sand || Wasserturm ||  || 53.503444 || 9.985056 || 4.45
+|-
+| 104 || 28186 ||  || Schulgebäude || Sinstorfer Kirchweg 2 || 53.424132 || 9.979998 || [[:d:Q108311059]] || Sinstorfer Kirchweg 2 || Schulgebäude || Sinstorfer Kirchweg 2 || 53.424100 || 9.980070 || 5.95
+|-
+| 105 || 28207 || Kriegerdenkmal 1914/18 || Kriegerdenkmal (Kriegerdenkmal 1914/ 18) || Lürader Weg o.Nr. gegenüber dem Schulhaus || 53.435673 || 9.964759 || [[:d:Q114152333]] || Lürader Weg 1 || Gebäude || Lürader Weg 1 || 53.435630 || 9.964480 || 19.11
+|-
+| 106 || 28515 || Kriegerdenkmal Estedeich || Kriegerdenkmal (Kriegerdenkmal 1914/ 18) || Estedeich 102 || 53.535527 || 9.779967 || [[:d:Q106086537]] || Alte Schule Cranz || Schulgebäude || Estedeich 102 || 53.535510 || 9.780110 || 9.64
+|-
+| 107 || 28711 ||  || Schule (Volksschule) || Heußweg 65<br />Telemannstraße 10 || 53.578268 || 9.952655 || [[:d:Q66592721]] || Schule Telemannstraße || Schulgebäude ||  || 53.578360 || 9.952840 || 15.95
+|-
+| 108 || 29100 || Hilfsschule Bundesstraße, ehem. (Astrid-Lindgen-Schule) || Einfriedung || Bundesstraße 94 || 53.572511 || 9.968535 || [[:d:Q106229543]] || Schulstandort Bundesstraße 94 || Schule in öffentlicher Trägerschaft || Bundesstraße 94 || 53.572450 || 9.968440 || 9.24
+|-
+| 109 || 29208 || Bieber-Haus || Kontorhaus || Ernst-Merck-Straße 9<br />Heidi-Kabel-Platz 1<br />Heidi-Kabel-Platz 2<br />Kirchenallee 19 || 53.554654 || 10.007239 || [[:d:Q61409678]] || Bieberhaus || Häuserblock ||  || 53.554660 || 10.007310 || 4.74
+|-
+| 110 || 29211 || Australhaus || Kontorhaus || Poststraße 17<br />Poststraße 19 || 53.553395 || 9.989389 || [[:d:Q14906769]] || Hanseviertel || Einkaufszentrum ||  || 53.553355 || 9.989585 || 13.74
+|-
+| 111 || 29272 || Volksschule Langenfort, ehem. (Griechisches Lyzeum) || Schulgebäude; Turnhalle (Anbau) || Langenfort 68<br />Langenfort 70 || 53.599269 || 10.048760 || [[:d:Q84311026]] || Schule Langenfort || Schulgebäude ||  || 53.599320 || 10.048780 || 5.82
+|-
+| 112 || 29494 || Elbchaussee 268 || Villa; Zubehör || Elbchaussee 268 || 53.547289 || 9.878319 || [[:d:Q19851684]] || Generalkonsulat der Volksrepublik China in Hamburg || Generalkonsulat ||  || 53.547361 || 9.878472 || 12.92
+|-
+| 113 || 29530 || Heimhuder Straße 73 || Villa || Heimhuder Straße 73 || 53.569152 || 9.992208 || [[:d:Q96238262]] || Villa Süchting || Villa || Heimhuder Straße 71, 20148 Hamburg || 53.569028 || 9.992361 || 17.13
+|-
+| 114 || 29574 || Schule Schwenckestraße || Schule (Volksschule) || Schwenckestraße 100<br />Schwenckestraße 98 || 53.580422 || 9.951702 || [[:d:Q102076317]] || Schwenckestraße 98-100 || Schulgebäude || Schwenckestraße 98-100 || 53.580460 || 9.951590 || 8.52
+|-
+| 115 || 29577 || Curschmannstraße 39, Gymnasium Curschmannstraße, Schulgebäude mit historischer Umfriedungsmauer || Schulkomplex || Gymnasium Curschmannstraße || 53.587832 || 9.975950 || [[:d:Q113840251]] || Schule Curschmannstraße || Schulgebäude || Curschmansstraße 39 || 53.587810 || 9.976070 || 8.29
+|-
+| 116 || 29620 || Schule Ballerstaedtweg || Schulanlage || Ballerstaedtweg 1 || 53.612062 || 10.034102 || [[:d:Q83852784]] || Schule Ballerstaedtweg || Schulgebäude ||  || 53.611930 || 10.034080 || 14.76
+|-
+| 117 || 29745 || Bahnhofsempfangsgebäude Kiebitzdeich || Bahnhofsgebäude; Toilettenhaus || Kiebitzdeich 198 || 53.410653 || 10.236492 || [[:d:Q115254087]] || Bahnhof Kiebitzbraak || ehemaliger Bahnhof ||  || 53.410686 || 10.236457 || 4.34
+|-
+| 118 || 29939 || Alter Wall 2, 8 (nicht konstituierend), 10, 12 (Straßenfassade), 20 (Straßenfassade), 22 (Straßenfassade), 32 (3 Fassaden und Staffelgeschossfassaden); Rathausmarkt 2 ||  || Alter Wall / Rathausmarkt || 53.550800 || 9.990990 || [[:d:Q877566]] || Bucerius Kunst Forum || Kunstmuseum ||  || 53.550700 || 9.991040 || 11.61
+|-
+| 119 || 30012 || Herrengraben 4, Ludwig-Erhard-Straße 10, Michaelisstraße 3-5, Michaelisstraße o. Nr. (Kirche St. Ansgarund St. Bernhard und Katholische Akademie) ||  || Kirche St. Ansgar und St. Bernhard und Katholische Akademie Herrengraben / Ludwig-Erhard-Straße / Michaelisstraße || 53.548974 || 9.982928 || [[:d:Q1746647]] || Kleiner Michel || Pfarrkirche ||  || 53.549130 || 9.982970 || 17.58
+|-
+| 120 || 30107 || Poolstraße 11-14 || Synagoge; Wohnen || Poolstraße 11-14 || 53.554251 || 9.980573 || [[:d:Q21170309]] || Israelitischer Tempel Poolstraße || Synagoge ||  || 53.554167 || 9.980556 || 9.45
+|-
+| 121 || 30144 || Slomanstieg 1, 3, Slomanstraße 10, 12, Wilhelmsburger Straße 15, Schulgebäude mit Ausstattung (u.a. Wandgemälde in der Gymnastikhalle) und Einfriedigung || Einfriedung; Schulgebäude || Schule Slomanstieg || 53.526707 || 10.019375 || [[:d:Q84411414]] || Schule auf der Veddel || weiterführende Schule || Slomanstieg 1 – 3, 20539 Hamburg || 53.526830 || 10.019520 || 16.72
+|-
+| 122 || 30164 || Caspar-Voght-Straße 54, Quellenweg 18, ehem. Oberschule für Mädchen, Schulgebäude mit seinem plastischen Schmuck und weiteren Dekorelementen einschließlich der Trinkbrunnen, dem Wandgemälde "Orpheus mit den Tieren" von Anita Rée sowie der Einfriedung und der Hoffläche ||  || Schule Caspar-Vogt-Straße / Quellenweg || 53.561747 || 10.061495 || [[:d:Q1610621]] || Ballettschule des Hamburg Ballett || Ballettschule ||  || 53.561667 || 10.061389 || 11.36
+|-
+| 123 || 30296 || Schulterblatt 75, 79/ 79a, 81/ 83 || Wohn- und Geschäftsgebäude || Schulterblatt 75, 79- 83 || 53.562541 || 9.960868 || [[:d:Q113996384]] || SchanzenKino 73 || Programmkino ||  || 53.562380 || 9.960970 || 19.14
+|-
+| 124 || 30371 || Bleickenallee 1-3, Fischers Allee 63, Fischers Allee südlich von Nr. 63, ehem. Realschule Altona, Schulgebäude mit Turnhalle ||  || Realschule Altona Bleickenallee / Fischers Allee || 53.550335 || 9.921762 || [[:d:Q56426045]] || Rudolf-Steiner-Schule Altona || Schulgebäude ||  || 53.550490 || 9.921850 || 18.21
+|-
+| 125 || 30449 || Sieberlingstraße 7, Hasselmannstraße 3 mit Einfriedung, Hasselmannstraße 10/ 10a, Sieberlingstraße 6 mit Einfriedung und vier Windbäumen, Sieberlingstraße 10 ||  || Hasselmannstraße / Sieberlingstraße || 53.551445 || 9.844515 || [[:d:Q111600518]] || Sieberlingstraße 7 || Gebäude || Sieberlingstraße 7 || 53.551380 || 9.844290 || 16.54
+|-
+| 126 || 30496 || Felix-Dahn-Straße 3 und 7, Hohe Weide 16 mit Vorplatz und straßenseitiger Befriedung an der Hohen Weide || Schulgebäude || Schul- und Lehrgebäude Felix-Dahn-Straße / Hohe Weide || 53.570775 || 9.966338 || [[:d:Q106224098]] || Lehrerinnenseminar Hohe Weide || Universitätsgebäude || Felix-Dahn-Straße 3 || 53.570820 || 9.966130 || 14.63
+|-
+| 127 || 30536 || Waitzstraße 31-35 ||  || Waitzstraße 31-35 || 53.559233 || 9.880002 || [[:d:Q105714307]] || Schule Waitzstraße || Schulgebäude || Waitzstraße 31 || 53.559180 || 9.880170 || 12.57
+|-
+| 128 || 30555 || Bundesstraße 94, Schule und Einfriedung ||  || Schule Bundesstraße 94 || 53.572510 || 9.968666 || [[:d:Q106229543]] || Schulstandort Bundesstraße 94 || Schule in öffentlicher Trägerschaft || Bundesstraße 94 || 53.572450 || 9.968440 || 16.36
+|-
+| 129 || 30619 || Heußweg 65, Telemannstraße 10, Schulgebäude mit Turnhalle, Schulhofmauer, Bauschmuck || Schule || Schule Telemannstraße || 53.578278 || 9.952681 || [[:d:Q66592721]] || Schule Telemannstraße || Schulgebäude ||  || 53.578360 || 9.952840 || 13.92
+|-
+| 130 || 30749 || Ludolfstraße 41b, 43, 53; Tewessteg 4, 8, 10 ||  || Ludolfstraße 41b, 43, 53; Tewessteg 4, 8, 10 || 53.593064 || 9.992598 || [[:d:Q1555234]] || Alma Hoppe || Cabaret ||  || 53.593056 || 9.992667 || 4.63
+|-
+| 131 || 30905 || Hamburger Straße 1 (nicht konstituierend), 3, 5 (nicht konstituierend), 7 (nicht konstituierend), 9, 11, 15; Humboldtstraße 1; Winterhuder Weg 2 (nicht konstituierend), 4 (nicht konstituierend) 6, 8, 10 (nicht konstituierend) ||  || EKZ Mundsburg, Hamburger Straße 1-15, 4-10 || 53.571039 || 10.027285 || [[:d:Q658720]] || U-Bahnhof Mundsburg || U-Bahnhof ||  || 53.571111 || 10.027500 || 16.32
+|-
+| 132 || 30935 || Krausestraße 53; Lothringer Straße 1; Schulgebäude mit Einfriedigung || Schulgebäude || Gymnasium Krausestraße || 53.580677 || 10.057585 || [[:d:Q1335750]] || Schule Krausestraße || Ganztagsschule || Krausestraße 53 || 53.580833 || 10.057500 || 18.28
+|-
+| 133 || 31068 || Bramfelder Dorfplatz 1, 3, Schulgebäude und Rathaus ||  || Bramfelder Dorfplatz 1-3 || 53.614456 || 10.076682 || [[:d:Q108105595]] || Bramfelder Dorfplatz 1 || Bürogebäude || Bramfelder Dorfplatz 1 || 53.614560 || 10.076630 || 12.07
+|-
+| 134 || 31195 || Reeseberg 8, Winsener Straße 27, St. Franz-Joseph-Kirche in Harburg und Stiftsgebäude St.-Vinzenz-Haus ||  || St.-Franz-Joseph-Kirche in Harburg || 53.449822 || 9.988087 || [[:d:Q111142048]] || Reeseberg 8 || katholische Bekenntnisschule || Reeseberg 8 || 53.449790 || 9.988350 || 17.79
+|-
+| 135 || 39261 || St.-Pankratius-Kirche || Kirche || Organistenweg o.Nr. nördlich von Nr. 7 || 53.520741 || 9.810870 || [[:d:Q1481182]] || St. Pankratius || Pfarrkirche || Organistenweg || 53.520600 || 9.810720 || 18.57
+|-
+| 136 || 43217 || Westlicher Fahnenmast auf dem Rathausmarkt || Fahnenmast || Rathausmarkt o.Nr. || 53.550689 || 9.992916 || [[:d:Q28978939]] || Dominikanerkloster Hamburg || religiöse Gemeinschaft ||  || 53.550833 || 9.993056 || 18.51
+|-
+| 137 || 43218 || Östlicher Fahnenmast auf dem Rathausmarkt || Fahnenmast || Rathausmarkt o.Nr. || 53.550685 || 9.993019 || [[:d:Q28978939]] || Dominikanerkloster Hamburg || religiöse Gemeinschaft ||  || 53.550833 || 9.993056 || 16.65
+|-
+| 138 || 43219 || Ausgangsbauwerke der U-Bahn südöstlich des Rathauses || Ausgangsbauwerke (U-Bahn) || Rathausmarkt o.Nr. || 53.550207 || 9.993428 || [[:d:Q831350]] || U-Bahnhof Rathaus || U-Bahnhof ||  || 53.550278 || 9.993611 || 14.44
+|-
+| 139 || 43467 ||  || Schulgebäude || Laeiszstraße 12 || 53.559054 || 9.969566 || [[:d:Q96472977]] || Schule Laeiszstraße || Schulgebäude || Laeiszstraße 12 || 53.559090 || 9.969670 || 7.95
+|-
+| 140 || 43504 || Schule Am Brink (ehem.), Hauptgebäude || Schulgebäude || Am Brink 7 || 53.485182 || 10.217246 || [[:d:Q56426028]] || Rudolf-Steiner-Schule Bergedorf || Waldorfschule ||  || 53.485030 || 10.217170 || 17.65
+|-
+| 141 || 43535 || Schule Grotefendweg (Hauptgebäude) || Schulgebäude || Grotefendweg 20 || 53.566985 || 9.829695 || [[:d:Q106013290]] || Schule Grotefendweg || Schule in öffentlicher Trägerschaft || Grotefendweg 20 || 53.566970 || 9.829720 || 2.34
+|-
+| 142 || 43576 || Gymnasium Curschmannstraße (Schulgebäude) || Schulgebäude || Curschmannstraße 39 || 53.587773 || 9.976036 || [[:d:Q113840251]] || Schule Curschmannstraße || Schulgebäude || Curschmansstraße 39 || 53.587810 || 9.976070 || 4.69
+|-
+| 143 || 43627 || Christianeum (Schulgebäude) || Schulgebäude mit Portal || Otto-Ernst-Straße 34 || 53.557769 || 9.873271 || [[:d:Q317150]] || Christianeum || Gymnasium || Otto-Ernst-Straße 34 || 53.557720 || 9.873280 || 5.48
+|-
+| 144 || 43630 || Heilige Dreieinigkeitskirche (Kirchturm) || Kirchturm || St. Georgs Kirchhof o.Nr. || 53.556360 || 10.007880 || [[:d:Q1308438]] || Hl. Dreieinigkeits-Kirche || Kirchengebäude ||  || 53.556389 || 10.007778 || 7.48
+|-
+| 145 || 43639 || St.-Olaf-Kirche (Kirchengebäude) || Kirchengebäude || Speckenreye 41 || 53.553569 || 10.098331 || [[:d:Q104247467]] || St. Olaf || Kirchengebäude ||  || 53.553583 || 10.098222 || 7.37
+|-
+| 146 || 43642 || Schule Rhiemsweg || Schulgebäude || Rhiemsweg 6 || 53.554454 || 10.075269 || [[:d:Q99769207]] || Schule Rhiemsweg || Schulgebäude || Rhiemsweg 6 || 53.554390 || 10.075150 || 10.61
+|-
+| 147 || 43663 || Aueschule Finkenwerder; Schule Ostfrieslandstraße (Schulgebäude, erste Erweiterung) || Schulgebäude || Ostfrieslandstraße 91 || 53.527664 || 9.885253 || [[:d:Q106558963]] || Aueschule Finkenwerder || Schulgebäude || Ostfrieslandstraße 91 || 53.527660 || 9.885130 || 8.15
+|-
+| 148 || 43683 || Altes Allgemeines Krankenhaus Altona, OP-Bunker || Bunkerhaus (OP-Bunker) || Hospitalstraße o.Nr. nordöstlich von Nr. 109 || 53.556878 || 9.948972 || [[:d:Q105221992]] || Hochbunker August-Lütgens-Park || Hochbunker ||  || 53.556870 || 9.948980 || 1.03
+|-
+| 149 || 43728 || Schule Moortwiete in der Daimlerstraße (Schulgebäude) || Schulgebäude || Daimlerstraße 40<br />Daimlerstraße 42 || 53.559131 || 9.921072 || [[:d:Q96050422]] || Schule Daimlerstraße || Schulgebäude || Daimlerstraße 40/42 || 53.559140 || 9.921080 || 1.13
+|-
+| 150 || 43790 ||  || Pastorat || Roosens Weg 28 || 53.553464 || 9.892337 || [[:d:Q1087320]] || Christuskirche Othmarschen || Pfarrkirche ||  || 53.553389 || 9.892611 || 19.96
+|-
+| 151 || 43805 || Gasthausanlage Süllbergsterrasse 2 (Gasthaus mit Saal und Aussichtsturm) || Gasthaus/ Ausflugslokal <Gasthaus/ Hotel; Saalbau mit Konzert- und Ballsaal/ Aussichtsturm> || Süllbergsterrasse 2 || 53.559585 || 9.800862 || [[:d:Q1014710]] || Burg auf dem Süllberg || Burg ||  || 53.559650 || 9.800861 || 7.23
+|-
+| 152 || 43809 || Schule Schulkamp (Schulgebäude) || Schulgebäude || Schulkamp 3 || 53.552612 || 9.846896 || [[:d:Q105755159]] || Schule Schulkamp || Schulgebäude || Schulkamp 1-3 || 53.552600 || 9.847000 || 7.00
+|-
+| 153 || 43848 || Synagoge Hohe Weide (Synagoge mit Gemeindezentrum) || Synagoge || Hohe Weide 34 || 53.572889 || 9.969121 || [[:d:Q2375432]] || Synagoge Hohe Weide || Synagoge ||  || 53.573034 || 9.969154 || 16.28
+|-
+| 154 || 43895 || Russisch-orthodoxe Kirche des seligen Prokop (Kirchengebäude) || Kirchengebäude || Hagenbeckstraße 10 || 53.584205 || 9.946983 || [[:d:Q1377140]] || Kirche des heiligen Prokop || orthodoxe Kirche ||  || 53.584201 || 9.946925 || 3.85
+|-
+| 155 || 43896 || russisch-orthodoxe Kirche des seligen Prokop (Gemeindehaus) || Gemeindehaus || Hagenbeckstraße 10 || 53.584376 || 9.946915 || [[:d:Q1377140]] || Kirche des heiligen Prokop || orthodoxe Kirche ||  || 53.584201 || 9.946925 || 19.49
+|-
+| 156 || 43937 || Epiphanienkirche Winterhude (Kirchengebäude) || Kirchengebäude || Wiesendamm o.Nr. || 53.588645 || 10.022881 || [[:d:Q51832005]] || Epiphanienkirche (Hamburg-Winterhude) || Kirchengebäude ||  || 53.588610 || 10.022830 || 5.15
+|-
+| 157 || 43954 || Hauptfriedhof Ohlsdorf (Kapelle 13) || Friedhofskapelle || Fuhlsbüttler Straße 756<br />Fuhlsbüttler Straße 758 || 53.624491 || 10.077313 || [[:d:Q46337296]] || Kapelle 13 || Kirchengebäude ||  || 53.624440 || 10.077250 || 7.03
+|-
+| 158 || 43976 || Hauptfriedhof Ohlsdorf (Wasserturm) || Wasserturm || Fuhlsbüttler Straße 756<br />Fuhlsbüttler Straße 758 || 53.619793 || 10.049927 || [[:d:Q2551829]] || Wasserturm Ohlsdorfer Friedhof || Wasserturm ||  || 53.619778 || 10.049889 || 3.03
+|-
+| 159 || 44013 || Schule Ratsmühlendamm (Schule) || Schule || Ratsmühlendamm 39 || 53.626182 || 10.020936 || [[:d:Q66220777]] || Schule Ratsmühlendamm || Grundschule ||  || 53.626200 || 10.020940 || 2.02
+|-
+| 160 || 44206 || Gemeindezentrum mit Kirche, Gemeinderäumen, Pastorat, Wohnungen und Vorplatz || Gemeindezentrum || Erlöserkirche || 53.568251 || 9.955248 || [[:d:Q34378763]] || Centraltheater || Kino || Eimsbütteler Chaussee 63, 20259 Hamburg || 53.568160 || 9.955500 || 19.49
+|-
+| 161 || 44207 || Erlöserkirche (Kirchengebäude) || Kirche || Eimsbütteler Chaussee 67 || 53.568285 || 9.955309 || [[:d:Q34378763]] || Centraltheater || Kino || Eimsbütteler Chaussee 63, 20259 Hamburg || 53.568160 || 9.955500 || 18.79
+|-
+| 162 || 44276 || Güterbahnhof / Bahnbetriebswerk Altona (Bahnwasserturm) || Wasserturm/ Bahngebäude || Harkortstraße o.Nr. westlich von Nr. 125 || 53.560140 || 9.934933 || [[:d:Q1383885]] || Altonaer Bahnwasserturm || Wasserturm ||  || 53.560194 || 9.934889 || 6.72
+|-
+| 163 || 44822 || St.-Maximilian-Kolbe-Kirche || Kirchengebäude || Krieterstraße 9 || 53.498185 || 10.013425 || [[:d:Q16218469]] || St. Maximilian Kolbe || Filialkirche ||  || 53.498056 || 10.013333 || 15.63
+|-
+| 164 || 44860 || Verlagsgebäude Gruner und Jahr || Verlagsgebäude || Am Baumwall 11 || 53.545388 || 9.979440 || [[:d:Q19310793]] || Verlagsgebäude Gruner + Jahr || Bürogebäude ||  || 53.545280 || 9.979362 || 13.08
+|-
+| 165 || 44883 ||  || Garage || Am Stein 15<br />Am Stein 45<br />Borstels Ende 6h<br />Övern Block 14<br />Stübeheide 140o<br />Stübeheide 142o<br />Stübekamp 100<br />Stübekamp 19<br />Stübekamp 20<br />Stübekamp 39<br />Stübekamp 40<br />Stübekamp 79<br />Stübekamp 80<br />Stübekamp 99 || 53.633936 || 10.053365 || [[:d:Q18287379]] || Haus Kornweg 17E || Gebäude ||  || 53.633903 || 10.053511 || 10.31
+|}

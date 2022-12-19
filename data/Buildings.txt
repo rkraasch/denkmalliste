@@ -1,0 +1,236 @@
+Q114509488;St.-Annen-Kirche;abgegangenes Bauwerk;53.547519;10.022467
+Q84562959;Schule Oppelner Straße;Schulgebäude;53.57339;10.14446
+Q74589490;Koppel 66 – Haus für Kunst und Handwerk;Gebäude;53.558418;10.011332
+Q110768291;Campus Bergedorf;Campus;53.49426111111111;10.19973888888889
+Q2314891;Spökelburg;Burg;53.535666;10.110029
+Q1739852;Markthalle Hamburg;Gebäudekomplex;53.54888889;10.00583333
+Q34378630;Alabama Kino;Kino;53.58318;10.02069
+Q96196008;Schule Lohmühlen;Schulgebäude;53.55813;10.0162
+Q109004347;Schule Neuland;Schulgebäude;53.4688;10.0375
+Q820252;Bergstedter Kirche;Kirchengebäude;53.67219444;10.12633333
+Q2466074;U-Bahnhof Steinfurther Allee;U-Bahnhof;53.541;10.1392
+Q14370908;Elbe-Einkaufszentrum;Einkaufszentrum;53.57055556;9.86222222
+Q63439545;Blohm + Voss-Werft;Werft;53.539;9.962
+Q104812793;Eifflerstraße 3;Gebäude;53.56132;9.95674
+Q101421672;Petruskirche;Kirchengebäude;53.588806;9.952861
+Q1803869;Landsitz Gustav Godeffroy;Villa;53.55835;9.822511
+Q56878399;Hafenpolizeiwache No 2;Polizeidienststelle;53.543107184096584;9.98308518371338
+Q2465872;U-Bahnhof Eppendorfer Baum;U-Bahnhof;53.58361111;9.985
+Q59660033;Immanuelkirche (Hamburg-Veddel);Kirchengebäude;53.5255;10.0176
+Q113453212;Schule Fabriciusstraße;Schulgebäude;53.60502;10.06812
+Q34378859;Gondel Filmtheater;abgegangenes Bauwerk;53.58958;10.00036
+Q34379177;Urania Filmbuhne;abgegangenes Bauwerk;53.5573;9.99102
+Q2466005;U-Bahnhof Mümmelmannsberg;U-Bahnhof;53.527975;10.149951
+Q627411;Arbeitserziehungslager Hamburg Langer Morgen;Arbeitserziehungslager;53.50222222;9.96194444
+Q73391939;Schule Sethweg;Schulgebäude;53.63383;9.94339
+Q50201441;Rolf-Liebermann-Studio;Tonstudio;53.5772922;9.9912985
+Q102350327;Schule Fahrenkrön;Schulgebäude;53.6163;10.09655
+Q1339302;Empire Riverside Hotel;Hotel;53.54730556;9.96333333
+Q1650147;U-Bahnhof Ritterstraße;U-Bahnhof;53.56722222;10.04472222
+Q105822402;Schule Max-Eichholz-Ring;Schulgebäude;53.50708;10.21705
+Q110923952;Hochbunker Heußweg 114;Luftschutzbunker;53.58015;9.95755
+Q105164959;Thedestraße 39;Schulgebäude;53.55279;9.94839
+Q112136953;Stadtteilschule Niendorf, Hauptstandort;Schulgebäude;53.63358888888889;9.951838888888888
+Q96143223;Schule Wesperloh;Schulgebäude;53.57559;9.86145
+Q64577227;Paul-Gerhardt-Kirche;Kirchengebäude;53.561667;9.921944
+Q14906769;Hanseviertel;Einkaufszentrum;53.5533547;9.9895854
+Q110226251;Chrysanderstraße 4;Schulgebäude;53.48736;10.21618
+Q106519866;Berufsschule Dratelnstraße 28;Berufsschule;53.4987;10.00312
+Q21037163;Eingangsgebäude der Margarinefabrik Voss;Gebäude;53.59166718;10.05638885
+Q101007213;Schule Rahlstedter Höhe;Schulgebäude;53.60023;10.13116
+Q3782339;U-Bahnhof Habichtstraße;U-Bahnhof;53.59361111;10.05194444
+Q34379008;Liliencron-Theater;Kino;53.56416;9.88041
+Q90500071;Georg-Kerschensteiner-Schule;Schulgebäude;53.45404;9.9737
+Q1746647;Kleiner Michel;Pfarrkirche;53.54913;9.98297
+Q15814494;Cranz’sches Haus;Gebäude;53.54844;9.995479
+Q1572914;Hamburg Lübecker Bahnhof;Bahnhof;53.5503;10.0186
+Q106188753;Deichtor-Center;Gebäude;53.54705630668;10.003767568345
+Q49496651;Große Wallanlagen;Wallanlage;53.5501;9.97215
+Q3238460;Binnenalster;Lagune;53.555;9.995
+Q108320018;Schule Voßberg;Volksschule;53.59194;10.01069
+Q871581;Ernst-Barlach-Haus;Kunstmuseum;53.55361111;9.8675
+Q38643723;Helios Mariahilf Klinik Hamburg;Geschäftsbetrieb;53.47074;9.9380801
+Q2551829;Wasserturm Ohlsdorfer Friedhof;Wasserturm;53.61977778;10.04988889
+Q14906989;Krohnstiegtunnel;Straßentunnel;53.647735;9.9817121
+Q108922262;Schule Fischbeker Moor;Schulgebäude;53.47397;9.83728
+Q1912003;Schule Bahrenfelder Steindamm;Schulgebäude;53.5678526;9.9118726
+Q732030;Asklepios Klinikum Harburg;Krankenhaus;53.460393;9.949247
+Q26794477;Theater das Zimmer;Theatergebäude;53.549702;10.089395
+Q109673843;Haus Warwisch;Kinder- und Jugendfreizeiteinrichtung;53.42702;10.13221
+Q65999288;Gymnasium Dörpsweg;Schulgebäude;53.608501;9.9129907
+Q19601658;Bahnhof Hörgensweg;Bahnhof;53.617118;9.903541
+Q106766943;Schule Angerstraße 7;Schulgebäude;53.55962;10.03012
+Q67776584;Rudolf-Roß-Grundschule;Schulgebäude;53.5525;9.97815
+Q26794478;Theater in der Washingtonallee;Theatergebäude;53.549702;10.089395
+Q1425902;St. Erich;Filialkirche;53.53611111;10.03805556
+Q15041844;Atlantic-Haus;Bürogebäude;53.547605;9.967357
+Q15134723;Weißes Haus von Nienstedten;Villa;53.548232;9.856119
+Q58443136;Zum Goldenen Handschuh;Kneipe;53.550014;9.961129
+Q1598632;Mellingburg;Burg;53.669722;10.096389
+Q80226331;Berliner Tor;Bahnhof;53.55277778;10.02444444
+Q101552579;Schule Surenland;Schulgebäude;53.614;10.10605
+Q15854588;Wilhelmsburger Krankenhaus Groß-Sand;Krankenhaus;53.5047106;9.986061
+Q98520138;;;53.568293;9.988953
+Q34378793;CinemaxX Wandsbek;Kino;53.5726;10.06655
+Q107100416;Museumstraße 15-19;Gebäude;53.54817;9.93427
+Q89565071;Schule Frohmestraße;Schulgebäude;53.63238;9.91964
+Q109300963;Freiwillige Feuerwehr Hausbruch;Freiwillige Feuerwehr;53.47218;9.87542
+Q2466059;U-Bahnhof Saarlandstraße;U-Bahnhof;53.58888889;10.0325
+Q14540885;U-Bahnhof Fuhlsbüttel Nord;U-Bahnhof;53.63972222;10.01666667
+Q100542670;Kurt-Juster-Schule;Schulgebäude;53.61372;10.02122
+Q60024528;Gymnasium Buckhorn;Schulgebäude;53.6648;10.15123
+Q1558081;Gymnasium Bornbrook;Schulgebäude;53.50777778;10.19472222
+Q106917236;Radarturm Neuwerk;Radarturm;53.92482;8.48845
+Q107711128;Schule Eulenkrugstraße;Schulgebäude;53.64386;10.18383
+Q16220834;Bahnhof Eidelstedt Zentrum;Bauwerk;53.60997;9.90154
+Q2552774;Wattyhaus;Kontorhaus;53.55;9.99866667
+Q106646678;Stadtteilschule Bergstedt;weiterführende Schule;53.67193;10.13706
+Q12307568;Benedikte-Kirche;Kirchengebäude;53.54662;9.97762
+Q1821417;Leuchtturm Estemündung;Leuchtturm;53.53579444;9.79151389
+Q1355745;Erlöserkirche;Kirchengebäude;53.60777778;10.11166667
+Q1285521;Tanzende Türme;Wolkenkratzer;53.54961111;9.96816667
+Q89194014;Schule Fährstraße;Schulgebäude;53.51663;9.981
+Q2551788;Wasserturm Hamburg-Rothenburgsort;Turm;53.53194444;10.04183333
+Q102163472;Stiftstraße 69;Schulgebäude;53.55481;10.02142
+Q1532074;Soul Kitchen;Halle;53.512209;9.982679
+Q275505;U-Bahnhof Messehallen;U-Bahnhof;53.55777778;9.97666667
+Q15126115;Rieckhof;Kulturzentrum;53.457815;9.985791
+Q28375608;Unterfeuer Altenwerder;Leuchtturm;53.49645;9.9399333333333
+Q1573128;Hamburger Seemannskirchen;Kirchengebäude;53.54603889;9.975135
+Q111441117;Kirchdorfer Straße 166;Gebäude;53.4875;10.01666
+Q105672529;Schule Brekelbaums Park 6;Schulgebäude;53.55368;10.03509
+Q105797772;Horner Warteschule;Schulgebäude;53.55219;10.08154
+Q663740;Neuer Elbtunnel;Straßentunnel;53.54083;9.9175
+Q114237850;Rainvilleterrasse 4;Gebäude;53.54588;9.93048
+Q4016141;U-Bahnhof Volksdorf;U-Bahnhof;53.65055556;10.16305556
+Q2328173;Stadtteilschule Winterhude;Schulgebäude;53.58721111;10.02751111
+Q102809670;Schule Francoper Straße;Schulgebäude;53.47491;9.86491
+Q1626887;Volksschule Seilerstraße;Schulgebäude;53.55026;9.96362
+Q2499121;Untersuchungshaftanstalt Hamburg;Gefängnis;53.558087;9.978982
+Q23893802;Nobelshof;Gebäude;53.54651;9.9962
+Q1719371;KZ Fuhlsbüttel;Konzentrationslager;53.6225;10.01888889
+Q106528024;Schule Wildschwanbrook;Schulgebäude;53.62813;10.17071
+Q800881;Bahnhof Hamburg Klosterthor;Kopfbahnhof;53.549722;10.006667
+Q54339437;Paul-Gerhardt-Kirche;Kirchengebäude;53.6;10.005555555555556
+Q1407367;Fernsprechamt Schlüterstraße;Gebäude;53.56847222;9.98555556
+Q1714381;Justizvollzugsanstalt Fuhlsbüttel;Justizvollzugsanstalt;53.62138889;10.02111111
+Q2415813;Theater Istasyon;Theatergebäude;53.556411;9.94624
+Q104533988;Schule Alsterredder;Schulgebäude;53.65887;10.09962
+Q1558112;Gymnasium Farmsen;Schulgebäude;53.6125;10.10969
+Q62998711;Channel Tower;Bürogebäude;53.463055555556;9.985
+Q105675369;Schule Brekelbaums Park 10;Schulgebäude;53.55307;10.03664
+Q56426010;Rudolf-Steiner-Schule Wandsbek;weiterführende Schule;53.6029;10.12647
+Q109008225;Anton-Rée-Schule Allermöhe;Schulgebäude;53.4818;10.17368
+Q26762925;Kinder-Hospiz Sternenbrücke;Kinderkrankenhaus;53.59019;9.753339
+Q305682;Abaton;Kino;53.56777778;9.98194444
+Q1694188;U-Bahnhof Merkenstraße;U-Bahnhof;53.5385;10.124
+Q7886874;KZ Wittmoor;Konzentrationslager;53.6901;10.0674
+Q1377140;Kirche des heiligen Prokop;orthodoxe Kirche;53.584201;9.946925
+Q83705929;Schule Niekampsweg;Schulgebäude;53.60852;9.89666
+Q106974451;Schule Friedastraße;Schulgebäude;53.57136;10.08435
+Q98816419;Schule Weddestraße;Schulgebäude;53.54764;10.08665
+Q1821415;Leuchtturm Ellerholzhafen;Leuchtturm;53.53165556;9.95544444
+Q34379111;Savoy Filmtheater;Kino;53.55412;10.01417
+Q34378662;Astoria Kino;Kino;53.57668;10.01997
+Q826773;U-Bahnhof Meßberg;U-Bahnhof;53.547778;9.999722
+Q96761865;Loki-Schmidt-Schule;Schulgebäude;53.55262;9.90247
+Q108921122;Schule Heidrand;Schulgebäude;53.46558;9.86173
+Q1025623;Café Keese (Hamburg);Diskothek;53.55014;9.96639
+Q111264405;Sophienterrasse 1a;Gebäude;53.57659;9.99435
+Q28078004;Bismarckbad;Hallenbad;53.552573;9.93379
+Q106188068;Saseler Straße 21;Schule;53.62342;10.16306
+Q101001904;Uhrmacherschule Altona;Schulgebäude;53.54932;9.93344
+Q108566801;St. Bruder Konrad;Kirchengebäude;53.59468;9.85312
+Q35191095;Südseehaus;Kontorhaus;53.551944444444;10.004166666667
+Q23786826;Ehemaliges Dienstgebäude der Hamburger Landherrenschaften;Gebäude;53.548333333333;10.000833333333
+Q34379156;Ufa-Palast;abgegangenes Bauwerk;53.55548;9.98881
+Q111842998;Unterstufenhaus des Gymnasium Blankenese;Schulgebäude;53.561;9.80526
+Q1742473;Kirchdorf Süd;Großwohnsiedlung;53.48472222;10.02066667
+Q1318152;Leuchtturm Wittenbergen;Leuchtturm;53.56391667;9.75146111
+Q95985256;Schule Klein Flottbeker Weg;Schulgebäude;53.55303;9.8834
+Q110304632;Freiwillige Feuerwehr Neudorf;Freiwillige Feuerwehr;53.47198;10.07276
+Q101243139;Schule Eschenweg;Schulgebäude;53.62615;10.01655
+Q84311026;Schule Langenfort;Schulgebäude;53.59932;10.04878
+Q47515301;KZ Hamburg-Steinwerder (Stülckenwerft);Konzentrationslager;53.5416;9.9576
+Q106558963;Aueschule Finkenwerder;Schulgebäude;53.52766;9.88513
+Q110400925;Studentenwohnheim Grindelallee;;53.56678;9.98186
+Q22952556;Mehr!-Theater am Großmarkt;Örtlichkeit;53.543;10.017
+Q94940977;Schule Fahrenort;Schulgebäude;53.6004;9.86978
+Q106634425;Schule Kirchenheerweg;Schulgebäude;53.41178;10.19238
+Q111127803;Schule Barlachstraße;Schulgebäude;53.45784;9.971
+Q54268521;Elbschlosskeller;Kneipe;53.54972222222222;9.961388888888889
+Q1340048;Leuchtturm Oberfeuer Blankenese;Leuchtturm;53.55602;9.81614
+Q1036600;Carl-Schultze-Theater;Theatergebäude;53.54969;9.9592
+Q45476599;SS-Baubrigade II, Hamburg;Konzentrationslager;53.549999;10
+Q110699500;Schweinemarkt;Marktplatz;53.55134722222222;10.005341666666666
+Q109657961;Emil Naucke's Varieté;abgegangenes Bauwerk;53.54918;9.96396
+Q96050422;Schule Daimlerstraße;Schulgebäude;53.55914;9.92108
+Q2142054;Reitbrooker Mühle;Holländerwindmühle;53.46709432;10.17200679
+Q18619271;Bahnhof Mittlerer Landweg;S-Bahnstation;53.497777777778;10.131666666667
+Q317901;Teufelsbrück;Yachthafen;53.547438;9.866077
+Q65783704;Gymnasium Lohbrügge;Schulgebäude;53.50484;10.20745
+Q89281413;Domschule St. Marien;Schulgebäude;53.55786;10.01454
+Q106135763;Osterbekstraße 107;Schulgebäude;53.58451;10.03886
+Q1475125;Horrorhaus;Bürogebäude;53.55636;10.01885
+Q48756509;Neues Krematorium;Krematorium;53.623055555556;10.034444444444
+Q102046697;Schule Binderstraße;Schulgebäude;53.56817;9.98441
+Q1572885;Hamburg Cruise Center HafenCity;Kai;53.538624;9.997448
+Q66438340;Wohnanlage Turmweg;Geschosswohnungsbau;53.57159;9.99053
+Q98768912;Montessori-Schule Schäferkampsallee;Schulgebäude;53.56823;9.96767
+Q110556378;Neubau am Geomatikum;Universitätsgebäude;53.56823;9.97321
+Q15853621;Wandsbek Quarree;Einkaufszentrum;53.572658;10.06654
+Q875365;Mariendom;Kathedrale;53.549255;9.997706
+Q111142048;Reeseberg 8;katholische Bekenntnisschule;53.44979;9.98835
+Q1398047;U-Bahnhof Wandsbek-Gartenstadt;U-Bahnhof;53.59255;10.07643
+Q1331557;Imperial Theater;Theatergebäude;53.55005611;9.96746306
+Q96075516;Schule Trenknerweg;Schulgebäude;53.54763;9.91047
+Q15115581;Internierungslager Neuengamme;Internierungslager;53.43055556;10.23361111
+Q91231682;Schule Karl-Arnold-Ring;Schulgebäude;53.48727;10.02212
+Q28791184;Café Gnosa;Café;53.558888888889;10.012777777778
+Q999939;Wasserturm Hamburg-Lokstedt;Wasserturm;53.59272222;9.96852778
+Q108105466;Schule Bramfelder Dorfplatz;Schulgebäude;53.61475;10.07814
+Q27478612;Landhaus Michaelsen;Einfamilienwohnhaus;53.56602;9.76403
+Q83633421;Adolph-Schönfelder-Schule;Schulgebäude;53.57803;10.04752
+Q111550318;Hellgrundweg 45;Berufsschule;53.58889;9.89117
+Q99769207;Schule Rhiemsweg;Schulgebäude;53.55439;10.07515
+Q80219284;Bahnhof Hamburg Jungfernstieg;Kreuzungsbahnhof;53.55361111;9.9925
+Q1317770;Dovenhof;Kontorhaus;53.546966;9.997749
+Q109348553;Schule Mittlerer Landweg;Schulgebäude;53.49906;10.13301
+Q19312165;Zürichhaus;Bürogebäude;53.5479702;9.9950256
+Q1390772;Fabrik;Kulturzentrum;53.55658333;9.92922222
+Q106601450;Schule Brockdorffstraße;Schulgebäude;53.59545;10.16329
+Q99769241;Schule Hauskoppelstieg;Schulgebäude;53.54126;10.10348
+Q22341347;Bahnhof Hamburg-Tonndorf;Bahnhof;53.586394444444;10.123030555556
+Q18816353;Grundwasserwerk Tonndorf;Wohngebäude;53.578837;10.107583
+Q436110;Alte Post (Hamburg);Gebäude;53.55194444;9.99083333
+Q2132641;Rathaus an der Trostbrücke;Rathaus;53.548571;9.992491
+Q106811742;Grundschule Buckhorn;Schulgebäude;53.66512;10.14856
+Q1275609;Allee-Theater;Opernhaus;53.55472222;9.94194444
+Q92598718;Gorch-Fock-Schule;Schulgebäude;53.56428;9.8011
+Q111440936;Bauernstegel 3;Schulgebäude;53.47908;10.05415
+Q106758686;Schule Angerstraße 33;Schulgebäude;53.56139;10.03524
+Q104161504;Schule Binnenfeldredder;Schulgebäude;53.50488;10.20659
+Q107245637;Schule Nymphenweg;Schulgebäude;53.44058;9.97067
+Q96176846;Staatliche Jugendmusikschule Hamburg;Musikschule;53.57193;9.99358
+Q19851684;Generalkonsulat der Volksrepublik China in Hamburg;Generalkonsulat;53.54736111111111;9.878472222222221
+Q16319382;Hamburg Cruise Center Steinwerder;Kai;53.529458;9.960379
+Q19462857;Bahnhof Kornweg;S-Bahnstation;53.6325;10.054444444444
+Q96376919;Kanalplatz 8 (Hamburg);Gebäude;53.466838;9.984711
+Q1590384;Haus Neuer Wandrahm 10;Bürgerhaus;53.545352;9.996831
+Q111203537;Berner Heerweg 187;Gebäude;53.60823;10.12062
+Q106640704;Alte Schule Billwerder;Schulgebäude;53.50621;10.15971
+Q19284723;Hammonia-Bad;Gebäude;53.569205;10.028667
+Q96106972;Schule Osdorfer Weg;Schulgebäude;53.56784;9.89421
+Q105516171;St. Annen;Kirchengebäude;53.680555;9.999388
+Q101436371;Schwimmdock Dock 11;Schwimmdock;53.5425;9.956222
+Q103868580;Schule Großlohering;Schulgebäude;53.60072;10.17862
+Q18752621;Bahnhof Hamburg Rübenkamp;S-Bahnstation;53.606388888889;10.033055555556
+Q109614236;Alten- und Pflegeheim Talita Kum;Schulgebäude;53.4453;10.22283
+Q76164745;Hübner-Haus;Kontorhaus;53.552221;9.991404
+Q111192002;Studentenwohnheim Billwiese;;53.49147;10.19205
+Q826376;Radisson Blu Hotel Hamburg;Hotel;53.561666666667;9.9869444444444
+Q636803;Archäologischer Wanderpfad in der Fischbeker Heide;Freilandmuseum;53.44035;9.85145
+Q187286;Komödie Winterhuder Fährhaus;Privattheater;53.59375;9.994088
+Q19963931;Helios Endo-Klinik Hamburg;Krankenhaus;53.5512268;9.9551637
+Q7607259;Bahnhof Stellingen;S-Bahnstation;53.589444;9.918333
+Q2465945;U-Bahnhof Joachim-Mähl-Straße;U-Bahnhof;53.62888889;9.94972222

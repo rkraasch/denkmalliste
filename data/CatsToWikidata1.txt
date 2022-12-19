@@ -1,0 +1,4028 @@
+Q106605756	Öjendorfer Damm
+Q106605757	Öjendorfer Höhe
+Q17353914	Öjendorfer Park
+Q248992	Öjendorfer See
+Q106605761	Ölmühlenweg (Hamburg)
+Q18005265	Östliche Georgswerder Wettern
+Q18005267	Östlicher Bahnhofskanal
+Q307515	Övelgönne
+Q106605780	Övern Barg
+Q106606025	Überseeallee (Hamburg)
+Q106606026	Überseeboulevard (Hamburg)
+Q333492	Überseebrücke
+Q333435	Übersee-Club
+Q333545	Überseequartier
+Q106606027	Überseering
+Q42231504	Überseering 12
+Q28005811	Überseering 30
+Q54918912	Überseering 35
+Q108750877	Überseering 40
+Q110551568	Überseering 45 / New-York-Ring 2
+Q33695253	2017 Hamburg attack
+Q36948990	20th Century Press Archives
+Q11906952	Aßmannkanal
+Q305682	Abaton-Kino
+Q60591836	ABC-Straße
+Q114808624	Abendrothsweg
+Q21040682	Abendschule St. Georg
+Q106604832	Abteistraße (Hamburg)
+Q106604879	Ackermannstraße (Hamburg)
+Q106604880	Adenauerallee (Hamburg)
+Q114808625	Admiralitätstraße
+Q360628	Adolf von Elm Hof
+Q360602	Adolf-Jäger-Kampfbahn
+Q65894156	Adolph-Diesterweg-Schule (Hamburg)
+Q83633421	Adolph-Schönfelder-Schule
+Q106604881	Adolph-Schönfelder-Straße
+Q379865	Adventskirche (Hamburg-Schnelsen)
+Q106604882	Agnesstraße (Hamburg)
+Q109877868	Agnesstraße 1 (Hamburg)
+Q106604884	Ahrensburger Straße (Hamburg)
+Q106604886	Ahrensburger Weg (Hamburg)
+Q663819	Airbus-Werk Hamburg-Finkenwerder
+Q414150	Akademie der Wissenschaften in Hamburg
+Q19601669	AKN Eisenbahn Station Burgwedel
+Q16220834	AKN Eisenbahn Station Eidelstedt Zentrum
+Q19601658	AKN Eisenbahn Station Hörgensweg
+Q19601667	AKN Eisenbahn Station Schnelsen
+Q2637460	Albert-Schweitzer-Gymnasium (Hamburg)
+Q78670034	Albert-Schweitzer-Schule (Hamburg)
+Q34561228	Albrecht-Thaer-Gymnasium
+Q106604887	Alexanderstraße (Hamburg)
+Q2641613	Alexander-von-Humboldt-Gymnasium (Hamburg)
+Q106604888	Alfred-Johann-Levy-Straße
+Q106604889	Alfredstraße (Hamburg)
+Q56035760	Alfredstraßenbrücke
+Q1275609	Alleetheater (Hamburg)
+Q114289178	Allegorische Figur (Schwerdtfeger Heisig, HH-Billstedt)
+Q106604833	Allende-Platz (Hamburg)
+Q2648548	Allerheiligenkirche, Hamburg-Hausbruch
+Q106604890	Allermöher Deich
+Q104175547	Allermöher Deich 105
+Q109715078	Allermöher Deich 445
+Q24325779	Allermöher See
+Q28172563	Allermöher Wiesen
+Q732023	Allgemeines Krankenhaus Barmbek
+Q106604891	Alma-Wartenberg-Platz
+Q51912	Al-Quds Mosque Hamburg
+Q114808626	Alsenplatz (Hamburg)
+Q114808629	Alsenstraße (Hamburg)
+Q895601	Alster Northern Railway
+Q2651483	Alsterarkaden
+Q2651485	Alster-Beste-Kanal
+Q106604892	Alsterchaussee
+Q106604893	Alsterdorfer Straße
+Q1614236	Alsterfleet
+Q2651496	Alsterfontaine
+Q106604894	Alsterglacis
+Q106604845	Alsterkrugchaussee
+Q110071974	Alsterpark (Grünanlagen rund um die gestaute Alster)
+Q1632185	Alsterring-Gymnasium
+Q1314255	Alstertal-Einkaufszentrum
+Q106604895	Alsterterrasse
+Q50107677	Alstertor
+Q106604896	Alstertwiete
+Q106604897	Alsterufer
+Q110151777	Alsterufer 27, 28
+Q107762039	Altbau der Staats- und Universitätsbibliothek Hamburg
+Q58808006	Alte Harburger Elbbrücke
+Q106604898	Alte Holstenstraße
+Q11905165	Alte Kollau
+Q106604899	Alte Landstraße (Hamburg)
+Q436055	Alte Oberfinanzdirektion Hamburg
+Q19964045	Alte Oberschulbehörde
+Q103483289	Alte Osterbek
+Q436110	Alte Post (Hamburg)
+Q106604900	Alte Rabenstraße
+Q114808630	Alte Sieker Landstraße
+Q76307211	Alte Sudpfanne, Hamburg-St. Pauli
+Q106604901	Alte Wöhr
+Q106604902	Altengammer Elbdeich
+Q28375610	Altenwerder Oberfeuer
+Q28375608	Altenwerder Unterfeuer
+Q106604903	Alter Berner Weg (Hamburg)
+Q11679872	Alter Botanischer Garten Hamburg
+Q437844	Alter Elbpark
+Q460264	Alter Elbtunnel
+Q43405943	Alter Fischmarkt (Hamburg)
+Q18616186	Alter Friedhof Harburg
+Q43812915	Alter Friedhof Wandsbek
+Q437953	Alter Hammer Friedhof
+Q98936639	Alter Jaarsmoorgraben
+Q438118	Alter Niendorfer Friedhof
+Q106604904	Alter Postweg (Hamburg)
+Q106604906	Alter Steinweg (Hamburg)
+Q106604907	Alter Teichweg
+Q438216	Alter Wall (Hamburg)
+Q104650747	Alter Wall 2 Hamburg
+Q112183792	Alter Wall 38
+Q106604908	Alter Wandrahm
+Q439225	Altes Hafenamt, Dalmannstraße
+Q47504016	Altes Krematorium Hamburg-Alsterdorf
+Q86440647	Altes Rathaus Altona
+Q26951150	Altes Zollhaus (Hamburg-HafenCity)
+Q60475059	Althamburgischer Gedächtnisfriedhof
+Q106604909	Altländer Straße (Hamburg)
+Q60540092	Altmannbrücke
+Q443975	Altonaer Balkon
+Q444003	Altonaer Blutsonntag
+Q67080057	Altonaer Holzhafen
+Q27478664	Altonaer Kaispeicher
+Q26156624	Altonaer Kinderkrankenhaus
+Q126971	Altonaer Museum
+Q444036	Altonaer Rathaus
+Q106604910	Altonaer Straße (Hamburg)
+Q444049	Altonaer Theater
+Q444045	Altonaer Volkspark
+Q443903	Altona-Kieler Chaussee
+Q443917	Altona-Lübecker Chaussee
+Q106604912	Altstädter Straße
+Q106604913	Am Alten Posthaus (Hamburg)
+Q107453320	Am Baum (Hamburg)
+Q107446173	Am Baum 1 (Hamburg)
+Q106604914	Am Brunnenhof
+Q114808632	Am Burgberg (Hamburg)
+Q106604915	Am Centrumshaus (Hamburg)
+Q106604917	Am Dalmannkai (Hamburg)
+Q106604918	Am Diebsteich (Hamburg)
+Q106604919	Am Dulsbergbad
+Q106604921	Am Felde (Hamburg)
+Q106604923	Am Friedhof (Hamburg)
+Q106604924	Am Grasbrookpark (Hamburg)
+Q106604926	Am Hünenstein (Hamburg)
+Q106604925	Am Hannoverschen Bahnhof
+Q106604927	Am Husarendenkmal
+Q106604928	Am Lohmühlenpark
+Q451352	Am Lohsepark
+Q106604930	Am Mariendom (Hamburg)
+Q106604932	Am Neumarkt (Hamburg)
+Q106604933	Am Ochsenzoll
+Q76176795	Am Pfeilshof
+Q3398930	Am Rothenbaum
+Q106604934	Am Sandtorkai
+Q96376285	Am Sandtorkai 1
+Q106604935	Am Schulgarten (Hamburg)
+Q106604936	Am Schulwald
+Q106604937	Am Wall (Hamburg)
+Q106604939	Am Weißenberge
+Q106604938	Am Weiher (Hamburg)
+Q110413539	Amalie-Dietrich-Haus
+Q294799	AMD Akademie Mode & Design Düsseldorf
+Q106604940	Amelungstraße (Hamburg)
+Q108013586	Amerigo-Vespucci-Platz
+Q11905356	Ammersbek (Alster)
+Q106604941	Amsinckstraße (Hamburg)
+Q480735	Amtsgericht Bergedorf
+Q110205964	Amtsgericht Blankenese
+Q110206015	Amtsgericht Wandsbek
+Q106604942	An der Alster
+Q106604943	An der Alsterschleife
+Q106604944	An der Baumschule
+Q108935321	An der Falkenbek 8
+Q106604945	An der Glinder Au
+Q106604946	An der Kunsthalle
+Q106604947	An der Marienanlage
+Q106604948	Anckelmannsplatz
+Q106604949	Anckelmannstraße
+Q106604950	Angerstraße (Hamburg)
+Q22940214	Anglo-German Club (Hamburg)
+Q106604951	Anne-Frank-Straße (Hamburg)
+Q11905669	Annenfleet
+Q106604952	Annenstraße (Hamburg)
+Q104902154	Annenstraße 3 (Hamburg)
+Q106604953	Annie-Kienast-Straße
+Q114808634	Anny-Tollens-Weg
+Q98608629	Ansgarkirche (Hamburg-Othmarschen)
+Q76307936	AntjeBrunnen AlstertalEinkaufszentrum HamburgPoppenbüttel
+Q109008225	Anton-Rée-Schule Allermöhe
+Q114808637	Anzengruberstraße (Hamburg)
+Q295927	AOK Building in Hamburg-Borgfelde
+Q108566753	Apostelkirche (Hamburg-Eißendorf)
+Q114808638	Arboretum in Hamburg-Poppenbüttel
+Q636803	Archäologischer Wanderpfad Fischbeker Heide
+Q114808641	Arie-Goral-Platz
+Q106604954	Armgartstraße
+Q106604956	Arnkielstraße (Hamburg)
+Q114808644	Arnoldstraße (Hamburg)
+Q878694	Arp-Schnitger-Orgel in der Hauptkirche St. Jacobi in Hamburg
+Q106604957	Arp-Schnitger-Stieg
+Q732030	Asklepios Klinik Harburg
+Q732041	Asklepios Klinik Nord
+Q732061	Asklepios Klinik Wandsbek
+Q732068	Asklepios Kliniken
+Q90803484	Astra-Turm
+Q15041844	Atlantic-Haus
+Q19259871	Außenmühlenteich
+Q106604967	Außenmühlenweg (Hamburg)
+Q16240789	Auditorium Maximum (Universität Hamburg)
+Q106604958	Auedeich (Hamburg)
+Q759120	Auenlandschaft Norderelbe
+Q106558963	Aueschule Finkenwerder
+Q106604959	Auf dem Felde
+Q106604960	Auf dem Sande (Hamburg)
+Q106604961	Auf den Blöcken (Hamburg)
+Q759617	Auferstehungskirche (Hamburg-Barmbek)
+Q108566755	Auferstehungskirche (Hamburg-Lohbrügge)
+Q108566756	Auferstehungskirche (Hamburg-Lurup)
+Q108566757	Auferstehungskirche (Hamburg-Ohlsdorf)
+Q106604962	August-Bebel-Straße (Hamburg)
+Q106604964	Augustenburger Straße (Hamburg)
+Q50358748	Augustenpassage
+Q90669617	August-Hermann-Francke-Schule Bahrenfeld
+Q107411958	August-Hermann-Francke-Schule Bergedorf
+Q94304450	August-Hermann-Francke-Schule Berne
+Q101246779	August-Hermann-Francke-Schule Farmsen
+Q83489240	August-Hermann-Francke-Schule Uhlenhorst
+Q18410459	Augustinum Hamburg
+Q114808648	August-Kirch-Straße
+Q106604963	August-Krogmann-Straße
+Q106604965	Ausschläger Elbdeich
+Q100741724	Ausschläger Elbdeich 3
+Q106604966	Ausschläger Weg
+Q114808651	Australiastraße
+Q10602002	Autobahnbrücke Moorfleet
+Q106604968	Avenues in Hamburg
+Q106604969	Averhoffstraße
+Q106157100	Averhoffstraße 38
+Q106604970	Axel-Springer-Platz
+Q106604972	Bäckerbreitergang
+Q106992065	Bärenallee
+Q106604980	Bärenhof (Straße)
+Q106605056	Böckmannstraße
+Q106605058	Böhmestraße (Hamburg)
+Q106605070	Böttcherkamp
+Q114808731	Böttgerstraße (Hamburg)
+Q1573209	Bücherhallen Hamburg
+Q108564266	Bürgerhaus Wilhelmsburg
+Q95730040	Bürgerweide (Hamburg)
+Q1021738	Büsch-Denkmal
+Q114808733	Büschstraße
+Q113469856	Büschstraße 7
+Q882620	B-515 (submarine, 1976)
+Q106604971	Baakenallee
+Q797461	Baakenhafen
+Q106678336	Baakenhafenbrücke
+Q59296758	Baakenpark
+Q92206717	Bachstraße (Hamburg)
+Q114808655	Badestraße (Hamburg)
+Q106604973	Baererstraße (Hamburg)
+Q106604974	Bahngärten (Hamburg)
+Q800870	Bahnhof Barmbek
+Q18173158	Bahnhof Bergedorf Süd
+Q827138	Bahnhof Berliner Tor
+Q800871	Bahnhof Blankenese
+Q328028	Bahnhof Eidelstedt
+Q11877023	Bahnhof Elbbrücken
+Q634142	Bahnhof Hamburg Dammtor
+Q800879	Bahnhof Hamburg Holstenstraße
+Q800881	Bahnhof Hamburg Klosterthor
+Q5644281	Bahnhof Hamburg Neugraben
+Q650270	Bahnhof Hamburg-Altona
+Q320225	Bahnhof Hamburg-Bergedorf
+Q22341410	Bahnhof Hamburg-Rahlstedt
+Q22341347	Bahnhof Hamburg-Tonndorf
+Q800877	Bahnhof Hamburg-Wandsbek
+Q800891	Bahnhof Hasselbrook
+Q80219284	Bahnhof Jungfernstieg
+Q8158664	Bahnhof Landungsbrücken
+Q800876	Bahnhof Ohlsdorf
+Q800880	Bahnhof Wandsbeker Chaussee
+Q114808656	Bahrenfelder Chaussee
+Q106604975	Bahrenfelder Kirchenweg
+Q114808659	Bahrenfelder Marktplatz
+Q106604976	Bahrenfelder Steindamm
+Q114808661	Bahrenfelder Straße
+Q106962783	Balduinstraße (Hamburg)
+Q106604977	Ballerstaedtweg
+Q874154	Ballettzentrum Hamburg
+Q60746643	Ballhaus Trichter (Hamburg)
+Q805265	Ballindamm
+Q805262	BallinStadt
+Q106604978	Banksstraße (Hamburg)
+Q98023139	Bansgraben
+Q106604979	Barcastraße (Hamburg)
+Q265107	Barclaycard Arena (Hamburg)
+Q106604981	Barenkrug
+Q106604982	Bargteheider Straße (Hamburg)
+Q114808663	Barlachstraße (Hamburg)
+Q106604983	Barmbeker Markt
+Q808346	Barmbeker Stichkanal
+Q106604984	Barmbeker Straße (Hamburg)
+Q106604985	Baron-Voght-Straße
+Q114808665	Bartelsstraße (Hamburg)
+Q106604986	Bartholomäusstraße (Hamburg)
+Q113407419	Bauarbeiter (Hans M. Ruwoldt; Hamburg)
+Q106604987	Bauerberg (Hamburg)
+Q111440936	Bauernstegel 3
+Q106604988	Baumeisterstraße (Hamburg)
+Q15107426	Baumhaus (Hamburg)
+Q15052040	Baumwall
+Q114808667	Bauvereinsweg (Hamburg)
+Q813228	Beatles-Platz
+Q106604990	Bebelallee (Hamburg)
+Q63092260	Beckstraße (Hamburg)
+Q114808669	Beerentalweg
+Q58370246	Beesenlandbrücke
+Q106604991	Beethovenstraße (Hamburg)
+Q814528	Behnbrunnen
+Q106604992	Behringstraße (Hamburg)
+Q106604993	Bei den Mühren
+Q112921066	Bei den St. Pauli-Landungsbrücken
+Q106604994	Bei der Apostelkirche
+Q106604995	Bei der Christuskirche
+Q106604996	Bei der Flottbeker Kirche
+Q106604997	Bei der Flottbeker Mühle
+Q106604998	Bei der Friedenseiche
+Q106604999	Bei der Hauptfeuerwache
+Q106605000	Bei der Johanniskirche
+Q106605001	Bei der Lutherbuche
+Q106605002	Bei der Matthäuskirche (Hamburg)
+Q106605003	Bei der Paul-Gerhardt-Kirche
+Q106605004	Bei der St. Gertrudkirche
+Q106605005	Bei Schuldts Stift
+Q106605006	Bei St. Annen (Hamburg)
+Q106605007	Bei St. Johannis (Hamburg)
+Q106605008	Beim Alten Schützenhof
+Q106605009	Beim Andreasbrunnen
+Q106605010	Beim Berliner Tor
+Q106605011	Beim Grünen Jäger
+Q106605012	Beim Jacobjstift
+Q106605013	Beim Rauhen Hause
+Q106605014	Beim Schäferhof
+Q106605015	Beim Schlump
+Q106605016	Beim Strohhause
+Q106605017	Bekassinenau
+Q104322791	Bekenbach
+Q106605018	Bekkamp (Hamburg)
+Q106605019	Bellealliancestraße
+Q106605020	Bellevue (Hamburg)
+Q28604520	Bellevuebrücke
+Q106605021	Beltgens Garten
+Q106605023	Bendixensweg
+Q12307568	Benediktekirche (Dänische Seemannskirche), Hamburg
+Q114808671	Bennigsenstraße (Hamburg)
+Q62567337	Benque & Kindermann
+Q819489	Bergedorfer Gehölz
+Q106605024	Bergedorfer Markt
+Q106605026	Bergedorfer Schloßstraße
+Q106678124	Bergedorfer Schlossgarten
+Q114808673	Bergedorfer Straße (Hamburg)
+Q57548329	Bergedorfer Windmühle
+Q106605027	Bergkoppelweg (Hamburg)
+Q106605028	Bergmannstraße (Hamburg)
+Q106992068	Bergstedter Alte Landstraße
+Q106605029	Bergstedter Chaussee
+Q56088097	Bergstedter Graben
+Q820252	Bergstedter Kirche
+Q106605030	Bergstedter Markt
+Q106605031	Bergstraße (Hamburg)
+Q820483	Bergwerk Robertshall
+Q1572879	Berliner Bahnhof (Hamburg)
+Q4707909	Berliner Bogen
+Q106605032	Berliner Tor (Hamburg)
+Q106605033	Berlinertordamm
+Q106605034	Bernadottestraße (Hamburg)
+Q106605035	Berner Allee
+Q328823	Berner Au
+Q28124853	Berner Gutspark
+Q106605036	Berner Heerweg
+Q111203537	Berner Heerweg 187
+Q106605037	Berner Weg
+Q617048	Bernhard-Nocht-Institut für Tropenmedizin
+Q20050223	Bernhard-Nocht-Straße
+Q106605038	Bernstorffstraße (Hamburg)
+Q100874607	Berufliche Schule City Nord
+Q109469101	Berufliche Schule für Spedition, Logistik & Verkehr
+Q24283619	Berufliche Schule für Wirtschaft Hamburg-Eimsbüttel
+Q98271592	Berufliche Schule Fahrzeugtechnik
+Q101525810	Berufliche Schule Farmsen
+Q109560536	Berufliche Schule St. Pauli
+Q106778699	Berufliche Schule Stahl- und Maschinenbau
+Q828953	Berufsgenossenschaftliches Unfallkrankenhaus Hamburg
+Q105723361	Berufsschule Billwerder Billdeich 614
+Q105723401	Berufsschule Billwerder Billdeich 620
+Q105723288	Berufsschule Billwerder Billdeich 622
+Q106519847	Berufsschule Dratelnstraße 24
+Q106519857	Berufsschule Dratelnstraße 26
+Q106519866	Berufsschule Dratelnstraße 28
+Q101477189	Berufsschule Hermelinweg
+Q107389814	Berufsschule Reichsbahnstraße
+Q106395065	Berufsschule Richardstraße
+Q114808675	Beselerplatz
+Q18616700	Besenbinderhof
+Q106605039	Bethesdastraße (Hamburg)
+Q831313	Bethlehem-Kirche (Hamburg-Eimsbüttel)
+Q61409678	Bieberhaus
+Q114808677	Bieberstraße (Hamburg)
+Q106605040	Biedermannplatz
+Q108344871	Bildungszentrum für Blinde und Sehbehinderte
+Q106605041	Billbrookdeich
+Q11909384	Billbrookkanal
+Q11909383	Billekanal
+Q114808679	Billhorner Brückenstraße
+Q114808682	Billstedter Hauptstraße
+Q106605042	Billstraße (Hamburg)
+Q106605043	Billwerder Billdeich
+Q106640704	Billwerder Billdeich 424
+Q109676079	Billwerder Bucht
+Q114808684	Billwerder Straße
+Q106605044	Binderstraße (Hamburg)
+Q106605045	Bindfeldweg
+Q3238460	Binnenalster
+Q106605046	Binnenfeldredder
+Q863909	Binnenhafen (Hamburg)
+Q21199010	Biosphärenreservat Hamburgisches Wattenmeer
+Q800176	Birdland (Hamburg)
+Q866205	Bischofsturm (Hamburg)
+Q540460	Bismarck-Denkmal (Hamburg)
+Q106605047	Bismarckstraße (Hamburg)
+Q880257	Black Form – Dedicated to the Missing Jews (Sol LeWitt)
+Q1340048	Blankenese Oberfeuer
+Q2151324	Blankenese range lights
+Q1821466	Blankenese Unterfeuer
+Q106605048	Blankeneser Bahnhofstraße
+Q106605049	Blankeneser Hauptstraße
+Q881579	Blankeneser Kirche
+Q106605050	Blankeneser Landstraße
+Q19275518	Bleichenbrücke
+Q106605051	Bleichenbrücke (street)
+Q106605052	Bleicherstraße (Hamburg)
+Q63439545	Blohm + Voss yard
+Q19835553	Blohms Park
+Q106605053	Blumenau (Hamburg)
+Q106605054	Blumenstraße (Hamburg)
+Q114808699	Boßdorfstraße (Hamburg)
+Q114808686	Boberger Furtweg
+Q109347064	Boberger Furtweg 1
+Q1970851	Boberger Niederung
+Q888737	Boberger See
+Q106605055	Bochumer Weg (Hamburg)
+Q108566758	Bodelschwingh-Kirche (Hamburg-Winterhude)
+Q19275580	Boehn-Kaserne (Hamburg)
+Q106605057	Bogenstraße (Hamburg)
+Q108342432	Bolivarpark (Harvestehude)
+Q114808688	Bonifatiusplatz (Hamburg)
+Q106605059	Bonifatiusstraße (Hamburg)
+Q106605060	Borchertring
+Q106605061	Borgesch (Hamburg)
+Q106605062	Borgfelder Allee (Hamburg)
+Q106605063	Borgfelder Straße (Hamburg)
+Q1658840	Borghorster Elblandschaft
+Q106605064	Borgweg (Hamburg)
+Q20107744	Bornbach (Tarpenbek)
+Q106605065	Bornemannstraße (Hamburg)
+Q106605066	Borner Stieg
+Q106605067	Bornheide (Hamburg)
+Q106605068	Bornkampsweg (Hamburg)
+Q114808691	Bornstraße (Hamburg)
+Q98068876	Bornweggraben
+Q58070302	Borsigbrücke (Hamburg)
+Q114808693	Borsigstraße (Hamburg)
+Q114808695	Borsteler Chaussee
+Q114808697	Borstelmannsweg
+Q106605069	Bostelreihe
+Q613250	Botanischer Garten Hamburg
+Q14906471	Bovehaus (Hamburg-Wandsbek)
+Q106605071	Bovestraße
+Q106605072	Bozenhardweg
+Q106605087	Brödermannsweg
+Q58804215	Brücke des 17. Juni (Hamburg)
+Q96309255	Brüder-Grimm-Schule (Hamburg)
+Q996802	Brüderstraße (Hamburg)
+Q106605073	Braamkamp
+Q65657978	Brabandbrücke
+Q11909931	Brabandkanal
+Q897345	Brahms Kontor
+Q114808701	Brahmsallee (Hamburg)
+Q28745374	Brahms-Museum
+Q106605074	Bramfelder Chaussee
+Q23785419	Bramfelder Dorfgraben
+Q114808703	Bramfelder Dorfplatz
+Q108105595	Bramfelder Dorfplatz 1
+Q897573	Bramfelder See
+Q14540498	Bramfelder Straße
+Q111034798	Bramfelder Straße 157
+Q897571	Bramfelder SV
+Q106605075	Bramfelder Weg
+Q114808705	Brandshofer Deich
+Q63562647	Brandshofer Schleuse
+Q898309	Brandstwiete
+Q114808707	Brauerstraße (Hamburg)
+Q106605076	Brauhausstraße (Hamburg)
+Q65998730	Brecht-Schule (Hamburg)
+Q882922	Bredenbek (Alster)
+Q106605077	Bredenbekstraße
+Q106605078	Brehmweg (Hamburg)
+Q114808709	Breite Straße (Hamburg)
+Q106605079	Breitenfelder Straße (Hamburg)
+Q106605080	Breiter Gang (Hamburg)
+Q106605081	Brekelbaums Park
+Q106605082	Bremer Reihe
+Q106605083	Bremer Straße (Hamburg)
+Q114808711	Bremers Weg
+Q106605084	Brennerstraße (Hamburg)
+Q114808714	Breslauer Straße (Hamburg)
+Q1572999	Bridges over the Elbe in Hamburg
+Q106605085	Brockdorffstraße
+Q106605086	Brockesstraße (Hamburg)
+Q108566760	Broder-Hinrick-Kirche (Hamburg-Langenhorn)
+Q106605088	Brombeerweg
+Q106605089	Brook (Hamburg)
+Q96973833	Brookgraben
+Q98075493	Brookkampsgraben
+Q96376611	Brooksfleet
+Q990608	Brookwetterung
+Q990681	Broschekhaus
+Q106605090	Brucknerstraße (Hamburg)
+Q106605091	Bruno-Georges-Platz
+Q114808716	Brunsberg (Hamburg)
+Q106605092	Brunsstraße (Hamburg)
+Q1821452	Bubendey-Ufer Oberfeuer
+Q1821467	Bubendey-Ufer Unterfeuer
+Q114808718	Bubendeyweg
+Q877566	Bucerius Kunst Forum
+Q114808721	Buchheisterstraße
+Q100774814	Buckhoopgraben
+Q114808723	Buckhorn (Hamburg)
+Q1000672	Budapester Straße (Hamburg)
+Q1001375	Budge-Palais
+Q106605093	Buenos-Aires-Kai (Hamburg)
+Q1002408	Bugenhagenkirche (Hamburg-Barmbek)
+Q108566761	Bugenhagenkirche (Hamburg-Bergedorf)
+Q78907266	Bugenhagenschule Alsterdorf
+Q94371090	Bugenhagenschule Blankenese
+Q93338233	Bugenhagenschule Groß Flottbek
+Q92385985	Bugenhagenschule Hamm
+Q88265899	Bugenhagenschule Ottensen
+Q114808726	Bugenhagenstraße (Hamburg)
+Q28739878	Building of the Patriotische Gesellschaft von 1765
+Q106605094	Bullenhuser Damm
+Q11910168	Bullenhuser Kanal
+Q106605095	Bullerdeich
+Q107659584	Bult 10 (Hamburg)
+Q106605096	Bunatwiete
+Q17036	Bundesautobahn 253
+Q106605097	Bundesstraße (Hamburg)
+Q55869	Bundesstraße 207
+Q34446	Bundesstraße 4
+Q101992297	Bundesstraße 41 (Hamburg)
+Q882422	Bundesstraße 431
+Q879304	Bundesstraße 432
+Q1007125	Bundesstraße 433
+Q1007119	Bundesstraße 434
+Q1007130	Bundesstraße 435
+Q1007157	Bundesstraße 447
+Q52720	Bundesstraße 73
+Q52722	Bundesstraße 75
+Q1009270	Bundeswehrkrankenhaus Hamburg
+Q2664261	Bunthäuser Spitze
+Q114808728	Burchardplatz
+Q106605099	Burchardstraße (Hamburg)
+Q19276057	Burgruine Henneberg (Nachbildung)
+Q106605100	Burgstraße (Hamburg)
+Q106605101	Burgunderweg (Hamburg)
+Q98347349	Burgwedelau
+Q98314152	Busanbrücke
+Q3647646	Bust of Alessandro Peretti di Montalto (Bernini)
+Q106605102	Buxtehuder Straße (Hamburg)
+Q19798476	Café Andersen
+Q1025623	Café Keese (Hamburg)
+Q104860490	Café Seeterrassen
+Q33926956	Caffamacherreihe
+Q105547318	Campus Hebebrandstraße
+Q114345313	Campus Tower (Hamburg)
+Q108566762	Cantate-Kirche (Hamburg-Duvenstedt)
+Q114808735	Caracasweg
+Q56640733	Carl Philipp Emanuel Bach Museum, Hamburg
+Q75514844	Carl-Cohn-Schule
+Q106605104	Carl-Cohn-Straße
+Q79044985	Carl-Götze-Schule
+Q106605105	Carl-Petersen-Straße (Hamburg)
+Q1036600	Carl-Schultze-Theater
+Q1036637	Carl-von-Ossietzky-Gymnasium (Hamburg)
+Q106605106	Carl-von-Ossietzky-Platz (Hamburg)
+Q106605107	Carsten-Rehder-Straße
+Q106605108	Caspar-Voght-Straße (Hamburg)
+Q190383	Central bus station Hamburg
+Q1054368	Centrum-Moschee (Hamburg)
+Q62998711	Channel Hamburg Tower
+Q106605109	Chapeaurougeweg
+Q106605110	Charlottenburger Straße (Hamburg)
+Q1067082	Charlotte-Paulsen-Gymnasium
+Q106605111	Chateauneufstraße
+Q106605112	Chaussee in Hamburg
+Q106605113	Chemnitzstraße (Hamburg)
+Q542783	Chilehaus
+Q317150	Christianeum
+Q106605114	Christian-Förster-Straße
+Q56426100	Christian-Morgenstern-Schule (Hamburg)
+Q1082972	Christianskirche (Hamburg-Ottensen)
+Q61310657	Christ-König-Kirche (Hamburg-Lokstedt)
+Q23041392	Christmas markets in Hamburg
+Q15794346	Christoph Hansa (air ambulance)
+Q25104624	Christopher Street Day in Hamburg
+Q108566763	Christopherus-Kirche (Hamburg-Bergedorf)
+Q20754121	Christophorus-Kirche (Hamburg-Hummelsbüttel)
+Q106653192	Christophorus-Schule (Hamburg)
+Q114808738	Christoph-Probst-Weg (Hamburg)
+Q108566765	Christuskirche (Hamburg-Eidelstedt)
+Q1087322	Christuskirche (Hamburg-Eimsbüttel)
+Q1087323	Christuskirche (Hamburg-Hamm)
+Q1087320	Christuskirche (Hamburg-Othmarschen)
+Q1087331	Christuskirche (Hamburg-Wandsbek)
+Q108566764	Christuskirche Altona
+Q106605115	Chrysanderstraße
+Q110226251	Chrysanderstraße 4
+Q1093777	City-Center Bergedorf
+Q19277450	City-Hof
+Q21036574	City-Nord-Park
+Q321980	City-S-Bahn
+Q65891936	Clara-Grunwald-Schule (Hamburg)
+Q106605116	Claudiusstraße (Hamburg)
+Q114808740	Claus-Ferck-Straße
+Q1098963	Claussen-Simon-Stiftung
+Q106605117	Clemens-Schultz-Straße
+Q1103179	Club de Sade
+Q1110928	Colonnaden
+Q896114	Congress Center Hamburg
+Q5164573	Consulate General of the United States in Hamburg
+Q62092128	Consulate-General of Japan, Hamburg
+Q1128491	Container Terminal Altenwerder
+Q14538517	Container Terminal Burchardkai
+Q1128489	Container Terminal Tollerort
+Q106605118	Cordesweg
+Q108566766	Cornelius-Kirche (Hamburg-Neugraben-Fischbek)
+Q1134922	Corps Irminsul
+Q114808743	Corveystraße (Hamburg)
+Q821065	Cremon (street)
+Q23984396	Cremon 11
+Q87648655	Cremonbrücke
+Q87412854	Critical Mass in Hamburg
+Q106605120	Curschmannstraße (Hamburg)
+Q114808745	Curslacker Deich
+Q109600947	Curslacker Deich 140
+Q114808748	Curslacker Heerweg
+Q110598500	Curslacker Heerweg 1
+Q114808750	Curslacker Neuer Deich
+Q106605121	Cuxhavener Straße (Hamburg)
+Q113494406	Cuxhavener Straße 400
+Q108303627	Cuxhavener Straße 566
+Q97456403	Cycling in Hamburg
+Q106605149	Dörpsweg (Hamburg)
+Q20107943	Dübwischgraben
+Q20107947	Düngelau
+Q877305	Düpenau
+Q106605158	Düppelstraße (Hamburg)
+Q106605162	Düsternstraße (Hamburg)
+Q28314183	Dag-Hammarskjöld-Brücke
+Q106605122	Daimlerstraße (Hamburg)
+Q1157804	Dalbek
+Q106605123	Dalmannkai
+Q30112705	Dammbrücke
+Q1158671	Dammtor
+Q106605124	Dammtordamm
+Q27729245	Dammtorstraße
+Q106605125	Dammtorwall
+Q101513784	Dankeskirche (Hamburg-Rahlstedt)
+Q59689078	Dankeskirche Hamm-Süd (Hamburg-Hamm)
+Q109329438	Danske Hus (Hamburg)
+Q106605126	Danziger Straße (Hamburg)
+Q106605127	Dar-es-Salaam-Platz
+Q876959	Das Schiff (ship, 1912)
+Q47003628	Davidstraße
+Q828629	Deepenhorngraben
+Q108691310	Deepenwiesengraben
+Q106605128	Dehnhaide (Hamburg)
+Q1183151	Deichstraße (Hamburg)
+Q113455861	Deichstraße 19 (Hamburg-Altstadt)
+Q114773784	Deichstraße 37 (Althamburger Bürgerhaus)
+Q106188753	Deichtor-Center
+Q1183156	Deichtorhallen
+Q113160710	Deichtortunnel
+Q106605130	Delingsdorfer Weg
+Q1495180	Demolition of the HEW power station in Hamburg-Moorburg
+Q107183590	Dempwolffstraße
+Q55833210	Denickestraße (Hamburg)
+Q106605132	Denksteinweg
+Q106605133	Depenau (Hamburg)
+Q1191587	Deponie Hamburg-Georgswerder
+Q106605134	Desenißstraße
+Q1200605	Deserteurdenkmal (Hamburg)
+Q114808753	Dessauer Straße (Hamburg)
+Q311801	DESY
+Q106605135	Detlev-Bremer-Straße
+Q1201734	Deutsch-Australische Dampfschiffs-Gesellschaft
+Q113402114	Deutsche Bundesbank Hamburg
+Q23836119	Deutsche Kriegsgräberstätte Hamburg-Bergedorf
+Q14906557	Deutsche Kriegsgräberstätte Hamburg-Ohlsdorf
+Q317179	Deutsche Zentralbibliothek für Wirtschaftswissenschaften
+Q1205784	Deutsches Klimarechenzentrum
+Q450777	Deutsches Schauspielhaus
+Q1206139	Deutsches Zusatzstoffmuseum
+Q1450671	Deutsch-Französisches Gymnasium (Hamburg)
+Q1206343	Deutschlandhaus Hamburg
+Q114808755	Diagonalstraße
+Q457196	Dialogue in the Dark
+Q11917079	Diamantgraben
+Q111016895	Die Elbe (Hamburg, Wieland Förster)
+Q106605136	Diedenhofener Straße (Hamburg)
+Q11917158	Diekbek
+Q106605137	Diekmoorweg
+Q106605138	Dienerreihe
+Q114808758	Diestelstraße
+Q94960832	Dietrich Bonhoeffer-Denkmal (Hamburg)
+Q108566767	Dietrich-Bonhoeffer-Kirche (Hamburg-Dulsberg)
+Q14551353	Dietrich-Bonhoeffer-Kirche Oldenfelde (Hamburg-Rahlstedt)
+Q114808761	Dillstraße (Hamburg)
+Q114808762	Dithmarscher Straße
+Q96631634	Ditmar-Koel-Straße (Hamburg-Neustadt)
+Q106605139	Doberaner Weg (Hamburg)
+Q106605140	Dockenhudener Straße (Hamburg)
+Q1233751	Dockland, Hamburg
+Q1233759	Docks Hamburg
+Q106605141	Dohrnweg (Hamburg)
+Q18121807	Dominikanerkloster St. Johannis (Hamburg)
+Q573491	Domkirche St. Marien (Hamburg)
+Q105337998	Domplatz (Hamburg)
+Q89281413	Domschule St. Marien (Hamburg)
+Q106605142	Domstraße (Hamburg)
+Q1241886	Donners Park
+Q106605143	Donnerstraße (Hamburg)
+Q106605144	Doormannsweg
+Q106605145	Dorfgang (Hamburg)
+Q106605146	Dornbusch (Hamburg)
+Q106605148	Dorotheenstraße (Hamburg)
+Q106605150	Dortmunder Straße (Hamburg)
+Q315688	Dove Elbe
+Q106605151	Dovenfleet (Hamburg)
+Q114808765	Dradenaustraße
+Q106605152	Dragonerstall
+Q106605153	Dratelnstraße
+Q106605154	Drehbahn
+Q1308438	Dreieinigkeitskirche, St. Georg
+Q11722101	Dreieinigkeitskirche (Hamburg-Allermöhe)
+Q108566768	Dreieinigkeitskirche (Hamburg-Billstedt)
+Q1170288	Dreifaltigkeitskirche (Hamburg-Hamm)
+Q110667284	Dreiteiliges Objekt (Hamburg-Rotherbaum)
+Q110423143	DRK-Studentenwohnheim Bieberstraße
+Q24572859	Drosselstraße (Hamburg)
+Q106605155	Duisburger Straße (Hamburg)
+Q66001171	Dulsbergbad
+Q106605156	Dulsberg-Nord
+Q106605157	Dulsberg-Süd
+Q106605159	Durchdeich
+Q106605161	Duschweg
+Q96964235	Duvenackergraben
+Q1648316	Duvenstedter Brook
+Q106605163	Duvenstedter Damm
+Q107453258	Duwockskamp
+Q107428527	Duwockskamp 1
+Q11917874	Dwarspriel
+Q97999593	Dyke March Hamburg 2020
+Q52153922	E45 (Germany)
+Q106605164	Ebelingplatz (Hamburg)
+Q15807180	Ebenezer-Krankenhaus (Hamburg-Barmbek)
+Q106605165	Eberhofstieg
+Q106605166	Eberhofweg
+Q114808767	Ebertallee (Hamburg)
+Q114808771	Ebner-Eschenbach-Weg (Hamburg)
+Q108057295	Echte Mamas
+Q106605167	Eckernförder Straße (Hamburg)
+Q106605168	Eddelbüttelstraße (Hamburg)
+Q26821570	Edel-optics.de Arena
+Q110667428	Edelstahlskulptur (Hamburg, Ida-Ehre-Platz)
+Q1284900	Edith-Stein-Kirche (Hamburg-Neuallermöhe)
+Q23780480	Edmund-Haus
+Q106605169	Edmund-Siemers-Allee
+Q106605170	Eduard-Rhein-Ufer
+Q106605171	Eduardstraße (Hamburg)
+Q106605172	Edwin-Scharff-Ring
+Q106605173	Eekboomkoppel
+Q77810532	Eekbusch
+Q106605174	Efeuweg (Hamburg)
+Q1670652	Ehem. Jüdischer Friedhof am Grindel (Hamburg-Rotherbaum)
+Q108566769	Ehemalige Kapelle, Henny-Schütz-Allee
+Q100447920	Ehemaliges Restaurant Randel, Gebäude
+Q106605175	Ehestorfer Heuweg
+Q106605176	Ehestorfer Weg
+Q19278901	Ehrenhain Hamburgischer Widerstandskämpfer
+Q1300206	Ehrenmal der Radiologie
+Q62592549	Eißendorfer Forst
+Q114808779	Eißendorfer Grenzweg
+Q106605184	Eißendorfer Pferdeweg
+Q55833670	Eißendorfer Straße
+Q114808773	Eichengrund (Hamburg)
+Q106605177	Eichenkamp (Hamburg)
+Q106605178	Eichholz (Hamburg)
+Q1296746	Eichtalpark
+Q107390833	Eidelstedter Bürgerhaus
+Q114808775	Eidelstedter Weg
+Q106605179	Eiffestraße
+Q106605180	Eifflerstraße
+Q104812793	Eifflerstraße 3
+Q55525469	Eilbeker Bürgerpark
+Q106605181	Eilbeker Weg
+Q106605182	Eilbektal
+Q106605183	Eilenau (Hamburg)
+Q47507433	Eimsbütteler Brücke
+Q114808777	Eimsbütteler Straße
+Q108566770	Eirene-Kirche Hamburg-Langenhorn
+Q106605186	Elbberg (Hamburg)
+Q65659993	Elbbergbrücke
+Q111964585	Elbchaussee 530
+Q14370908	Elbe-Einkaufszentrum (Hamburg)
+Q882270	Elberadweg
+Q1325085	Elbe-Werkstätten
+Q104381856	Elbhochbrücke
+Q1325319	Elbhof
+Q32043252	Elbpark Entenwerder
+Q114808781	Elbterrasse (Hamburg)
+Q28941004	Elbtower
+Q114808783	Elbtreppe
+Q113006074	Elemente der Verbindung (Heisig+Schwerdtfeger, Hamburg)
+Q107291508	Elfenwiese
+Q1313918	Elisabethkirche (Hamburg-Eidelstedt)
+Q109833468	Elisabeth-Lange-Schule
+Q106605187	Ellenbogen (Hamburg)
+Q28375614	Ellerholz Oberfeuer
+Q66493924	Ellerholz range lights
+Q28375612	Ellerholz Unterfeuer
+Q106605188	Ellerholzdamm
+Q63565270	Ellerholzhöft
+Q106316379	Ellerholzkanal
+Q63380853	Ellerholzweg 1a
+Q1332023	Ellerntorsbrücke
+Q106605189	Elligersweg
+Q106605190	Ellmenreichstraße
+Q106605191	Elsässer Straße (Hamburg)
+Q106605192	Elsastraße (Hamburg)
+Q18411509	Else-Rauch-Platz
+Q106605193	Elversweg
+Q106605195	Emekesweg
+Q114808784	Emil-Andresen-Straße
+Q106605197	Emilienstraße (Hamburg)
+Q63098932	Emilie-Wüstenfeld-Gymnasium
+Q78163793	Emil-Krause-Schule
+Q108566771	Emmauskirche (Hamburg-Hinschenfelde)
+Q108566772	Emmauskirche (Hamburg-Lurup)
+Q108566774	Emmauskirche (Hamburg-Wilhelmsburg)
+Q1339302	Empire Riverside Hotel
+Q1339402	Emporio (Hamburg)
+Q106605198	Enckeplatz
+Q104151027	Engelbert Peiffer - Statue of Saint Ansgar - Trostbrücke Hamburg
+Q106605199	Englische Planke
+Q109719034	Ensemble Adolf-von-Elm-Hof/Mehringweg
+Q114016365	Ensemble Heimfelder Straße/Woellmerstraße
+Q112075258	Entenwerder boat ramp
+Q51832005	Epiphanienkirche (Hamburg-Winterhude)
+Q106605200	Eppendorfer Baum
+Q28661154	Eppendorfer Brücke
+Q106605201	Eppendorfer Landstraße (Hamburg)
+Q1347556	Eppendorfer Mühlenteich
+Q114808786	Eppendorfer Marktplatz
+Q1970944	Eppendorfer Moor
+Q15110378	Eppendorfer Park
+Q29365398	Eppendorfer Weg
+Q106605203	Erdkampsweg
+Q101422770	Erich-Kästner-Schule (Hamburg)
+Q1353719	Ericusbrücke
+Q106605204	Ericusspitze
+Q106605206	Erika-Mann-Bogen
+Q106605207	Erikastraße (Hamburg)
+Q106605205	Erik-Blumenfeld-Platz
+Q1355744	Erlöserkirche (Hamburg-Borgfelde)
+Q108566775	Erlöserkirche (Hamburg-Eimsbüttel)
+Q1355745	Erlöserkirche (Hamburg-Farmsen-Berne)
+Q108566776	Erlöserkirche (Hamburg-Lohbrügge)
+Q108566777	Erlöserkirche (Hamburg-Rahlstedt)
+Q106605208	Ermlandweg
+Q51916	Ernst Deutsch Theater
+Q49247907	Ernst-August-Kanal (Hamburg)
+Q871581	Ernst-Barlach-Haus
+Q106605209	Ernst-Bergeest-Weg
+Q106605210	Ernst-Mantius-Straße
+Q16903674	Ernst-Merck-Halle
+Q106605211	Ernst-Merck-Straße
+Q27886768	Ernst-Schlee-Gymnasium
+Q114808788	Ernst-Thälmann-Platz (Hamburg)
+Q475236	Erotic Art Museum Hamburg
+Q108566779	Erzengel-Michael-Kirche (Hamburg-Eilbek)
+Q1368275	Esplanade (Hamburg)
+Q106605212	Essener Bogen (Hamburg)
+Q106605213	Essener Straße (Hamburg)
+Q15808690	Esso-Tankstelle Reeperbahn
+Q430677	Este (Elbe)
+Q106605215	Estebogen
+Q106086537	Estedeich 102
+Q1821417	Estemündung lighthouse
+Q106605216	Eulenkamp (Hamburg)
+Q114808789	Eulenkrugstraße
+Q106605217	Eulenstraße (Hamburg)
+Q97156170	Euler Hermes building
+Q63434071	Eurogate Container Terminal Hamburg
+Q1375224	Europa Passage
+Q1375284	Europabrücke (Hamburg)
+Q106605219	Fährhausstraße (Hamburg)
+Q11923358	Fährkanal (Hamburg)
+Q218604	Fährlinie Hoopte-Zollenspieker
+Q106605220	Fährstraße (Hamburg)
+Q1572796	Fünfhausen (Hamburg)
+Q114808826	Fünfhausener Hauptdeich
+Q106605218	Fabriciusstraße (Hamburg)
+Q1390772	Fabrik (Hamburg)
+Q106605221	Falkenbergsweg
+Q106605222	Falkenried (Hamburg)
+Q19279491	Falkenried-Terrassen
+Q1394291	Falkensteiner Ufer
+Q106605224	Falkensteiner Weg (Hamburg)
+Q114808793	Falkenweg (Hamburg)
+Q96943612	Familienbad Ohlsdorf
+Q20108085	Fangdiekgraben
+Q56641198	Fanny & Felix Mendelssohn Museum, Hamburg
+Q106605225	Farmsener Landstraße
+Q106605226	Farnstraße (Hamburg)
+Q106605227	Fassbinderweg
+Q884982	Fazle-Omar-Moschee (Hamburg)
+Q106605236	Feßlerstraße (Hamburg)
+Q28549935	Feenteichbrücke
+Q106605228	Feilenhauerweg
+Q1402378	Feldbrunnenstraße
+Q106605231	Feldstraße (Hamburg)
+Q106605232	Felix-Dahn-Straße (Hamburg)
+Q106605233	Felix-Jud-Ring
+Q106605234	Ferdinandstraße (Hamburg)
+Q1259721	Fernmeldeturm Hamburg-Lohbrügge
+Q106605235	Fernsicht (Hamburg)
+Q28600335	Fernsichtbrücke
+Q106605237	Fettstraße
+Q106605238	Feuerbergstraße
+Q33189243	Feuerschiff LV 13 (ship, 1952)
+Q114808795	Feuerteichweg
+Q19279594	Feuerwache Alsterdorf
+Q108560081	Feuerwache Altona
+Q19285020	Feuerwache Berliner Tor
+Q19279595	Feuerwache Innenstadt
+Q108544031	Feuerwache Rotherbaum
+Q19279596	Feuerwache Veddel
+Q112127919	Feuerwache Wandsbek
+Q108535567	Feuerwache Wilhelmsburg
+Q60666107	FFH-Gebiet Boberger Düne und Hangterrassen
+Q60666124	FFH-Gebiet Die Reit
+Q60666123	FFH-Gebiet Hamburger Unterelbe
+Q60666110	FFH-Gebiet Heuckenlock/Schweenssand
+Q60666122	FFH-Gebiet Stellmoorer Tunneltal/Höltigbaum
+Q60666118	FFH-Gebiet Zollenspieker/Kiebitzbrack
+Q106605239	Fibigerstraße
+Q106605240	Fiddigshagen
+Q106605241	Fiefstücken
+Q1417408	Finkenau (Hamburg)
+Q23824547	Finkenrieker Friedhof
+Q106605242	Finkenrieker Hauptdeich
+Q11922097	Finkenwerder Fleet
+Q11922096	Finkenwerder Landscheide
+Q106605243	Finkenwerder Landscheideweg
+Q114808797	Finkenwerder Ring (Hamburg)
+Q1417513	Finkenwerder Süderelbe
+Q114808799	Finkenwerder Straße
+Q63349428	Finnische Seemannskirche in Hamburg
+Q1418221	Finnlandhaus
+Q204712	Fischauktionshalle (Hamburg-Altona)
+Q1419835	Fischbeker Heide
+Q114808801	Fischers Allee
+Q1420359	Fischmarkt (Hamburg)
+Q106605244	Flachsland (Hamburg)
+Q96376709	Fleethaus Hamburg-Harburg
+Q114808814	Fleetplatz (Hamburg)
+Q26219754	Fleetschlösschen
+Q2237848	Fleischgroßmarkt Hamburg
+Q106605245	Flemingstraße (Hamburg)
+Q106605246	Fliederweg
+Q106605247	Flora-Neumann-Straße
+Q114808815	Flotowstraße (Hamburg)
+Q944351	Flottbektal
+Q106605248	Flughafenstraße (Hamburg)
+Q114808816	Flurstraße (Hamburg)
+Q1434349	Flussschifferkirche Hamburg
+Q106605249	Fontenay (Hamburg)
+Q114808817	Fontenay-Allee
+Q18624152	Fontenay-Denkmal
+Q106605250	Foorthkamp
+Q437745	Former railway station Bergedorf
+Q894009	Former synagogue at Bornplatz Hamburg
+Q99485123	Former synagogue Erste Brunnenstrasse Hamburg
+Q107740390	Former synagogue Neve Shalom in Altona
+Q106605251	Forsmannstraße
+Q77597218	Frahmredder
+Q106605252	Frahmstraße (Hamburg)
+Q106605253	Francoper Straße
+Q114808818	Frankenstraße (Hamburg)
+Q1807150	Franksche Laubenganghäuser auf dem Dulsberg
+Q1450388	Franziskus-Kolleg (Hamburg)
+Q66760112	Franz-von-Assisi-Schule (Hamburg)
+Q113193790	Frauenkörper im Wind
+Q106605254	Frauenthal (Hamburg)
+Q15809126	Freie Demokratische Partei in Hamburg
+Q113620491	Freihafen-Elbbrücke
+Q105659402	Freiluftschule Moorwerder
+Q108900690	Freiluftschule Neugraben
+Q105529142	Freiluftschule Wohldorf
+Q110601972	Freiwillige Feuerwehr Allermöhe
+Q113732719	Freiwillige Feuerwehr Billstedt-Horn
+Q110602302	Freiwillige Feuerwehr Curslack
+Q111317620	Freiwillige Feuerwehr Francop
+Q109300963	Freiwillige Feuerwehr Hausbruch
+Q109299967	Freiwillige Feuerwehr Moorburg
+Q111473612	Freiwillige Feuerwehr Moorwerder
+Q110304632	Freiwillige Feuerwehr Neudorf (Hamburg)
+Q113772602	Freiwillige Feuerwehr Neugraben
+Q111843099	Freiwillige Feuerwehr Nienstedten
+Q114134042	Freiwillige Feuerwehr Pöseldorf
+Q113499777	Freiwillige Feuerwehr Sasel
+Q110315824	Freiwillige Feuerwehr Spadenland
+Q76313493	Frettchenweg (Hamburg)
+Q114808819	Frickestraße (Hamburg)
+Q94771453	Fridtjof-Nansen-Schule (Hamburg)
+Q106992066	Friedastraße (Hamburg)
+Q114808820	Friedensallee (Hamburg)
+Q96162554	Friedenskirche (Hamburg-Farmsen-Berne)
+Q108566780	Friedenskirche (Hamburg-Jenfeld)
+Q28374409	Friedenskirche (Hamburg-St. Pauli)
+Q106605255	Friedenstraße (Hamburg)
+Q1457488	Friedhof Öjendorf
+Q18286210	Friedhof Altona
+Q1399761	Friedhof Bergedorf
+Q41680828	Friedhof Blankenese
+Q21205543	Friedhof der Namenlosen Neuwerk
+Q26821519	Friedhof Groß Flottbek
+Q16920677	Friedhof Norderreihe Altona
+Q562211	Friedhof Ohlsdorf
+Q2127412	Friedhof Rahlstedt
+Q107208540	Friedhof Tonndorf
+Q114808822	Friedhofstraße (Hamburg)
+Q106605256	Friedrich-Ebert-Damm (Hamburg)
+Q882453	Friedrich-Ebert-Gymnasium (Hamburg)
+Q106605257	Friedrich-Ebert-Straße (Hamburg)
+Q106605258	Friedrich-Frank-Bogen
+Q114808823	Friedrich-Kirsten-Straße
+Q106962717	Friedrich-Robbe-Institut
+Q47535872	Friedrichsberger Brücke (Hamburg)
+Q51772336	Friedrichsberger Park
+Q106605259	Friedrichsberger Straße (Hamburg)
+Q106605260	Friedrichstraße (Hamburg)
+Q106605261	Friesenstraße (Hamburg)
+Q84493875	Fritz-Köhne-Schule
+Q106605262	Fritz-Schumacher-Allee
+Q28946766	Fritz-Schumacher-Schule
+Q50212429	Fritz-Schumacher-Siedlung
+Q15810829	Frohbotschaftskirche (Hamburg-Dulsberg)
+Q106605263	Frohmestraße
+Q106605264	Fruchtallee (Hamburg)
+Q114808825	Frustbergstraße
+Q106605265	Fuhlentwiete
+Q26821521	Fuhlsbüttler Straße
+Q11923300	Furtbek
+Q106605266	Furtweg (Hamburg)
+Q1558764	Gängeviertel (Hamburg)
+Q1558796	Gänsemarkt
+Q107159248	Göhlbachtal
+Q1559591	Görtz-Palais
+Q106605324	Güntherstraße (Hamburg)
+Q1562227	Güterumgehungsbahn Hamburg
+Q50250808	Galerie Weber in Hamburg
+Q1492309	Galleria (Hamburg)
+Q811949	Gardens and parks in Hamburg
+Q106605267	Garstedter Weg (Hamburg)
+Q106393914	Garstedter Weg 9 (Hamburg)
+Q1494692	Gartenstadt Berne
+Q31839652	Gartenstadt Farmsen
+Q31202344	Gasolin-Tankstelle Billhorner Röhrendamm 4 (Hamburg)
+Q114808830	Gasstraße (Hamburg)
+Q106605268	Gaußstraße (Hamburg)
+Q105755871	Gaußstraße 51 (Hamburg)
+Q106605269	Gazellenkamp
+Q106605270	Gebrüder-Wolf-Platz (Hamburg)
+Q106605271	Gebweiler Straße
+Q11823399	Gedenkhain KZ Neuengamme - Deportierte des Warschauer Aufstandes 1944
+Q1004271	Gedenkstätte Bullenhuser Damm
+Q2098738	Gedenkstätte Plattenhaus Poppenbüttel
+Q1497510	Gedenkstein für die Erhebung Schleswig-Holsteins (Hamburg-Blankenese)
+Q79117283	Gedenkstein Neue Dammtorsynagoge (Hamburg)
+Q114808832	Geffckenstraße
+Q106605272	Gefionstraße (Hamburg)
+Q106605273	Gehlengraben
+Q106605274	Geibelstraße (Hamburg)
+Q882742	Gelehrtenschule des Johanneums
+Q28499802	Gemeindehaus St. Michaelis
+Q28037564	Gemeindezentrum Mümmelmannsberg
+Q1277629	Generation Move
+Q106605275	Genslerstraße (Hamburg)
+Q1503225	Geologisch-Paläontologisches Museum Hamburg
+Q107143114	Geomatikum (Hamburg)
+Q114808834	Georg-Heyken-Straße
+Q114808837	Georgsplatz (Hamburg)
+Q11924090	Georgswerder Schleusengraben
+Q106605276	Georg-Thielen-Gasse
+Q114808835	Georg-Wilhelm-Straße (Hamburg)
+Q106605278	Gerade Straße (Hamburg)
+Q1512919	Gerhart-Hauptmann-Platz (Hamburg)
+Q106605279	Gerhofstraße
+Q114808839	Gerichtstraße (Hamburg)
+Q470412	German Institute for Global and Area Studies
+Q106605280	Gerritstraße
+Q106605281	Gertigstraße
+Q114808841	Gertrudenkirchhof (Hamburg)
+Q114808844	Gertrudenstraße (Hamburg)
+Q65900626	Geschwister-Scholl-Stadtteilschule
+Q114808846	Geschwister-Scholl-Straße (Hamburg)
+Q105480861	Gesellschaftsspiegel
+Q19284024	Gewerkschaftshaus (Hamburg)
+Q24068718	Girardethaus
+Q67086172	Gisela Engelin-Hommes, Zirkusreiterin
+Q106605286	Glückel-von-Hameln-Straße
+Q106605282	Glacischaussee
+Q106605283	Glashüttenstraße (Hamburg)
+Q315684	Glinder Au
+Q106605285	Glindweg (Hamburg)
+Q106382358	Globushof
+Q24505389	Glockengießerwall
+Q106605287	Gluckstraße (Hamburg)
+Q106605288	Gnadenbergweg
+Q108566781	Gnadenkirche (Hamburg-Lohbrügge)
+Q9187671	Gnadenkirche St. Pauli
+Q106605289	Gneisenaustraße (Hamburg)
+Q1540603	Goßlerhaus
+Q1321149	Goßlers Park
+Q106605290	Godeffroystraße (Hamburg)
+Q47507434	Goebenbrücke (Hamburg)
+Q114808848	Goebenstraße (Hamburg)
+Q106605291	Goernestraße
+Q114808851	Goetheallee (Hamburg)
+Q113977016	Goetheallee 5-7 (Hamburg)
+Q1534110	Goethe-Gymnasium (Hamburg)
+Q106605293	Goethestraße (Hamburg)
+Q114808854	Gojenbergsweg
+Q1534721	Goldbekkanal
+Q106605294	Goldbekplatz
+Q66103050	Goldbek-Schule
+Q106605295	Goldbekufer
+Q1535030	Golden Pudel Club
+Q100806034	Goldmariekengraben
+Q92598718	Gorch-Fock-Schule (Hamburg)
+Q106605296	Gorch-Fock-Wall (Hamburg)
+Q882956	Gose Elbe
+Q106605297	Gottschedstraße (Hamburg)
+Q106692977	Grünanlage Willersweg
+Q106605321	Grüner Winkel
+Q1550320	Grünspan
+Q113137846	Grab Henning Voscherau auf dem Friedhof Ohlsdorf
+Q99541032	Graben am Ree
+Q104218067	Graben Bahnhofsviertel
+Q98768919	Graben Stadionstraße
+Q106605298	Grabenstraße (Hamburg)
+Q19284327	Graf-Goltz-Kaserne (Hamburg)
+Q114808856	Gramkowweg
+Q114808859	Grandeswerder Straße
+Q106605299	Grandweg (Hamburg)
+Q77041738	Grasbrookpark
+Q106605300	Graskeller
+Q114808861	Grasredder (Hamburg)
+Q106605301	Grasweg (Hamburg)
+Q106605302	Graumannsweg
+Q106605303	Graumanntwiete
+Q104216876	Graumanntwiete 5
+Q70201050	Grave Bendixen at Friedhof Ohlsdorf
+Q98841506	Grave Hadeler (Karin Hertz) at Friedhof Ohlsdorf
+Q67142233	Grave KH Engelin at Friedhof Ohlsdorf
+Q67142664	Grave Veit Engelin at Friedhof Ohlsdorf
+Q107300682	Greifenbergpark
+Q106605304	Greifswalder Straße (Hamburg)
+Q106605305	Grellkamp (Hamburg)
+Q105582355	Gretel-Bergmann-Schule
+Q11924715	Grevenhofkanal
+Q106605306	Grevenweg (Hamburg)
+Q106605307	Griegstraße (Hamburg)
+Q106713012	Grimm
+Q106605309	Grindelallee
+Q111901527	Grindelallee 100
+Q106371754	Grindelallee 117
+Q106605310	Grindelberg
+Q1546956	Grindelhochhäuser
+Q114808865	Grindelweg (Hamburg)
+Q108566782	Groß Flottbeker Kirche (Hamburg)
+Q114808870	Große Bäckerstraße (Hamburg)
+Q1548151	Große Bergstraße (Hamburg)
+Q27669941	Große Bleichen (Hamburg)
+Q114808867	Große Brunnenstraße (Hamburg)
+Q26836571	Große Elbstraße
+Q316958	Große Flottbek
+Q895867	Große Freiheit
+Q15137841	Große Freiheit 36
+Q104870500	Große Freiheit 63
+Q114808871	Große Johannisstraße (Hamburg)
+Q79798064	Große Liegende (Barbara Haeger, 1956)
+Q44444852	Große Reichenstraße
+Q1548641	Großer Burstah
+Q106605314	Großer Grasbrook
+Q106605315	Großer Schippsee (Hamburg)
+Q106605316	Großer Trampgang
+Q106605317	Großheidestraße (Hamburg)
+Q1549478	Großneumarkt
+Q76307559	Großneumarktbrunnen
+Q110970310	Großwohnsiedlung Hamburg-Steilshoop
+Q106605311	Groothoffgasse
+Q106605312	Grootsruhe (Hamburg)
+Q106605313	Gropiusring (Hamburg)
+Q106605319	Grote Raak
+Q96979283	Grothwischgraben
+Q114808873	Grube (Hamburg)
+Q106605320	Grumbrechtstraße
+Q106811742	Grundschule Buckhorn
+Q90043460	Grundschule Horn (Hamburg)
+Q96193701	Grundschule Lohkampstraße
+Q98934360	Grundschule Mümmelmannsberg
+Q83784643	Grundschule Sachsenweg
+Q91442810	Grundschule Stübenhofer Weg
+Q96323170	Grundschule St. Pauli
+Q19310793	Gruner + Jahr Verlagshaus Baumwall
+Q106605323	Gryphiusstraße (Hamburg)
+Q11924800	Guanofleet
+Q1555231	Gurlitt-Insel
+Q114808874	Gurlittstraße (Hamburg)
+Q11925009	Gussau
+Q1555405	Gustaf-Adolfskyrkan (Hamburg)
+Q56641015	Gustav Mahler-Museum, Hamburg
+Q106605325	Gustav-Falke-Straße
+Q106605326	Gustav-Freytag-Strasse (Hamburg)
+Q106605327	Gustav-Leo-Straße
+Q28314181	Gustav-Mahler-Park
+Q17123453	Gut Karlshöhe
+Q107445411	Gut Marienhöhe
+Q1454260	Gymnasium Allee (Hamburg)
+Q65998271	Gymnasium Allermöhe
+Q1558060	Gymnasium Alstertal
+Q1558062	Gymnasium Altona
+Q41576002	Gymnasium Blankenese
+Q1558078	Gymnasium Bondenwald
+Q1558081	Gymnasium Bornbrook
+Q60024528	Gymnasium Buckhorn
+Q65999288	Gymnasium Dörpsweg
+Q1558106	Gymnasium Eppendorf
+Q1558112	Gymnasium Farmsen
+Q65998915	Gymnasium Finkenwerder
+Q69997166	Gymnasium Hamm (Hamburg)
+Q1387373	Gymnasium Heidberg
+Q63183783	Gymnasium Hochrad
+Q18624903	Gymnasium Hoheluft
+Q63086254	Gymnasium Hummelsbüttel
+Q27920019	Gymnasium Lerchenfeld
+Q65783704	Gymnasium Lohbrügge
+Q1558182	Gymnasium Meiendorf
+Q1427207	Gymnasium Oberalster
+Q66004142	Gymnasium Ohmoor
+Q1558205	Gymnasium Oldenfelde
+Q1558206	Gymnasium Osterbek
+Q66004193	Gymnasium Othmarschen
+Q66004249	Gymnasium Rahlstedt
+Q66133369	Gymnasium Rissen
+Q108340770	Gymnasium Rotherbaum
+Q1558244	Gymnasium Süderelbe
+Q66619427	Gyula-Trebitsch-Schule Tonndorf
+Q106605417	Högerdamm (Hamburg)
+Q106605429	Höhnkoppelort
+Q106605430	Hölertwiete
+Q1321287	Höltigbaum
+Q106605445	Höltystraße (Hamburg)
+Q106605447	Höpen (Hamburg)
+Q106605453	Hübenerstraße (Hamburg)
+Q76164745	Hübner-Haus (Hamburg)
+Q17353668	Hühnerposten (Hamburg)
+Q106605460	Hüllenkamp
+Q106605463	Hürtweg
+Q106605464	Hütten (Hamburg)
+Q106605328	Haakestraße
+Q106690037	Habichtsplatz
+Q114808876	Habichtstraße (Hamburg)
+Q61736039	Hachmannbrücke
+Q106605329	Hachmannplatz
+Q106605330	Haderslebener Straße (Hamburg)
+Q20181604	Hafen Rock
+Q1567914	Hafenbahnhof Hamburg Süd
+Q114103043	Hafenbezirk
+Q26837060	HafenCity RiverBus
+Q1567931	Hafengeburtstag
+Q19686386	Hafenklang
+Q1567944	Hafenkrankenhaus
+Q1408998	Hafenmuseum (Hamburg)
+Q56878399	Hafenpolizeiwache No 2
+Q106605331	Hafentor (Hamburg)
+Q106605332	Haferkamp (Hamburg)
+Q114808877	Hagenbeckstraße (Hamburg)
+Q114808878	Haidlandsweg
+Q1677672	Hainesch-Iland
+Q106605333	Halbenkamp
+Q114808880	Haldesdorfer Straße
+Q114808881	Halifaxweg
+Q114808883	Hallerplatz
+Q98164575	Hallerstraße
+Q106605334	Halstenbeker Straße (Hamburg)
+Q106605335	Hamborner Stieg
+Q27706	Hamburg Airport
+Q1572883	Hamburg Commonwealth War Graves Commission Cemetery
+Q1648668	Hamburg Cruise Center Altona
+Q1572885	Hamburg Cruise Center HafenCity
+Q16319382	Hamburg Cruise Center Steinwerder
+Q882600	Hamburg Dungeon
+Q6456	Hamburg Hauptbahnhof
+Q43202951	Hamburg Süd (building)
+Q21584342	Hamburg Triathlon
+Q882140	Hamburg-Altonaer Verbindungsbahn
+Q558551	Hamburger Börse
+Q106605336	Hamburger Berg
+Q1572987	Hamburger Deckel
+Q1572997	Hamburger Ehrenmal für die Gefallenen beider Weltkriege
+Q1573007	Hamburger Flaktürme
+Q19963918	Hamburger Genossenschaftsmuseum
+Q106605339	Hamburger Hochstraße
+Q1229183	Hamburger Hof, Hamburg
+Q5644305	Hamburger Institut für Sozialforschung
+Q1573051	Hamburger Konservatorium
+Q1573072	Hamburger Marschbahn
+Q880649	Hamburger Rathausmarkt
+Q1573125	Hamburger Schulmuseum
+Q1573143	Hamburger Sportbund
+Q2472	Hamburger Stadtpark
+Q60747679	Hamburger Volksoper
+Q1572803	Hamburg-Haus Eimsbüttel
+Q770838	Hamburgische Münze
+Q1573230	Hamburgisches Architekturarchiv
+Q60666151	Hamburgisches Wattenmeer (FFH-Gebiet)
+Q1601723	Hamburg-Nettelnburg
+Q106605341	Hammer Hof
+Q46422296	Hammer Landstraße
+Q94521414	Hammer Steindamm
+Q106605342	Hammer Straße (Hamburg)
+Q19284721	Hammerbrookschleuse
+Q106605343	Hammerbrookstraße
+Q19284723	Hammonia-Bad
+Q72587904	Handelsschule Berliner Tor
+Q114808884	Handweg (Hamburg)
+Q240059	Hannover–Hamburg railway line
+Q106605345	Hannoversche Straße (Hamburg)
+Q1572904	Hannoverscher Bahnhof
+Q109771339	Hansaburg (Hamburg-Hamm)
+Q1583589	Hansa-Gymnasium Bergedorf
+Q109970818	Hansa-Kolleg (Hamburg)
+Q24886347	Hans-Albers-Platz (Hamburg)
+Q1583648	Hansaport
+Q264222	Hansa-Theater (Hamburg)
+Q1583703	Hanseatic Trade Center
+Q14906769	Hanse-Viertel (Hamburg)
+Q106605346	Hans-Fitze-Straße (Hamburg)
+Q106605347	Hanssensweg
+Q11925998	Harburger Holzhafen
+Q106605348	Harburger Rathausplatz (Hamburg)
+Q106605349	Harburger Rathausstraße
+Q1584939	Harburger Schloßstraße
+Q1584937	Harburger Schloss
+Q1584941	Harburger Stadtpark
+Q106605351	Harders Kamp
+Q106605352	Harkortstraße (Hamburg)
+Q106605354	Harksheider Straße
+Q106605355	Hartmannsau
+Q106605356	Hartungstraße (Hamburg)
+Q106605357	Hartwicusstraße
+Q106605358	Hartzlohplatz
+Q29048943	Hasenbergbrücke
+Q76309197	Hasenweg (Hamburg)
+Q106605360	Hasloher Kehre
+Q105242955	Hasselbrookstraße
+Q114808886	Hasselmannstraße (Hamburg)
+Q106605361	Hastedtstraße (Hamburg)
+Q106605362	Haubachstraße (Hamburg)
+Q106605363	Hauersweg
+Q11911943	Hauptentwässerungsgraben Allermöhe
+Q11911942	Hauptentwässerungsgraben Moorfleet
+Q23786394	Haus der Seefahrt (Hamburg)
+Q90536188	Haus Glass
+Q22320757	Haus Goldener Schwan (Hamburg)
+Q1590249	Haus K. in O.
+Q18287379	Haus Kornweg 17E
+Q110934605	Haus Neuerburg (Wandsbek)
+Q25089216	Haus Rademacher
+Q18287382	Haus Stübekamp 75
+Q106605364	Hausbrucher Bahnhofstraße
+Q114808887	Hausbrucher Moor
+Q114808888	Hausbrucher Straße
+Q113151828	Hauszeichen (S. u. H., Hamburg Walddörferstr)
+Q106605365	Haynstraße (Hamburg)
+Q106605366	Hebebrandstraße
+Q106605367	Heckenrosenweg
+Q106605368	Heckkatenweg
+Q114808890	Heckscherstraße Hamburg-Hoheluft-West
+Q79364470	Heegbarg
+Q114808891	Hegestraße (Hamburg)
+Q106605369	Hegholt
+Q106489986	Heidbarghof
+Q106605370	Heidenkampsweg
+Q114808893	Heider Straße (Hamburg)
+Q106605371	Heidhörn
+Q106605372	Heidi-Kabel-Platz
+Q106605373	Heidrand (Hamburg)
+Q66385182	Heilandskirche (Hamburg-Uhlenhorst)
+Q108566783	Heilige-Familie-Kirche (Hamburg-Langenhorn)
+Q19963924	Heiligengeistbrücke
+Q108566784	Heiliggeistkirche (Hamburg-Altona)
+Q95562568	Heilig-Geist-Kirche (Hamburg-Farmsen)
+Q1594894	Heilig-Geist-Kirchhof Altona
+Q1594955	Heilig-Kreuz-Kirche (Hamburg-Volksdorf)
+Q1595481	Heilwig-Gymnasium
+Q106605374	Heilwigstraße (Hamburg)
+Q14906798	Heimatmuseum Wandsbek
+Q111797403	Heimfelder Holz
+Q106605375	Heimfelder Straße
+Q106605376	Heimhuder Straße
+Q106605377	Heimweg (Hamburg)
+Q110947678	Heine-Haus, Jungfernstieg (Hamburg)
+Q1414278	Heine-Haus (Elbchaussee)
+Q1595968	Heine-Park (Hamburg)
+Q106605379	Hein-Hoyer-Straße
+Q114808894	Heinickestraße (Hamburg)
+Q27979158	Hein-Köllisch-Platz (Hamburg)
+Q109836106	Heinrich-Barth-Straße
+Q1596378	Heinrich-Groß-Hof
+Q96375132	Heinrich-Heine-Denkmal, Rathausmarkt (Hamburg)
+Q1596400	Heinrich-Heine-Gymnasium (Hamburg)
+Q106605380	Heinrich-Heine-Weg (Hamburg)
+Q114808896	Heinrich-Helbing-Straße
+Q18625342	Heinrich-Hertz-Schule (Hamburg)
+Q106605382	Heinrich-Hertz-Straße (Hamburg)
+Q648375	Heinrich-Hertz-Turm
+Q106605383	Heinrich-Osterath-Straße
+Q109673231	Heinrich-Osterath-Straße 45
+Q106605385	Heinrichstraße (Hamburg)
+Q106605384	Heinrich-Traun-Platz Hamburg-Fuhlsbüttel
+Q114808897	Heinrich-Traun-Straße
+Q114808898	Heinrich-von-Ohlendorff-Straße
+Q66686355	Heinrich-Wolgast-Schule
+Q106605386	Heinskamp
+Q107407447	Heinz-Erhardt-Park
+Q69683972	Heisenberg-Gymnasium Hamburg
+Q106605387	Heitmannstraße (Hamburg)
+Q19392478	Heizkraftwerk Tiefstack
+Q54418279	Heizwerk Barmbek
+Q53665728	Heizwerk HafenCity
+Q1601926	Helene-Lange-Gymnasium (Hamburg)
+Q1602061	Helenenstift (Hamburg)
+Q106605388	Helgoländer Allee (Hamburg)
+Q38643723	Helios Klinikum Mariahilf Hamburg
+Q106605389	Hellbrookstraße
+Q83493965	Hellbrookstraßenbrücke
+Q114808900	Hellgrundweg
+Q111550318	Hellgrundweg 45
+Q110998226	Helmuth-Schack-See
+Q65056978	Helmut-Schmidt-Gymnasium (Hamburg)
+Q106605390	Helmut-Steidl-Platz
+Q106605391	Hemmingstedter Weg (Hamburg)
+Q106605392	Henny-Schütz-Allee
+Q315857	Herbertstraße (Hamburg)
+Q106605393	Herbert-Wehner-Platz (Hamburg)
+Q106605394	Herbert-Weichmann-Strasse (Hamburg)
+Q96146856	Herderstraße (Hamburg)
+Q1610484	Hermann (ship, 1905)
+Q114808901	Hermann-Blohm-Straße
+Q114808903	Hermann-Distel-Straße
+Q114808905	Hermann-Ruge-Weg
+Q106605395	Hermannstal (Hamburg)
+Q106605396	Hermannstraße (Hamburg)
+Q106605397	Hermelinweg (Hamburg)
+Q106605398	Herrengraben (Hamburg)
+Q113642	Herrengrabenfleet
+Q21035551	Herrenhaus Höltigbaum
+Q106605399	Herrenweide (Hamburg)
+Q106605400	Herthastraße (Hamburg)
+Q108566785	Herz-Jesu-Kirche (Hamburg-Hamm)
+Q99541129	Herzmoorgraben
+Q1615840	Hessepark (Hamburg)
+Q106605402	Heußweg (Hamburg)
+Q106605401	Heuberg (Hamburg)
+Q1971032	Heuckenlock
+Q106605403	Heymannstraße (Hamburg)
+Q106605404	Heynemannstraße (Hamburg)
+Q106678317	Heysestraße (Hamburg)
+Q25089273	Hindenburgbrücke (Hamburg)
+Q15114849	Hindenburgstraße (Hamburg)
+Q106605406	Hinrichsenstraße (Hamburg)
+Q106605408	Hinsbleek
+Q106605409	Hinschenfelder Straße
+Q106605410	Hinter den Boden
+Q28498634	Hiobs-Hospital (Hamburg)
+Q100441208	Hirschfeldstraße (Hamburg)
+Q65238155	Hirschgraben (Hamburg)
+Q1620492	Hirschpark (Hamburg)
+Q106605411	Hirtenstraße (Hamburg)
+Q54944058	Historischer Friedhof Wandsbek
+Q106605412	Hochallee (Hamburg)
+Q113432333	Hochbahnbrücke Helgoländer Allee
+Q100803977	Hochbunker Allende-Platz
+Q105221992	Hochbunker August-Lütgens-Park
+Q105641638	Hochbunker Barmbeker Straße
+Q110928593	Hochbunker Behringstraße
+Q111215933	Hochbunker Binderstraße
+Q110923952	Hochbunker Heußweg 114
+Q105640713	Hochbunker Humboldtstraße (Hamburg)
+Q108528345	Hochbunker Rethedamm
+Q100525373	Hochbunker Von-Hein-Straße
+Q1464829	Hochkamp
+Q106605413	Hochrad (Hamburg)
+Q1622099	Hochschule Fresenius
+Q873570	Hochstraße Elbmarsch
+Q11925989	Hochwasserbassin
+Q106488984	Hof Behrmann
+Q106605414	Hoffmeyerstraße (Hamburg)
+Q107387349	Hofschläger Weg
+Q106634557	Hofschläger Weg 1
+Q106605415	Hofweg (Hamburg)
+Q30129726	Hofwegbrücke
+Q11925994	Hofwegkanal
+Q106605416	Hogenlitgrund
+Q114808906	Hohe Bleichen (Hamburg)
+Q19285654	Hohe Brücke (Hamburg)
+Q106605418	Hohe Landwehr
+Q106605419	Hohe Liedt
+Q21000810	Hohe Schaar
+Q106605420	Hohe Straße (Hamburg)
+Q106605422	Hohe Weide (Hamburg)
+Q106605423	Hoheluftchaussee
+Q1543317	Hohendeicher See
+Q114808908	Hohenfelder Allee
+Q106605424	Hohenfelder Terrasse
+Q112208581	Hohenhorst (Hamburg)
+Q106605425	Hohensteiner Straße (Hamburg)
+Q114808910	Hohenwischer Straße
+Q111204014	Hohenwischer Straße 209
+Q106605426	Hohenzollernring (Hamburg)
+Q114808912	Hoherade
+Q106605427	Hohler Weg (Hamburg)
+Q106605428	Hohnerkamp (Hamburg)
+Q1624677	Holiday Inn Hamburg-Rothenburgsort
+Q106605431	Holitzberg
+Q100724886	Holländischbrookfleetbrücke
+Q106605432	Holländische Reihe
+Q106605433	Holländischer Brook
+Q106605434	Holmbrook (Hamburg)
+Q114808914	Holsteiner Chaussee
+Q106605435	Holsteinischer Kamp
+Q106605437	Holstenglacis
+Q106605438	Holstenhofweg
+Q106605439	Holstenkamp
+Q106605440	Holstenplatz (Hamburg)
+Q1625144	Holstenstraße (Hamburg)
+Q106605442	Holstentwiete (Hamburg)
+Q106605443	Holstenwall
+Q106605444	Holtkoppel
+Q99193081	Holtkoppelgraben
+Q106605446	Holzdamm (Hamburg)
+Q61019802	Holzhafen (Hamburg)
+Q11926029	Honigfabrik
+Q103488196	Hopfengraben (Osterbek)
+Q18625733	Hopfenmarkt (Hamburg)
+Q106605448	Hopfensack (Hamburg)
+Q106605449	Hopfenstraße (Hamburg)
+Q114808915	Hoppenstedtstraße (Hamburg)
+Q106605450	Horner Landstraße
+Q822397	Horner Rennbahn
+Q105797772	Horner Warteschule
+Q106605451	Horner Weg (Hamburg)
+Q114808917	Hornkamp (Hamburg)
+Q11926062	Horstbek
+Q114808919	Horster Damm (Hamburg)
+Q109730513	Horster Damm 170
+Q106605452	Hospitalstraße (Hamburg)
+Q106832812	Hospitalstraße 107 (Hamburg)
+Q106832769	Hospitalstraße 109 (Hamburg)
+Q873918	Hotel Atlantic
+Q19285786	Hotel Hafen Hamburg
+Q1630936	Hotel Kaiserhof (Hamburg)
+Q15816032	Hotel Reichshof (Hamburg)
+Q1630947	Hotelrestaurant Louis C. Jacob
+Q11926137	Hovekanal
+Q114808920	Hovestraße (Hamburg)
+Q113190319	Howaldtbrücke
+Q566169	HSV Barmbek-Uhlenhorst
+Q106605454	Hudtwalckerstraße (Hamburg)
+Q106605456	Hufnerstraße
+Q106605457	Hufnertwiete
+Q114808924	Hugh-Greene-Weg
+Q1586687	Hulbehaus
+Q18625813	Humboldtstraße (Hamburg)
+Q76307650	Hummelbrunnen
+Q106605461	Hummelsbütteler Kirchenweg
+Q114808926	Hummelsbütteler Landstraße
+Q1971048	Hummelsbütteler Moore
+Q99529442	Hummelsbütteler Moorgraben
+Q106605462	Hummelsbüttler Hauptstraße
+Q27883350	Hummelsee Hamburg-Hummelsbüttel
+Q114808930	Husumer Straße (Hamburg)
+Q6063200	Hygieia-Brunnen, Hamburg
+Q800300	ICE-Bahnbetriebswerk Hamburg-Eidelstedt
+Q61050545	Ida-Ehre-Platz
+Q1656469	Ida-Ehre-Schule
+Q106605465	Ifflandstraße (Hamburg)
+Q106605466	Ilandkoppel
+Q66023291	Ilse-Löwenstein-Schule
+Q106605467	Im Allhorn
+Q106605468	Im Alten Dorfe (Hamburg)
+Q106605469	Im Grünen Grunde
+Q106605470	Im Tale (Hamburg)
+Q668264	Imam-Ali-Moschee (Hamburg)
+Q21974170	Immanuel-Kant-Gymnasium (Hamburg)
+Q59660033	Immanuelkirche (Hamburg-Veddel)
+Q106605471	Immenbarg
+Q106605473	Immenhöven
+Q106605472	Immenhof
+Q2229170	IMO 5010323
+Q883560	IMO 5046281
+Q858079	IMO 5060794
+Q106605474	Imstedt
+Q11926621	Industriekanal
+Q114808932	Industriestraße (Hamburg)
+Q19286112	Informationszentrum NS-Zwangsarbeit
+Q114808935	Ingwersens Weg
+Q1418566	Innocentiapark
+Q106605475	Innocentiastraße
+Q11926692	Inselkanal
+Q1664496	Inselschule Neuwerk
+Q1664858	Institut für Friedensforschung und Sicherheitspolitik an der Universität Hamburg
+Q1362568	Institut für Hygiene und Umwelt
+Q6052961	International School Hamburg
+Q639118	International Tribunal for the Law of the Sea
+Q19906297	Internationale Gartenbauausstellung 1973
+Q14540762	Internationale Gartenschau 2013
+Q937608	Internationales Maritimes Museum Hamburg
+Q66322772	Irena-Sendler-Schule (Hamburg)
+Q1464580	Isebekkanal
+Q111205397	Isekai
+Q106605476	Iserbarg
+Q106605477	Iserlohner Stieg
+Q63196749	Isestraße
+Q106605478	Islandstraße (Hamburg)
+Q1598945	Israelitische Töchterschule (Hamburg)
+Q1674737	Israelitisches Krankenhaus Hamburg
+Q15264626	Italienische Kriegsgräberstätte Hamburg-Öjendorf
+Q114808945	Jägerstraße (Hamburg)
+Q1414486	Jüdischer Friedhof (Altona)
+Q1713655	Jüdischer Friedhof (Hamburg-Ottensen)
+Q1716702	Jüdischer Friedhof (Kohlhöfen)
+Q1716734	Jüdischer Friedhof (Neuer Steinweg)
+Q1716638	Jüdischer Friedhof Bornkampsweg (Hamburg-Bahrenfeld)
+Q1605511	Jüdischer Friedhof Jenfelder Straße (Hamburg-Tonndorf)
+Q1716773	Jüdischer Friedhof Königsreihe (Hamburg-Wandsbek)
+Q1716716	Jüdischer Friedhof Langenfelde (Hamburg-Eimsbüttel)
+Q1262883	Jüdischer Friedhof Ohlsdorf
+Q106605497	Jürgensallee
+Q106605498	Jüthornstraße
+Q106605499	Jütlandring
+Q96757418	Jaarsmoorgraben
+Q15820609	Jacobipark
+Q32062874	Jaffe-Davids-Kanal
+Q51763551	Jahnbrücke
+Q108344656	Jahnkampfbahn (Hamburg)
+Q114808936	Jakobikirchhof (Hamburg)
+Q110572900	Jan-Fedder-Promenade
+Q106605479	Jan-Valkenburg-Straße
+Q1683705	Jarrestadt
+Q106605480	Jarrestraße
+Q106605482	Jean-Dolidier-Weg
+Q106605483	Jean-Paul-Weg (Hamburg)
+Q106832145	Jenckelhaus
+Q106605484	Jenfelder Allee
+Q14541072	Jenfelder Bach
+Q106605485	Jenfelder Straße
+Q66759004	Jenisch-Gymnasium
+Q1686858	Jenisch-Haus
+Q25089266	Jenischpark
+Q106605486	Jenischstraße (Hamburg)
+Q28836438	Jerusalem-Kirche (Hamburg-Eimsbüttel)
+Q56640840	Johann Adolf Hasse Museum, Hamburg
+Q1694545	Johann Heinrich von Thünen-Institut
+Q106605487	Johann-Adolf-Hasse-Platz
+Q28465285	Johannes-Brahms-Gymnasium (Hamburg)
+Q26772401	Johanneskirche (Hamburg-Rissen)
+Q108566787	Johanneskirche (Hamburg-Rotherbaum)
+Q21037005	Johannes-Prassek-Park
+Q108566788	Johann-Gerhard-Oncken-Kirche
+Q106605488	Johannisbollwerk
+Q106605489	Johanniswall (Hamburg)
+Q1691907	Johan-van-Valckenburgh-Brücke
+Q114808938	Johnsallee
+Q106605490	Jordanstraße (Hamburg)
+Q114808940	Joseph-Carlebach-Platz
+Q106605491	Josephstraße (Hamburg)
+Q108566790	Jubilate-Kirche (Hamburg-Billstedt)
+Q108566792	Jubilate-Kirche (Hamburg-Lemsahl-Mellingstedt)
+Q101438779	Jugend-Europahaus
+Q108566793	Jugendkirche (Hamburg-Bahrenfeld)
+Q99529197	Jugendparkgraben
+Q106605492	Jugendparkweg
+Q89656410	Julius-Leber-Schule (Hamburg)
+Q114808941	Julius-Leber-Straße (Hamburg)
+Q106605493	Julius-Ludowieg-Straße
+Q114808943	Julius-Reincke-Stieg
+Q106677617	Julius-Vosseler-Straße
+Q19979483	Julssand Leuchtturm
+Q106605494	Jungestraße (Hamburg)
+Q1713426	Jungfernbrücke (Hamburg)
+Q6451	Jungfernstieg
+Q106605495	Jungfrauenthal
+Q106605496	Jungiusstraße (Hamburg)
+Q1714358	JVA Billwerder
+Q1714381	JVA Fuhlsbüttel
+Q106605505	Käkenflur
+Q106605506	Käkenkamp
+Q113171496	Käthe Kollwitz by Gustav Seitz, Hamburg-Langenhorn
+Q106605523	Käthnerort
+Q730662	Köhlbrand
+Q520613	Köhlbrandbrücke
+Q114808987	Köhlbranddeich
+Q1795670	Köhlbrand-Freileitungskreuzung
+Q1695139	Köhlbrandtreppe
+Q106605568	Königshütter Straße (Hamburg)
+Q106605569	Königsreihe
+Q97775131	Königstraße (Hamburg)
+Q114808988	Köppenstraße (Hamburg)
+Q106605573	Kösterbergstraße (Hamburg)
+Q14906972	Köster-Stiftung
+Q114808990	Kösterstraße (Hamburg)
+Q106605587	Küchgarten (Hamburg)
+Q1683524	Kühne Logistics University
+Q106605593	Kümmellstraße (Hamburg)
+Q14548756	Künstlerhaus Sootbörn
+Q114808992	Küstersweg (Hamburg)
+Q106605500	Kahlkamp (Hamburg)
+Q28089442	Kaifu-Bad
+Q113827388	Kaischuppen 50
+Q101093682	Kaiser Wilhelm-Denkmal (Altona)
+Q106605501	Kaiser-Friedrich-Ufer
+Q106605503	Kaiserkai
+Q834519	Kaiserkeller
+Q1721556	Kaiser-Wilhelm-Denkmal (Hamburg)
+Q101010584	Kaiser-Wilhelm-Denkmal (Hamburg-Bergedorf)
+Q106678327	Kaiser-Wilhelm-Platz (Hamburg)
+Q106605502	Kaiser-Wilhelm-Straße (Hamburg)
+Q1618867	Kaispeicher A
+Q60728819	Kaispeicher B
+Q114808946	Kaistraße (Hamburg)
+Q1721837	Kajen (Hamburg)
+Q106605507	Kalischerstraße (Hamburg)
+Q19963955	Kalkhof (Hamburg)
+Q1722634	Kaltehofe
+Q114808948	Kamerunweg
+Q106605508	Kamminer Straße (Hamburg)
+Q11929618	Kampbille
+Q106605509	Kampstraße (Hamburg)
+Q28859942	Kanalbrücke Von-Essen-Straße
+Q106605510	Kanalplatz (Hamburg)
+Q96376808	Kanalplatz 6 (Hamburg)
+Q96376919	Kanalplatz 8 (Hamburg)
+Q106605511	Kannengießerort
+Q106605512	Kantstraße (Hamburg)
+Q114808950	Kanzlershof
+Q114808951	Kanzlershofer Weg
+Q106605513	Kanzlerstraße (Hamburg)
+Q46337296	Kapelle 13 (Friedhof Ohlsdorf)
+Q106605514	Kapellenweg (Hamburg)
+Q14906925	Kapernaumkirche (Hamburg-Horn)
+Q106605516	Kapitän-Schröder-Weg
+Q106605517	Kapstadtring
+Q71147090	Kapstadtring 2 bis 4
+Q106605518	Karl-Arnold-Ring (Hamburg)
+Q110887180	Karl-Schneider-Halle
+Q114808954	Karlshöhe (Hamburg)
+Q106605519	Karlstraße (Hamburg)
+Q106967462	Karl-Theodor-Straße (Hamburg)
+Q111655789	Karl-Theodor-Straße 18 (Hamburg)
+Q106605520	Karnapp
+Q106605521	Karolinenstraße (Hamburg)
+Q1734263	Karolinenviertel (Hamburg)
+Q106605522	Kastanienallee (Hamburg)
+Q80708399	Katharina-von-Siena-Schule
+Q25089221	Katharinenhof-Frachtenhaus
+Q114808955	Katharinenkirchhof (Hamburg)
+Q69650918	Katharinenschule (Hamburg)
+Q114808957	Katharinenstraße (Hamburg)
+Q108566794	Katholisch-apostolische Kirche Finkenau (Hamburg-Uhlenhorst)
+Q76416817	Katholische Bonifatiusschule (Hamburg)
+Q93635083	Katholische Schule Altona
+Q79030177	Katholische Schule Am Weiher
+Q107642084	Katholische Schule Bergedorf
+Q94400157	Katholische Schule Blankenese
+Q93376730	Katholische Schule Farmsen
+Q88279795	Katholische Schule Hammer Kirche
+Q90262047	Katholische Schule Harburg
+Q76122419	Katholische Schule Hochallee
+Q108923150	Katholische Schule Neugraben
+Q83364148	Katholische Schule St. Antonius (Hamburg)
+Q88300024	Katholische Schule St. Joseph Wandsbek
+Q85685032	Katholische Schule St. Marien (Hamburg)
+Q98094864	Katholische Schule St. Paulus (Hamburg)
+Q67080952	Katholische Sophienschule (Hamburg)
+Q21036358	Katholisches Kinderkrankenhaus Wilhelmstift
+Q106605524	Kattrepelsbrücke (Hamburg)
+Q106605525	Kattunbleiche
+Q47015260	Kattwyk
+Q104522023	Kattwykbrücke
+Q14552136	Kattwykbrücke (1973)
+Q104521996	Kattwykbrücke (2020)
+Q106605526	Kedenburgstraße
+Q1737880	Kehrwieder
+Q106605527	Kehrwieder (street in Hamburg)
+Q96602307	Kehrwiederfleet
+Q106605528	Kehrwiederspitze
+Q108410880	Keim (Jörn Pfab)
+Q114808959	Kellerbleek
+Q21036369	Kellertheater Hamburg
+Q1496306	Kellinghusenstraße
+Q106605529	Keplerstraße (Hamburg)
+Q114808960	Kerschensteinerstraße (Hamburg)
+Q1739633	Kersten-Miles-Brücke
+Q106605530	Kesselflickerweg
+Q19287874	Kesselhaus (Speicherstadt)
+Q114808962	Kiebitzstraße (Hamburg)
+Q106605531	Kiefhörn
+Q106605532	Kieler Straße (Hamburg)
+Q106605533	Kielkoppelstraße
+Q106605534	Kielortallee
+Q27973274	Kindertransport memorial (Hamburg)
+Q114808963	Kiosks in Hamburg
+Q106605535	Kippingstraße
+Q114808965	Kirchdorfer Straße (Hamburg)
+Q111441117	Kirchdorfer Straße 166
+Q1742473	Kirchdorf-Süd
+Q1723929	Kirche Alt-Rahlstedt (Hamburg-Rahlstedt)
+Q108566795	Kirche am Albertinenkrankenhaus
+Q1742778	Kirche am Rockenhof
+Q108566796	Kirche der Apostolischen Gemeinschaft (Hamburg)
+Q108566797	Kirche der Arche Alstertal
+Q28436264	Kirche der Stille (vorm. Christophorus-Kirche; Hamburg-Altona-Nord)
+Q108566798	Kirche des Heiligen Johannis des Täufers Farmsen (Hamburg)
+Q1742809	Kirche des heiligen Nikolaus (vorm. Simeonkirche, Hamburg)
+Q108566799	Kirche Jesu Christi der Heiligen letzten Tage (Hamburg-Langenhorn)
+Q1895915	Kirche Maria Grün/Sankt Mariä Himmelfahrt (Hamburg-Blankenese)
+Q1224792	Kirche Sinstorf
+Q108566803	Kirche Tonndorf (Hamburg)
+Q108566804	Kirche Zum Guten Hirten (Hamburg-Langenfelde)
+Q21177249	Kirche zur Heiligen Dreieinigkeit, Hamburg-Hamm
+Q105075434	Kirchenallee (Hamburg)
+Q114808967	Kirchenhang
+Q109829705	Kirchenhang 33
+Q106605537	Kirchenheerweg
+Q106605538	Kirchenstegel
+Q109638810	Kirchenstegel 20
+Q106605539	Kirchwerder Elbdeich
+Q109687028	Kirchwerder Elbdeich 276
+Q106605540	Kirchwerder Hausdeich
+Q114808968	Kirchwerder Landweg
+Q109653490	Kirchwerder Landweg 2
+Q1971086	Kirchwerder Wiesen
+Q110313002	Kirchwerder-Howe
+Q106605541	Kiwittsmoor
+Q112826224	Klärchenbrücke
+Q1493217	Klövensteen
+Q106605562	Klütjenfelder Straße
+Q106605542	Klaus-Groth-Straße (Hamburg)
+Q106605543	Kleekamp (Hamburg)
+Q114808970	Kleiberweg (Hamburg)
+Q106605545	Klein Flottbeker Weg
+Q114808971	Klein Fontenay
+Q95900488	Kleinbahnhof Wohldorf
+Q11929884	Kleine Flottbek
+Q106605546	Kleine Freiheit
+Q104869958	Kleine Freiheit 68
+Q106605547	Kleine Johannisstraße (Hamburg)
+Q106605548	Kleine Reichenstraße (Hamburg)
+Q106605549	Kleiner Burstah
+Q60813977	Kleiner Leuchtturm Neuwerk
+Q106605550	Kleiner Pulverteich
+Q106605551	Kleiner Schippsee (Hamburg)
+Q106605552	Kleiststraße (Hamburg)
+Q114808973	Klingberg (Hamburg)
+Q1602176	Klinikum Eilbek
+Q106605553	Klinikweg (Hamburg)
+Q23787750	Klockmannhaus
+Q106605554	Klopstockstraße (Hamburg)
+Q106605555	Klopstockterrasse
+Q106605556	Klosterallee (Hamburg)
+Q61628903	Klosteralleebrücke
+Q108566806	Klosterkirche St. Johannis (Hamburg)
+Q71248365	Klosterschule (Hamburg)
+Q106605557	Klosterstern
+Q106605558	Klosterstieg (Hamburg)
+Q106605559	Klostertor (Hamburg)
+Q106605560	Klosterwall
+Q114808975	Klotzenmoor (Hamburg)
+Q106605561	Klotzenmoorstieg
+Q105564991	Klotzenmoorstieg 2
+Q106605563	Knauerstraße (Hamburg)
+Q106605564	Knochenhauertwiete
+Q100506237	Knoopstraße (Hamburg)
+Q100507200	Knoopstraße 37 (Hamburg)
+Q1568436	Knust (Hamburg)
+Q106605565	Kobestraße (Hamburg)
+Q106605566	Kohlhöfen
+Q106605567	Koldingstraße (Hamburg)
+Q323100	Kollau
+Q114808977	Kollaustraße
+Q98846553	Kollenhofgraben
+Q30526281	KomponistenQuartier Hamburg
+Q106605570	Konsul-Renck-Straße (Hamburg)
+Q1783239	Kontorhaus Leder-Schüler
+Q19963961	Kontorhaus Stubbenhuk
+Q106605571	Koppel (Hamburg)
+Q74589490	Koppel 66 Haus für Kunst & Handwerk
+Q114808978	Koppelstraße (Hamburg)
+Q106605572	Kornträgergang
+Q114808980	Kottwitzstraße (Hamburg)
+Q1790744	Krüss Optronic
+Q106605574	Kraepelinweg (Hamburg)
+Q1740916	Kraftwerk Moorburg
+Q877252	Krameramtsstuben
+Q732015	Krankenhaus Altona
+Q15854588	Krankenhaus Groß-Sand
+Q732056	Krankenhaus St. Georg (Hamburg)
+Q31838662	Kranzhaus
+Q1369646	Krapphofschleuse
+Q106605575	Krausestraße (Hamburg)
+Q106605576	Krayenkamp
+Q114808982	Kreuslerstraße (Hamburg)
+Q106605577	Kreuzfurth
+Q108566807	Kreuzkirche (Hamburg-Barmbek Süd)
+Q108566809	Kreuzkirche (Hamburg-Eimsbüttel)
+Q108566810	Kreuzkirche (Hamburg-Fuhlsbüttel)
+Q108566811	Kreuzkirche (Hamburg-Harburg)
+Q108566812	Kreuzkirche (Hamburg-Schiffbek)
+Q108566813	Kreuzkirche (Hamburg-Stellingen)
+Q1316857	Kreuzkirche (Hamburg-Wandsbek)
+Q1788345	Kreuzkirche (Ottensen)
+Q28025256	Kreuzkirche Kirchdorf (Hamburg-Wilhelmsburg)
+Q106605578	Kreuzweg (Hamburg)
+Q26836620	Kriegerdenkmal 1870/71 (Hamburg-Rotherbaum)
+Q112044239	Kriegerdenkmal Altrahlstedt
+Q112633933	Kriegerdenkmal Sportplatzring
+Q114267620	Kriegerdenkmal St. Gertrud (Hamburg-Altenwerder)
+Q23787722	Kriegsgräberstätte Altona
+Q114808983	Krieterstraße
+Q27943062	Kristall (Hamburg)
+Q106605579	Kritenbarg
+Q106605580	Krochmannstraße
+Q106605581	Krohnskamp
+Q106605582	Krohnstieg
+Q14906989	Krohnstiegtunnel
+Q106605583	Kroonhorst
+Q106605584	Kroosweg (Hamburg)
+Q106605585	Krugtwiete (Hamburg)
+Q106605586	Krummholzberg
+Q15824544	Kugel-Denkmal (Hamburg)
+Q106605588	Kuhberg (Hamburg)
+Q106605589	Kuhmühle
+Q106605590	Kuhtrift (Hamburg)
+Q106605592	Kulenstück
+Q19963965	Kulturpalast Hamburg
+Q106605594	Kunaustraße (Hamburg)
+Q1792687	Kunstverein in Hamburg
+Q106605595	Kupferredder
+Q106684003	Kupferteich (Hamburg)
+Q106605596	Kurdamm
+Q106605597	Kurt-A.-Körber-Chaussee
+Q100542670	Kurt-Juster-Schule
+Q1793300	Kurt-Körber-Gymnasium
+Q106605598	Kurt-Schumacher-Allee (Hamburg)
+Q64347181	Kurt-Schumacher-Haus (Hamburg)
+Q106605599	Kurze Straße (Hamburg)
+Q114808985	Kurzer Kamp (Hamburg)
+Q1719265	KZ-Außenlager Drägerwerk
+Q1719264	KZ-Außenlager Hamburg-Langenhorn
+Q21705949	KZ-Außenlager Hamburg-Sasel
+Q106605601	Lämmersieth
+Q20184481	Lämmertwiete (Hamburg)
+Q114809039	Löwenstraße (Hamburg)
+Q477258	Lübeck–Hamburg railway line
+Q106605637	Lübecker Straße (Hamburg)
+Q106605638	Lübeckertordamm
+Q106605642	Lüneburger Straße (Hamburg)
+Q114809041	Lürader Weg (Hamburg)
+Q114152333	Lürader Weg 1 (Hamburg)
+Q111131068	Lürader Weg 2
+Q59296754	Lüttge-Garten (Hamburg)
+Q11934468	Lüttkampgraben
+Q1799904	Ladenbek
+Q114808995	Ladenbeker Furtweg
+Q881121	Laeiszhalle
+Q19288718	Laeiszhof
+Q106605600	Laeiszstraße
+Q65240172	Lagerstraße (Hamburg)
+Q114808998	Lamprechtstraße (Hamburg)
+Q1312379	Landesarbeitsgericht Hamburg
+Q61910988	Landesinstitut für Lehrerbildung
+Q1802974	Landhaus J. C. Godeffroy
+Q1802983	Landhaus Mahr
+Q27478612	Landhaus Michaelsen
+Q62056757	Landhaus Rücker
+Q19288791	Landhaus Walter
+Q61858616	Landschaftsschutzgebiet Öjendorf-Billstedter Geest
+Q61858304	Landschaftsschutzgebiet Altona-Südwest, Ottensen, Othmarschen, Klein Flottbek, Nienstedten, Dockenhuden, Blankenese, Rissen
+Q61858319	Landschaftsschutzgebiet Duvenstedt, Bergstedt, Lemsahl-Mellingstedt, Volksdorf und Rahlstedt
+Q61858653	Landschaftsschutzgebiet Hummelsbütteler Feldmark/Alstertal
+Q61858621	Landschaftsschutzgebiet Marmstorfer Flottsandplatte
+Q61858645	Landschaftsschutzgebiet Moorburg
+Q61858628	Landschaftsschutzgebiet Neuland
+Q61858631	Landschaftsschutzgebiet Ohmoor
+Q61858634	Landschaftsschutzgebiet Osdorf
+Q61858333	Landschaftsschutzgebiet Schnelsen, Niendorf, Lokstedt, Eidelstedt und Stellingen
+Q32322893	Landwehr (Hamburg)
+Q106605603	Lange Mühren
+Q106605604	Lange Reihe
+Q106605605	Lange Striepen
+Q114809001	Langenbeker Weg
+Q106605606	Langenhorner Chaussee
+Q106605607	Langenhorner Markt
+Q96876129	Langenhorstgraben
+Q106605608	Langenrehm (Hamburg)
+Q78490983	Langenstücken (Hamburg)
+Q28972172	Langenzugbrücke
+Q106605609	Langwisch (Hamburg)
+Q1805513	Lankenaustift
+Q106605610	Lappenbergsallee
+Q106605611	Lassallestraße (Hamburg)
+Q106605612	Lattenkamp
+Q106605613	Laufgraben (Hamburg)
+Q106605614	Laukamp
+Q60504060	León-Brücke
+Q114809004	Legienstraße (Hamburg)
+Q106605615	Lehmkuhlenweg (Hamburg)
+Q106605616	Lehmweg (Hamburg)
+Q106224098	Lehrerinnenseminar Hohe Weide
+Q975833	Leine-Heide-Radweg
+Q106605617	Leinpfad (Hamburg)
+Q109911663	Leinpfad 20 (Hamburg)
+Q109884378	Leinpfad 6 (Hamburg)
+Q94700340	Leinpfadbrücke
+Q1242602	Leinpfadkanal
+Q114809005	Lemsahler Dorfplatz
+Q106605618	Lemsahler Dorfstraße
+Q106605619	Lemsahler Landstraße
+Q106605620	Lenhartzstraße
+Q106962784	Leo-Leistikow-Allee (Hamburg)
+Q114809007	Lerchenberg (Hamburg)
+Q106335720	Lerchenfeld (Hamburg)
+Q98833892	Lesende (Karin Hertz) Hamburg-Poppenbüttel
+Q106605621	Lesserstraße (Hamburg)
+Q16832835	Lessing-Denkmal (Hamburg)
+Q25089801	Lessinghaus (Hamburg)
+Q1118191	Lessing-Stadtteilschule
+Q114809009	Lessingstraße (Hamburg)
+Q65240333	Lessingtunnel
+Q19289149	Lettow-Vorbeck-Kaserne (Hamburg)
+Q1821374	Leuchtfeuer Seemannshöft
+Q1759209	Leuchtturm Bunthäuser Spitze
+Q1821415	Leuchtturm Ellerholzhöft
+Q1821443	Leuchtturm Neuwerk
+Q21561366	Leuchtturm Pagensand Süd
+Q106605622	Leuschnerstraße (Hamburg)
+Q1821722	Levantehaus
+Q114809010	Leverkusenstraße (Hamburg)
+Q106605630	Lißmannseck
+Q1613747	Lichtwarkschule
+Q17617244	Liedenkummer Wettern
+Q106605625	Lienaustraße (Hamburg)
+Q109689441	Lighthouse Zero
+Q112324633	Liliencronpark
+Q106605626	Lilienstraße (Hamburg)
+Q106605627	Lille Torv (Hamburg)
+Q114809012	Lindenallee (Hamburg)
+Q106605628	Lindenstraße (Hamburg)
+Q106605629	Lippmannstraße (Hamburg)
+Q1827909	Lise-Meitner-Gymnasium (Hamburg)
+Q1865140	Literaturhaus Hamburg
+Q114809013	Litzowstraße
+Q38967434	Logenhaus Provinzialloge von Niedersachsen (Hamburg)
+Q18628792	Lohbrügge-Nord
+Q114809015	Lohbrügger Markt
+Q106605631	Lohhof (Hamburg)
+Q114809016	Lohkoppel (Hamburg)
+Q106605632	Lohkoppelstraße
+Q106605633	Lohmühlenstraße (Hamburg)
+Q29439094	Lohsepark
+Q114809018	Lohseplatz
+Q106605634	Lokstedter Damm
+Q114809020	Lokstedter Steindamm
+Q114809021	Lokstedter Weg
+Q1868756	Lombardsbrücke
+Q106605635	Lothringer Straße (Hamburg)
+Q106605636	Lotsekai
+Q114042	Lotsenstation Seemannshöft
+Q877591	Lottbek
+Q106690042	Louis-Braille-Platz (Hamburg)
+Q94494786	Louise-Schroeder-Schule (Hamburg)
+Q61858352	LSG Hamburger Elbe
+Q114809024	Ludolfstraße (Hamburg)
+Q106943857	Ludowieg-Brunnen
+Q106714178	Ludwig-Erhard-Straße (Hamburg)
+Q106605639	Ludwigstraße (Hamburg)
+Q97860280	Luftwerftgraben
+Q1876688	Luisen-Gymnasium Bergedorf
+Q106605640	Luisenweg (Hamburg)
+Q108566814	Lukas-Kirche (Hamburg-Volksdorf)
+Q106605641	Lunapark (Hamburg)
+Q114809027	Lupinenweg (Hamburg)
+Q111537282	Lupinenweg 12 (Hamburg)
+Q114809036	Luruper Chaussee
+Q106605643	Luruper Hauptstraße
+Q108771846	Luruper Hauptstraße 132
+Q85782686	Luruper Moorgraben
+Q106605644	Lutherhöhe (Hamburg)
+Q108566815	Lutherkirche (Hamburg-Bahrenfeld)
+Q108566817	Lutherkirche (Hamburg-Eißendorf)
+Q1877943	Lutherkirche (Hamburg-Wellingsbüttel)
+Q106605645	Lutterothstraße (Hamburg)
+Q106605689	Möllner Landstraße (Hamburg)
+Q76307576	Mönckebergbrunnen
+Q534777	Mönckebergstraße
+Q106605690	Mönkedamm
+Q114809118	Mörikestraße (Hamburg)
+Q11938286	Müggenburger Kanal
+Q63349677	Müggenburger Zollhafen
+Q11938292	Mühlenau (Kollau)
+Q1958461	Mühlenberger Loch
+Q60666106	Mühlenberger Loch/Neßsand (FFH-Gebiet)
+Q106605700	Mühlenberger Weg (Hamburg)
+Q106605701	Mühlendamm (Hamburg)
+Q106605702	Mühlenkamp (Hamburg)
+Q11938291	Mühlenkampkanal
+Q104244133	Mühlenwettern
+Q106605703	Mülhäuser Straße (Hamburg)
+Q60790824	Müllergraben
+Q16218977	Müllverbrennungsanlage Stellinger Moor
+Q1382755	Müllverwertung Rugenberger Damm
+Q786693	Mümmelmannsberg
+Q106605704	Mümmelmannsberg (Straße)
+Q114809119	Münsterstraße (Hamburg)
+Q106605706	Münzstraße (Hamburg)
+Q26794509	M. Glückstadt & Münden, Hamburg
+Q15119174	Maakenwerder Hafen
+Q1883431	Madonna der Seefahrt
+Q114809042	Maetzelweg
+Q1454081	Magazin (cinema)
+Q114809043	Magdalenenstraße (Hamburg)
+Q106387681	Magellan-Terrassen
+Q87735861	Mahnmal für die Opfer des Feuersturms
+Q56027123	Maiboom'sche Liebesbuche
+Q106605646	Malzweg (Hamburg)
+Q114809044	Manilaweg
+Q114809045	Mannesallee
+Q114809046	Mansteinstraße (Hamburg)
+Q106605648	Marckmannstraße
+Q106387867	Marco-Polo-Terrassen
+Q28805437	Marco-Polo-Tower
+Q106605649	Maretstraße
+Q106605650	Margaretenstraße (Hamburg)
+Q19295760	Margaretha-Rothe-Gymnasium
+Q21037163	Margarine Voss
+Q106605651	Margit-Zinke-Straße
+Q1899666	Mariä Himmelfahrt (Hamburg-Rahlstedt)
+Q106605652	Maria-Louisen-Straße
+Q108566818	Maria-Magdalena-Kirche (Hamburg-Osdorf)
+Q114809049	Marie-Jonas-Platz
+Q114809053	Marienburger Allee (Hamburg)
+Q106605653	Marienhof in Hamburg-Poppenbüttel
+Q1897895	Marienkrankenhaus Hamburg
+Q106627786	Marien-Magdalenen-Kloster (Hamburg)
+Q106605654	Marienstraße (Hamburg)
+Q106605655	Marienterrasse (Hamburg)
+Q106605656	Marienthaler Straße (Hamburg)
+Q65240895	Marion-Dönhoff-Gymnasium (Hamburg)
+Q98843775	Marktfrauen (Karin Hertz)
+Q1739852	Markthalle Hamburg
+Q11935607	Marktkanal
+Q1901084	Marktkirche Poppenbüttel
+Q106605657	Marktstraße (Hamburg)
+Q106605658	Markusstraße (Hamburg)
+Q114809063	Marmstorfer Poststraße
+Q106605659	Marschnerstraße (Hamburg)
+Q106605660	Marschweg (Hamburg)
+Q106605661	Martha-Muchow-Weg (Hamburg)
+Q114809068	Marthastraße (Hamburg)
+Q106605663	Martin-Haller-Ring
+Q114809076	Martinistraße (Hamburg)
+Q39839480	Martin-Luther-King-Kirche (Hamburg-Steilshoop)
+Q114809069	Martin-Luther-King-Platz
+Q40719190	Martin-Luther-Kirche (Hamburg-Alsterdorf)
+Q108566819	Martin-Luther-Kirche (Hamburg-Iserbrook)
+Q114809075	Martin-Luther-Straße (Hamburg)
+Q1905680	Martinskirche (Hamburg-Horn)
+Q14551330	Martinskirche (Hamburg-Rahlstedt)
+Q114809077	Marxsenweg
+Q106605665	Massaquoipassage
+Q106605666	Mathildenstraße (Hamburg)
+Q884363	Matthäuskirche (Hamburg-Winterhude)
+Q1377432	Matthias-Claudius-Gymnasium (Hamburg)
+Q108566820	Matthias-Claudius-Kirche (Hamburg-Wohldorf-Ohlstedt)
+Q15834412	Matthias-Claudius-Kirche Oldenfelde (Hamburg-Rahlstedt)
+Q106605667	Maurienstraße
+Q106605668	Max-Brauer-Allee
+Q106857273	Max-Brauer-Allee 134
+Q106857351	Max-Brauer-Allee 136
+Q96050916	Max-Brauer-Schule
+Q66659669	Max-Schmeling-Stadtteilschule
+Q106605670	Maxstraße (Hamburg)
+Q56607435	Maxstraßenbrücke
+Q88460397	Max-Traeger-Schule
+Q114809080	Maybachstraße (Hamburg)
+Q106605679	Meßberg (Hamburg)
+Q1545737	Meßberghof
+Q26836288	Mechelnbusch
+Q1916544	Medizinhistorisches Museum Hamburg
+Q106605671	Meerweinstraße (Hamburg)
+Q106605672	Meiendorfer Mühlenweg (Hamburg)
+Q106605673	Meiendorfer Straße
+Q114809081	Meiendorfer Weg
+Q108566821	Melanchthonkirche (Hamburg-Groß Flottbek)
+Q114809082	Mellenbergweg
+Q13222174	Mellingbek
+Q106980693	Mellinpassage
+Q106605674	Memeler Straße (Hamburg)
+Q106605675	Memellandallee
+Q113627023	Memorial to the 1814 burning of Appelbüttel and Marmstorf by the French
+Q1920279	Menck & Hambrock
+Q106605676	Mendelssohnstraße (Hamburg)
+Q106605677	Mendelstraße (Hamburg)
+Q114809083	Mengestraße (Hamburg)
+Q1664659	Mennonite cemetery in Hamburg-Altona
+Q1419819	Mennonitenkirche (Altona-Nord)
+Q41793806	Mercedes-Benz-Werk Hamburg
+Q106605678	Merkurring (Hamburg)
+Q106605680	Mesterkamp
+Q106605681	Methfesselstraße (Hamburg)
+Q106605682	Meyer-Delius-Platz
+Q106605683	Meyerstraße (Hamburg)
+Q26690193	Michaeliskirche (Hamburg-Neugraben)
+Q114809092	Michaelispassage (Hamburg)
+Q106605684	Michaelisstraße (Hamburg)
+Q108566824	Michaels-Kirche (Hamburg-Blankenese)
+Q106605685	Milchstraße (Hamburg)
+Q106605686	Mildestieg
+Q1935490	Millerntor
+Q339572	Millerntor-Stadion
+Q113815309	Millerntorwache
+Q1936597	Mineralogisches Museum Hamburg
+Q1454814	Minerva-Brunnen auf dem Altonaer Fischmarkt
+Q685524	Miniatur Wunderland
+Q28381828	Miramarhaus
+Q21040690	Missionsakademie an der Universität Hamburg
+Q114809101	Missundestraße (Hamburg)
+Q24449534	Mittelweg (Hamburg)
+Q110149802	Mittelweg 113 (Hamburg)
+Q18629236	Mittelweg 183
+Q114809107	Mittlerer Landweg
+Q19548062	Modelleisenbahn (Hamburg Museum)
+Q79762953	Moderne Schule Hamburg
+Q106605688	Molkenbuhrstraße (Hamburg)
+Q114809112	Mollerstraße (Hamburg)
+Q1943691	Molotow (Hamburg)
+Q114809114	Monetastraße
+Q19964020	Monsun-Theater
+Q109780695	Montblanc (Hamburg-Lurup)
+Q107649691	Montessorischule Hamburg-Bergedorf
+Q98768912	Montessori-Schule Schäferkampsallee
+Q11937565	Moorbek (Lottbek)
+Q1946813	Moorburger Berg
+Q106605691	Moorburger Burgweg (Hamburg)
+Q106605692	Moorburger Elbdeich
+Q109285505	Moorburger Elbdeich 249
+Q11937566	Moorburger Landscheide
+Q106605693	Moorende (Hamburg)
+Q100322690	Moorflagengraben
+Q106605694	Moorfleeter Deich
+Q109639242	Moorfleeter Deich 408
+Q11937563	Moorfleeter Kanal
+Q1971175	Moorgürtel
+Q28712163	Moorgraben (Mühlenau)
+Q106605695	Moorhof
+Q106605696	Moorkamp (Hamburg)
+Q103842676	Moorkampgraben
+Q11937564	Moorkanal
+Q106605697	Moorreye
+Q106605698	Moorstraße (Hamburg)
+Q114809115	Moorweg (Hamburg)
+Q1728944	Moorweide (Hamburg)
+Q114809116	Moorweidenstraße (Hamburg)
+Q114240745	Moorwerder Norderdeich 90
+Q11937562	Moorwettern in Hamburg-Neuland
+Q106096809	Morgenstunde (Gerhard Brandes, 1982)
+Q15471700	Mortzenhaus
+Q106605699	Mozartstraße (Hamburg)
+Q47531777	Mundsburger Brücke
+Q106605705	Mundsburger Damm
+Q106605707	Musäusstraße (Hamburg)
+Q1954642	Museum für Kommunikation Hamburg
+Q896052	Museum für Kunst und Gewerbe
+Q832762	Museum Godeffroy
+Q1954810	Museumsdorf Volksdorf
+Q106605708	Museumsplatz (Hamburg)
+Q107100416	Museumstraße 15-19 (Hamburg)
+Q114809144	Nöldekestraße
+Q2006690	Nöpps
+Q106605709	Nagelsweg (Hamburg)
+Q1970914	Naturschutzgebiet Die Reit
+Q63061956	Naturschutzgebiet Duvenwischen
+Q14906854	Naturschutzgebiet Holzhafen
+Q1971071	Naturschutzgebiet Kiebitzbrack
+Q1559139	Naturschutzgebiet Mühlenberger Loch/Neßsand
+Q1584978	Naturschutzgebiet Rhee
+Q1971441	Naturschutzgebiet Wittenbergen
+Q218603	Naturschutzgebiet Zollenspieker
+Q106605710	Naumannplatz (Hamburg)
+Q19297115	Navigationsschule Hamburg
+Q106094995	NDR-Hörfunkstudios Hamburg-Rothenbaum
+Q1984062	Neßsand
+Q106605711	Neanderstraße (Hamburg)
+Q106605712	Neelsenweg
+Q114809121	Nehlsstraße
+Q106605713	Nehusweg (Hamburg)
+Q114809124	Nettelnburger Straße
+Q108566827	Neuapostolische Kirche (Hamburg-Barmbek)
+Q108566828	Neuapostolische Kirche (Hamburg-Borgfelde)
+Q108566829	Neuapostolische Kirche (Hamburg-Langenhorn)
+Q108566825	Neuapostolische Kirche Abendrothsweg
+Q110556378	Neubau am Geomatikum (Hamburg)
+Q106605714	Neubergerweg
+Q106635130	Neue Burg (Hamburg)
+Q114809125	Neue Gröningerstraße
+Q114809126	Neue Rabenstraße
+Q1979772	Neue Schule Hamburg
+Q104961642	Neue Stillhorner Wettern
+Q106605715	Neue Straße (Hamburg)
+Q114809128	Neuenfelder Straße (Hamburg)
+Q11938620	Neuengammer Durchstich
+Q114809129	Neuengammer Hausdeich
+Q109614236	Neuengammer Hausdeich 249
+Q109653463	Neuengammer Hausdeich 97
+Q11938622	Neuengammer Stichkanal
+Q98075611	Neuenwallfleet
+Q663740	Neuer Elbtunnel
+Q1980152	Neuer Jungfernstieg
+Q27973301	Neuer Kamp
+Q14547022	Neuer Niendorfer Friedhof
+Q1980212	Neuer Pferdemarkt
+Q106605716	Neuer Steinweg (Hamburg)
+Q1980234	Neuer Wall
+Q106980761	Neuer Wall 13
+Q106605717	Neuer Wandrahm
+Q1590384	Neuer Wandrahm 10
+Q26260841	Neuerwegsbrücke
+Q48756509	Neues Krematorium (Hamburg-Ohlsdorf)
+Q11938625	Neuhöfer Kanal
+Q114809131	Neuhöfer Straße (Hamburg)
+Q66049663	Neuhof (Hamburg)
+Q106605718	Neuländer Elbdeich
+Q110915181	Neuländer Elbdeich 206
+Q34418025	Neuländer Moorwiesen
+Q52356228	Neuländer Wettern
+Q1980940	Neumühlen
+Q106605721	Neumünstersche Straße
+Q106605719	Neumann-Reichardt-Straße
+Q106605720	Neumoorstück
+Q106605722	Neustädter Neuer Weg
+Q114809133	Neustädter Straße (Hamburg)
+Q1622	Neuwerk
+Q106917236	Neuwerk radar tower
+Q114809134	Neuwiedenthaler Straße
+Q106605724	New-York-Ring
+Q64080330	New-York-Ring 6 und 6a
+Q114809136	New-York-Weg
+Q877805	Niederelbebahn
+Q1986601	Niederländisches Ehrenfeld
+Q105374987	Niedernfelder Brücke
+Q114809137	Niedernfelder Ufer
+Q106605725	Niedernstraße (Hamburg)
+Q106605726	Niekampsweg (Hamburg)
+Q67120218	Niels-Stensen-Gymnasium (Hamburg)
+Q114809139	Niemannstraße (Hamburg)
+Q1652585	Niendorfer Gehege
+Q106605727	Niendorfer Marktplatz
+Q1803781	Nienstedtener Friedhof
+Q1989198	Nienstedtener Kirche
+Q103901574	Niewischgraben
+Q3081	Nigehörn
+Q108566830	Nikodemuskirche (Hamburg-Ohlsdorf)
+Q1991075	Nikolaifleet
+Q23893802	Nobelshof
+Q1480053	Nobistor
+Q106605728	Nonnenstieg (Hamburg)
+Q106605730	Norbert-Schmid-Platz in Hamburg-Hummelsbüttel
+Q27477441	Nordbake Neuwerk
+Q1997819	Norddeutscher Regattaverein
+Q1997911	Norderelbe
+Q106605731	Norderhof (Hamburg)
+Q106605732	Norderkai-Ufer
+Q11938935	Norderloch
+Q105626768	Norderschule Finkenwerder
+Q106605733	Norderschulweg
+Q106605734	Norderstraße (Hamburg)
+Q106605735	Nordkanalstraße
+Q114809140	Nordmeerstraße (Hamburg)
+Q114809142	Nordschleswiger Straße
+Q106605736	Normannenweg (Hamburg)
+Q17765644	Norwegische Seemannskirche Hamburg
+Q106605737	Notkestraße
+Q105954837	Notkestraße 23
+Q106605738	Novalisweg
+Q106605739	Nydamer Weg
+Q1687945	Nyegaard-Stift
+Q107291509	Nymphenweg (Hamburg)
+Q107245501	Nymphenweg 22 (Hamburg)
+Q15058336	O’Swaldkai
+Q106605740	Oben Borgfelde
+Q106605741	Oberaltenallee
+Q29015495	Oberbillwerder
+Q1821457	Oberfeuer Tinsdal
+Q15058216	Oberhafen
+Q19297473	Oberhafenbrücke
+Q18005208	Oberhafenkanal
+Q2009752	Oberhafenkantine
+Q19259073	Oberpostdirektion Hamburg
+Q106605742	Oberschlesische Straße (Hamburg)
+Q106605743	Oberstraße (Hamburg)
+Q106605744	Ochsenweberstraße
+Q106605745	Ochsenwerder Elbdeich
+Q107377393	Ochsenwerder Elbdeich 251
+Q114809159	Ochsenwerder Landscheideweg
+Q106605746	Ochsenwerder Norderdeich
+Q109715802	Ochsenwerder Norderdeich 210
+Q106605747	Oderfelder Straße (Hamburg)
+Q114809178	Oelckersallee
+Q106605748	Oesterleystraße (Hamburg)
+Q106605749	Ohkamp
+Q106605750	Ohkampring
+Q106605751	Ohlendieck
+Q18629535	Ohlendorff'sche Villa
+Q106605752	Ohlendorffstraße (Hamburg)
+Q106605753	Ohlenkamp (Hamburg)
+Q100782248	Ohlmoorgraben
+Q106605755	Ohlsdorfer Straße
+Q98382760	Ohmoorgraben
+Q896171	Ohnsorg-Theater
+Q114809183	Ohrnsweg
+Q106605758	Oktaviostraße
+Q106605759	Oldenfelder Straße
+Q114809184	Oldesloer Straße (Hamburg)
+Q106690034	Ole Enn
+Q106605760	Olivaer Straße
+Q45588139	Olympiastützpunkt Hamburg/Schleswig-Holstein
+Q114809185	Oortkatenweg
+Q2026630	Operettenhaus (Hamburg)
+Q317455	Opernhaus am Gänsemarkt
+Q788227	Opernloft
+Q106605762	Ophagen
+Q106605763	Opitzstraße (Hamburg)
+Q106690030	Oppelner Straße (Hamburg)
+Q106605764	Ortrudstraße (Hamburg)
+Q106605765	Osakaallee (Hamburg)
+Q2033164	Osdorfer Born
+Q106605766	Osdorfer Landstraße
+Q106485367	Osdorfer Mühle
+Q106605768	Osdorfer Weg
+Q27477445	Ostbake Neuwerk
+Q321993	Osterbek
+Q106605769	Osterbekstraße
+Q106135763	Osterbekstraße 107
+Q106605770	Osterbrook (Hamburg)
+Q1382708	Osterkirche (Hamburg-Bramfeld)
+Q16552799	Osterkirche (Hamburg-Ottensen)
+Q106605771	Osterstraße (Hamburg)
+Q106605772	Ostfrieslandstraße (Hamburg)
+Q106605774	Othmarscher Kirchenweg
+Q106977117	Ottenser Hauptstraße
+Q106605775	Ottenser Marktplatz
+Q2041140	Otto von Bahrenpark
+Q65966990	Otto-Hahn-Schule (Hamburg)
+Q106690036	Otto-Speckter-Straße
+Q15837868	Otto-Wels-Straße (Hamburg)
+Q106605778	Otzenstraße (Hamburg)
+Q114809207	Pöseldorfer Weg
+Q106605818	Püttenhorst
+Q106605781	Pagenfelder Straße
+Q2048138	Palmaille
+Q106605782	Palmerstraße (Hamburg)
+Q99618356	Pannsgraben
+Q1773801	Panoptikum Hamburg
+Q114809188	Panzerstraße (Hamburg)
+Q106605783	Papenhuder Straße (Hamburg)
+Q114809189	Papenkamp (Hamburg)
+Q106605784	Papenstraße (Hamburg)
+Q106605785	Pappelallee (Hamburg)
+Q106605786	Parkallee (Hamburg)
+Q114809191	Parkstraße (Hamburg)
+Q64577227	Paul-Gerhardt-Kirche (Hamburg-Bahrenfeld)
+Q108566831	Paul-Gerhardt-Kirche (Hamburg-Wilhelmsburg)
+Q108307610	Paul-Gerhardt-Kirche (Hamburg-Wilstorf)
+Q54339437	Paul-Gerhardt-Kirche (Hamburg-Winterhude)
+Q106605790	Paulinenstraße (Hamburg)
+Q106605787	Paul-Nevermann-Platz (Altona)
+Q106605788	Paul-Roosen-Straße
+Q106605789	Paul-Sorge-Straße
+Q108566832	Pauluskirche (Hamburg-Hamm)
+Q106605791	Pelzerstraße (Hamburg)
+Q106605792	Pepermölenbek
+Q106605793	Pergamentweg
+Q106605794	Perlstieg
+Q104884105	Pestalozzi-Schule (Hamburg)
+Q114809192	Pestalozzistraße (Hamburg)
+Q96655791	Peterstraße (Hamburg)
+Q101421672	Petruskirche (Hamburg-Lokstedt)
+Q11941364	Peutekanal
+Q114809194	Peutestraße
+Q18629838	Pfeilerbahn (Hamburg)
+Q106605795	Pfenningsbusch
+Q67143746	Pferd-Akrobatin (Gisela Engelin-Hommes) Meiendorf (Hamburg-Rahlstedt)
+Q112277937	Pferdestall (Universität Hamburg)
+Q106605796	Pfingstberg (Hamburg)
+Q62998758	Philemon-Kirche (Hamburg-Hummelsbüttel)
+Q108566834	Philippuskirche (Hamburg-Eimsbüttel)
+Q108566835	Philippuskirche (Hamburg-Horn)
+Q2088197	Philosophenturm (Hamburg)
+Q114809196	Philosophenweg (Hamburg)
+Q99735910	Phoenixhof
+Q66004225	Phorms-Schule Hamburg
+Q106605797	Pickhuben (Hamburg)
+Q113212013	Pickhubenbrücke
+Q106605798	Pilatuspool
+Q76307530	Pinguinbrunnen (Hamburg)
+Q106605799	Pinnasberg
+Q114809197	Pinneberger Straße (Hamburg)
+Q2030268	Pipe organs of St. Michaelis (Hamburg)
+Q114809199	Plöner Straße (Hamburg)
+Q106605800	Platz der Deutschen Einheit (Hamburg)
+Q106605801	Platz der Jüdischen Deportierten
+Q19298641	Platz der Republik (Hamburg)
+Q106605812	Poßmoorweg
+Q106605802	Poelchaukamp
+Q106605803	Poggenmühle
+Q100320780	Poggenmühlenbrücke (Hamburg)
+Q106605804	Poggfreedweg
+Q30909571	Polish Consulate, Hamburg
+Q14540553	Polnische Gedenkstätte at Friedhof Ohlsdorf
+Q86665646	Polstjernan (ship, 1920)
+Q106605805	Poolstraße (Hamburg)
+Q106605806	Poppelauweg
+Q106605807	Poppenbütteler Berg
+Q75195449	Poppenbütteler Weg
+Q114809200	Poppenbütteler Weg (Poppenbüttel)
+Q106605809	Poppenbüttler Hauptstraße
+Q106605810	Poppenbüttler Landstraße
+Q110814006	Poppenbüttler Schleuse
+Q106605811	Poppenbüttler Stieg
+Q2105354	Portugiesenviertel
+Q2105998	Postbrücke (Hamburg)
+Q1407367	Postgebäude Schlüterstraße (Hamburg)
+Q106605813	Poststraße (Hamburg)
+Q106605814	Potsdamer Straße (Hamburg)
+Q114809202	Potsdamer Ufer
+Q106605815	Pröbenweg (Hamburg)
+Q114809203	Preetzer Straße (Hamburg)
+Q27925553	Prien-Haus
+Q114809205	Promenadenstraße (Hamburg)
+Q16886704	Prototyp (Museum)
+Q114438567	Proviantamt Bahrenfeld
+Q1316499	Public transport in Hamburg
+Q106605816	Pulverteich (Hamburg)
+Q47208544	Pulverturmsbrücke
+Q106605817	Pumpen (Hamburg)
+Q106605819	Quellental (Hamburg)
+Q106605820	Quellenweg (Hamburg)
+Q97768048	Quellgraben (Tarpenbek)
+Q106605821	Quellmoor (Hamburg)
+Q106605822	Querkamp (Hamburg)
+Q18006069	Querkanal
+Q108368052	Röbbek 4
+Q15059619	Rödingsmarkt
+Q97988328	Rödingsmarkt 19
+Q79279475	Rögenweg
+Q1297111	Römischer Garten (Hamburg-Blankenese)
+Q114809244	Rönneburger Straße (Hamburg)
+Q106605862	Rönnkamp
+Q99542950	Rönnkampgraben
+Q20108802	Röthmoorgraben
+Q106605868	Röthmoorweg
+Q106605869	Rübenkamp
+Q11946496	Rückerskanal
+Q106605870	Rückertstraße (Hamburg)
+Q18006488	Rüschkanal
+Q1971247	Raakmoor
+Q11944363	Raakmoorgraben
+Q106605823	Raaksheide
+Q106605824	Rabenhorst (Hamburg)
+Q106605825	Raboisen (Hamburg)
+Q114809208	Rademachergang (Hamburg)
+Q114809211	Radickestraße (Hamburg)
+Q878050	Radio Hamburg
+Q826376	Radisson SAS, Hamburg
+Q316481	Rahlau
+Q106605826	Rahlstedter Bahnhofstraße
+Q106605827	Rahlstedter Dorfplatz
+Q113015077	Rahlstedter SC
+Q106605828	Rahlstedter Straße (Hamburg)
+Q106605829	Rahlstedter Weg
+Q15841622	Rainer Abicht Elbreederei
+Q19964075	Rainvilleterrasse
+Q114237850	Rainvilleterrasse 4
+Q114809212	Raja-Ilinauk-Straße
+Q106605831	Rantzaustraße (Hamburg)
+Q60666126	Rapfenschutzgebiet Hamburger Stromelbe (FFH-Gebiet)
+Q95470222	Raphael-Schule (Hamburg)
+Q114809214	Rappstraße (Hamburg)
+Q2132641	Rathaus an der Trostbrücke
+Q2132543	Rathaus Harburg (Hamburg)
+Q112633503	Rathaus Stellingen
+Q106605832	Rathausstraße (Hamburg)
+Q18696778	Rathauswettern
+Q56035928	Rathenaubrücke (Hamburg)
+Q106605833	Rathenaustraße (Hamburg)
+Q1527803	Ratsherrn
+Q106605834	Ratsmühlendamm
+Q106605835	Rautenbergstraße (Hamburg)
+Q19624774	RE1 (VMV)
+Q19759336	Reclining Figure: Hand - Henry Moore (LH 709, Hamburg)
+Q106690028	Redderbarg
+Q2136514	Reederei Nord
+Q106605836	Reekamp
+Q106685195	Reemtsma-Park
+Q111142048	Reeseberg 8
+Q2136598	Reesendammbrücke
+Q106690041	Reesestraße (Hamburg)
+Q66022920	Reformed churches in Hamburg
+Q108566836	Reformierte Kirche Ferdinandstraße (Hamburg)
+Q106605837	Regerstraße (Hamburg)
+Q58370259	Reginenortbrücke
+Q106605838	Reginenstraße (Hamburg)
+Q1451393	Regionalpark Rosengarten
+Q106605839	Rehmbrook
+Q79353948	Rehmkoppel
+Q79346248	Rehmkoppelstieg
+Q1532436	Reichenstraßenfleet
+Q107453317	Reichsbahnstraße (Hamburg)
+Q41804671	Reichspräsident-Ebert-Kaserne
+Q877270	Reiherstieg
+Q114809215	Reiherstieg-Hauptdeich
+Q20108770	Reiherstiegwettern
+Q106605840	Reimerstwiete
+Q106605841	Reinbeker Redder
+Q114809216	Reinbeker Weg (Hamburg)
+Q110214746	Reinbeker Weg 35
+Q106605842	Reineckestraße (Hamburg)
+Q106605843	Reinholdstraße (Hamburg)
+Q106605844	Reismühle (Hamburg)
+Q2142054	Reitbrooker Mühle
+Q11945197	Reitbrooker Sammelgraben
+Q114809219	Reller (Hamburg)
+Q106605845	Rennbahnstraße (Hamburg)
+Q114809221	Rentzelstraße
+Q106605846	Repsoldstraße (Hamburg)
+Q2146155	Rethe
+Q2146149	Rethe-Hubbrücke
+Q46162686	Rethe-Klappbrücke
+Q106605847	Revaler Straße (Hamburg)
+Q114809223	Reventlowstraße (Hamburg)
+Q24666139	Rhythmus im Raum (Max Bill, Hamburg)
+Q114809225	Richard-Dehmel-Straße (Hamburg)
+Q106605848	Richard-Linde-Weg (Hamburg)
+Q106605849	Richardstraße (Hamburg)
+Q106605850	Richterstraße (Hamburg)
+Q15126115	Rieckhof Hamburg-Harburg
+Q106605852	Rieckhoffstraße
+Q921940	Rieckhuus
+Q2152282	Riepenburg
+Q1433126	Ring 1 (Hamburg)
+Q20731702	Ring 2 (Hamburg)
+Q29578566	Ring 3 (Hamburg)
+Q73891418	Ringkanal (Hamburg)
+Q114809228	Ringstraße (Hamburg)
+Q106605853	Rissener Dorfstraße
+Q114809231	Rissener Landstraße
+Q106605854	Ritterstraße (Hamburg)
+Q106605855	Rittmerskamp
+Q110889393	Roßberg 33 (Hamburg)
+Q11946338	Roßkanal
+Q114809238	Roßweg (Hamburg)
+Q106605856	Robert-Koch-Straße (Hamburg)
+Q114809232	Rockenhof (Hamburg)
+Q107855458	Rockspektakel
+Q877543	Rodenbek (river)
+Q1402655	Rodenbeker Quellental
+Q106605857	Rodenbeker Straße
+Q100775203	Rodenkampgraben
+Q106605858	Rodenkampweg
+Q106605859	Rodigallee
+Q108566839	Rogate-Kirche Meiendorf
+Q106605860	Roggenkamp (Hamburg)
+Q76414999	Rolfinckstraße
+Q106605861	Rondeel (Hamburg)
+Q11946198	Rondeelkanal
+Q106962782	Roonstraße (Hamburg)
+Q111508192	Rosentreppe
+Q106605863	Rostocker Straße (Hamburg)
+Q114809235	Rotbergfeld (Hamburg)
+Q684932	Rote Flora
+Q114809236	Rote-Kreuz-Straße (Hamburg)
+Q106605864	Rotenhäuser Damm
+Q106605865	Rotenhäuser Straße
+Q2168643	Rothenbaumchaussee
+Q106605866	Rothenhauschaussee
+Q106605867	Rothestraße (Hamburg)
+Q1971275	Rothsteinsmoor
+Q114809239	Rubbertstraße
+Q56426045	Rudolf-Steiner-Schule Altona
+Q56426028	Rudolf-Steiner-Schule Bergedorf
+Q106653069	Rudolf-Steiner-Schule Bergstedt
+Q56425966	Rudolf-Steiner-Schule Harburg
+Q56425985	Rudolf-Steiner-Schule Nienstedten
+Q56426010	Rudolf-Steiner-Schule Wandsbek
+Q106605871	Rudolphiplatz
+Q63349276	Rugenberger Hafen
+Q15126487	Rugenberger Schleuse
+Q90887165	Rumbaumsche Schule
+Q114809241	Rumpffsweg
+Q106460498	Rundbunker Schwarzenbergstraße
+Q106605872	Rungwisch
+Q114809243	Ruschorter Hauptdeich
+Q109707540	Ruschorter Hauptdeich 14
+Q106605873	Rutschbahn (Hamburg)
+Q106605874	Ruwoldtweg
+Q114809334	Sägemühlenstraße (Hamburg)
+Q113174068	Säule mit Figurengruppe (E. Augustin) HH-Billstedt
+Q827919	Süderelbe
+Q101088155	Süderschule (Hamburg)
+Q106605992	Süderstraße (Hamburg)
+Q11950701	Südkanal
+Q106605993	Südring (Hamburg)
+Q35191095	Südseehaus
+Q1373599	Südstormarnsche Kreisbahn
+Q25240847	Süllberg (Hamburg)
+Q106605995	Sülldorfer Kirchenweg
+Q114809247	Saarlandstraße (Hamburg)
+Q83365207	Saarlandstraße 30 (Hamburg)
+Q106605875	Sachsenstieg (Hamburg)
+Q106605876	Sachsentor
+Q106605877	Sachsenweg (Hamburg)
+Q114809252	Salomon-Heine-Weg
+Q106605878	Salzburger Häuser
+Q106605879	Samlandweg
+Q684896	Sammlung Falckenberg
+Q106605881	Sand (Hamburg)
+Q96376034	Sandbrücke
+Q106605882	Sandtorkai
+Q78163753	Sandtorpark
+Q108431349	Sandwisch 25
+Q108433749	Sandwisch 66
+Q106605880	San-Francisco-Straße (Hamburg)
+Q62269147	Sanitaspark
+Q114809254	Sanitasstraße
+Q106690031	Sankt Anscharplatz
+Q114809255	Sankt Pauli Fischmarkt
+Q114809257	Sankt Pauli Hafenstraße
+Q1310244	Sankt-Ansgar-Schule
+Q60230421	Santa Pauli 2018
+Q2225573	Saselbek
+Q77985025	Saselbekstraße
+Q77653273	Saseler Chaussee
+Q75157122	Saseler Damm
+Q77984063	Saseler Kamp
+Q78168204	Saseler Markt
+Q78365838	Saseler Parkweg
+Q106605883	Saseler Straße
+Q106188068	Saseler Straße 21
+Q114809258	Saseler Weg (Hamburg)
+Q108093858	Sasel-Haus
+Q114809260	Saselheider Weg
+Q16220573	S-Bahn station Hamburg-Sülldorf
+Q800301	S-Bahn Werk Ohlsdorf
+Q4732127	S-Bahnhof Allermöhe
+Q19460179	S-Bahnhof Alte Wöhr
+Q4842883	S-Bahnhof Bahrenfeld
+Q18619176	S-Bahnhof Billwerder-Moorfleet
+Q5274507	S-Bahnhof Diebsteich
+Q75177199	S-Bahnhof Elbbrücken
+Q5353739	S-Bahnhof Elbgaustraße
+Q5454411	S-Bahnhof Fischbek
+Q19412939	S-Bahnhof Friedrichsberg
+Q5644290	S-Bahnhof Hamburg Airport
+Q70585725	S-Bahnhof Hamburg-Altona
+Q800872	S-Bahnhof Hammerbrook
+Q246179	S-Bahnhof Harburg Rathaus
+Q10519311	S-Bahnhof Heimfeld
+Q5875382	S-Bahnhof Hochkamp
+Q19572551	S-Bahnhof Hoheneichen
+Q16220663	S-Bahnhof Iserbrook
+Q322276	S-Bahnhof Jungfernstieg
+Q6453924	S-Bahnhof Königstraße
+Q6420149	S-Bahnhof Klein Flottbek
+Q19462857	S-Bahnhof Kornweg
+Q16220800	S-Bahnhof Landwehr
+Q800874	S-Bahnhof Langenfelde
+Q18619271	S-Bahnhof Mittlerer Landweg
+Q18619282	S-Bahnhof Nettelnburg
+Q18748608	S-Bahnhof Neuwiedenthal
+Q7108695	S-Bahnhof Othmarschen
+Q100326416	S-Bahnhof Ottensen
+Q7229516	S-Bahnhof Poppenbüttel
+Q18752621	S-Bahnhof Rübenkamp
+Q3266264	S-Bahnhof Reeperbahn
+Q16220502	S-Bahnhof Rissen
+Q16220806	S-Bahnhof Rothenburgsort
+Q7607259	S-Bahnhof Stellingen
+Q321523	S-Bahnhof Sternschanze
+Q18619356	S-Bahnhof Tiefstack
+Q7917951	S-Bahnhof Veddel
+Q108285186	S-Bahnhof Wandsbeker Chaussee
+Q19572665	S-Bahnhof Wellingsbüttel
+Q800878	S-Bahnhof Wilhelmsburg
+Q19377130	S-Bahnlinie S1 (Hamburg)
+Q1289009	SC Alstertal-Langenhorn
+Q16849583	SC Germania Hamburg
+Q179432	SC Sperber Hamburg
+Q477694	SC Victoria Hamburg
+Q106605886	Schädlerstraße
+Q106605887	Schäferkampsallee
+Q106605906	Schöne Aussicht (Hamburg)
+Q114809289	Schönenfelder Straße
+Q104244416	Schönenfelder Wettern
+Q106605915	Schützenstraße (Hamburg)
+Q106605884	Schaarmarkt
+Q106605885	Schaarsteinweg
+Q2231063	Schanzenstraße (Hamburg)
+Q106605888	Scharbeutzer Straße (Hamburg)
+Q3073	Scharhörn
+Q27477461	Scharhörnbake
+Q106605889	Scharnskamp
+Q106605890	Schaudinnstwiete
+Q106605891	Schauenburgerstraße (Hamburg)
+Q114809262	Schedestraße (Hamburg)
+Q114809264	Scheel-Plessen-Straße
+Q106605892	Schellerdamm
+Q2233069	Schellfischtunnel
+Q106605893	Schellingstraße (Hamburg)
+Q114809266	Schemmannstraße (Hamburg)
+Q106605894	Schenefelder Landstraße (Hamburg)
+Q106605895	Schenkendorfstraße (Hamburg)
+Q973440	Schibli-Tunnel
+Q109885682	Schicksal (Lederer)
+Q11947911	Schießplatzgraben
+Q106605896	Schierenberg (Hamburg)
+Q106605897	Schierenkamp
+Q11947917	Schiffsgraben
+Q2235346	Schiffswerft W. Holst
+Q18710607	Schillerdenkmal (Hamburg)
+Q828944	Schillingsbek
+Q14912602	Schimmelmann-Mausoleum
+Q11947916	Schippelsmoorgraben
+Q106605902	Schlüterstraße (Hamburg)
+Q114809267	Schlachthofbrücke (Hamburg)
+Q106605898	Schlachthofstraße (Hamburg)
+Q106605899	Schlankreye
+Q469798	Schleemer Bach
+Q28442539	Schleidenbrücke
+Q96577708	Schleidenhof (auch: PRO-Burg genannt)
+Q15606208	Schleidenpark
+Q114809269	Schlenzigstraße
+Q114809270	Schlettstadter Straße (Hamburg)
+Q114809272	Schleusenbrücke (Hamburg)
+Q1518034	Schleusengraben (Bergedorf)
+Q11947925	Schleusenkanal
+Q20108865	Schlinz
+Q55833757	Schloßmühlendamm
+Q114809273	Schloßstraße (Hamburg)
+Q2240259	Schloss Bergedorf
+Q2243628	Schloss Stillhorn
+Q2244736	Schlosswerft
+Q106605901	Schluchtweg (Hamburg)
+Q2246310	Schmidt Theater
+Q68898062	Schmidts Tivoli
+Q114809275	Schmiedestraße (Hamburg)
+Q106605903	Schmilinskystraße (Hamburg)
+Q106605904	Schmuggelstieg (Langenhorner Seite)
+Q1971309	Schnaakenmoor
+Q114809276	Schnackenburgallee
+Q98545570	Schnelsener Moorgraben
+Q15837708	Schnitger organ in St. Pankratius (Hamburg-Ochsenwerder)
+Q2030180	Schnitger organ in St. Pankratiuskirche (Hamburg-Neuenfelde)
+Q106605905	Schnuckendrift (Hamburg)
+Q19964124	Schokoladenfabrik Wendenstraße
+Q18630587	Schopenstehl
+Q114809278	Schorchtstraße (Hamburg)
+Q106605907	Schottmüllerstraße (Hamburg)
+Q106605908	Schottweg (Hamburg)
+Q1653113	Schröderstift, Hamburg
+Q114809279	Schröderstiftstraße
+Q114809281	Schröderstiftweg
+Q114809285	Schrödersweg (Hamburg)
+Q106605909	Schrammsweg (Hamburg)
+Q114809286	Schubackstraße
+Q114258652	Schulberg (Hamburg)
+Q114244665	Schulberg 6 (Hamburg)
+Q106605910	Schulbergredder
+Q106714154	Schule Öjendorfer Damm
+Q106830168	Schule Ahrensburger Weg
+Q105728688	Schule Ahrensburger Weg 30
+Q83181694	Schule Alsterdorfer Straße
+Q79775811	Schule Alsterpalais
+Q104533988	Schule Alsterredder
+Q101843230	Schule Altengamme-Deich
+Q84313176	Schule Alter Teichweg
+Q77411846	Schule Altonaer Straße
+Q106574696	Schule am Baakenhafen
+Q110627878	Schule Am Brink
+Q83797487	Schule am Eichtalpark
+Q114332183	Schule am Hannoverschen Bahnhof
+Q108900941	Schule Am Johannisland
+Q105734960	Schule am Park Mitte Altona
+Q100690409	Schule am See (Hamburg)
+Q105886437	Schule Am Soldatenfriedhof
+Q106600402	Schule Am Sooren
+Q107938369	Schule An den Teichwiesen
+Q91318675	Schule an der Burgweide
+Q87994993	Schule An der Gartenstadt
+Q97012345	Schule An der Glinder Au
+Q86218157	Schule An der Isebek
+Q68196879	Schule An der Seebek
+Q105856349	Schule An der Twiete
+Q105687133	Schule Anckelmannstraße
+Q106765638	Schule Angerstraße 11
+Q106758686	Schule Angerstraße 33
+Q108486639	Schule Angerstraße 4
+Q106766943	Schule Angerstraße 7
+Q88885510	Schule Anna-Susanna-Stieg
+Q91021583	Schule Appelhoff
+Q98119872	Schule Archenholzstraße
+Q108460429	Schule Armgartstraße
+Q88769171	Schule Arnkielstraße
+Q106091467	Schule Arp-Schnitger-Stieg
+Q66382940	Schule auf der Uhlenhorst
+Q84411414	Schule auf der Veddel
+Q106043392	Schule Böttcherkamp
+Q90500071	Schule Baererstraße
+Q1912003	Schule Bahrenfelder Steindamm
+Q85515286	Schule Bahrenfelder Straße
+Q83852784	Schule Ballerstaedtweg
+Q91078364	Schule Bandwirkerstraße
+Q111127803	Schule Barlachstraße (Hamburg)
+Q83261633	Schule Barmbeker Straße
+Q106189395	Schule Bekassinenau
+Q106684054	Schule Bekkamp
+Q103918825	Schule Beltgens Garten
+Q83847350	Schule Benzenbergweg
+Q106653464	Schule Bergstedter Alte Landstraße
+Q101422124	Schule Berner Au
+Q105079569	Schule Bernstorffstraße
+Q89885379	Schule Billbrookdeich
+Q110212326	Schule Billwerder Straße
+Q102046697	Schule Binderstraße
+Q73144455	Schule Bindfeldweg
+Q104161504	Schule Binnenfeldredder
+Q105674959	Schule Bleickenallee 5
+Q102271786	Schule Bogenstraße 59
+Q98959224	Schule Bonhoefferstraße (Hamburg)
+Q100695327	Schule Borchertring
+Q96206898	Schule Borgweg (Hamburg)
+Q106447857	Schule Bornheide
+Q65983194	Schule Bovestraße
+Q108105466	Schule Bramfelder Dorfplatz
+Q66759508	Schule Brehmweg
+Q105675369	Schule Brekelbaums Park 10
+Q105672529	Schule Brekelbaums Park 6
+Q106178512	Schule Brockdorffstraße 2
+Q106601450	Schule Brockdorffstraße 64
+Q83613574	Schule Brucknerstraße 1
+Q100862633	Schule Brucknerstraße 17
+Q96324153	Schule Budapester Straße (Hamburg)
+Q106493177	Schule Bunatwiete
+Q106229543	Schule Bundesstraße 94
+Q828746	Schule Burgstraße (Hamburg)
+Q73372934	Schule Burgunderweg
+Q105085490	Schule Carsten-Rehder-Straße
+Q1610621	Schule Caspar-Voght-Straße
+Q106689374	Schule Charlottenburger Straße (Hamburg)
+Q113840251	Schule Curschmannstraße
+Q74353135	Schule Döhrnstraße
+Q96050422	Schule Daimlerstraße (Hamburg)
+Q106594361	Schule Deepenhorn
+Q107177097	Schule Dempwolffstraße
+Q84562355	Schule Denksteinweg
+Q107358495	Schule Durchdeich
+Q107926004	Schule Duvenstedter Markt
+Q72714858	Schule Eberhofweg
+Q104218816	Schule Eckerkoppel
+Q90788455	Schule Eckernförder Straße (Hamburg)
+Q80439526	Schule Eduardstraße (Hamburg)
+Q68301160	Schule Edwin-Scharff-Ring
+Q113452723	Schule Eenstock
+Q65966927	Schule Ehestorfer Weg
+Q114057362	Schule Eilbektal
+Q107214961	Schule Elfenwiese
+Q102225456	Schule Elversweg
+Q108441185	Schule Enckeplatz
+Q84044645	Schule Erikastraße (Hamburg)
+Q107292980	Schule Ernst-Bergeest-Weg
+Q2250964	Schule Ernst-Henning-Straße
+Q101243139	Schule Eschenweg (Hamburg)
+Q106434751	Schule Estebogen
+Q107008746	Schule Eulenkamp
+Q107711128	Schule Eulenkrugstraße
+Q89194014	Schule Fährstraße (Hamburg)
+Q113453212	Schule Fabriciusstraße
+Q102350327	Schule Fahrenkrön
+Q94940977	Schule Fahrenort
+Q108922262	Schule Fischbeker Moor
+Q108117975	Schule Flughafenstraße
+Q108732863	Schule Flurstraße (Hamburg)
+Q29015734	Schule Foorthkamp 36
+Q96240424	Schule Foorthkamp 42
+Q66086082	Schule Forsmannstraße
+Q102809670	Schule Francoper Straße
+Q96768845	Schule Franzosenkoppel
+Q106974451	Schule Friedastraße
+Q105762318	Schule Friedrich-Frank-Bogen
+Q96323882	Schule Friedrichstraße (Hamburg)
+Q89565071	Schule Frohmestraße
+Q98842754	Schule Fuchsbergredder
+Q65884118	Schule Furtweg
+Q107136547	Schule Göhlbachtal
+Q66771579	Schule Genslerstraße
+Q108429115	Schule Glückstädter Weg
+Q96142416	Schule Goosacker
+Q66828871	Schule Grützmühlenweg
+Q104776433	Schule Grabenstraße (Hamburg)
+Q109622645	Schule Gramkowweg
+Q101086209	Schule Grellkamp
+Q103868580	Schule Großlohering
+Q100695339	Schule Gropiusring
+Q106013290	Schule Grotefendweg
+Q108199820	Schule Grumbrechtstraße
+Q106380967	Schule Gustav-Falke-Straße
+Q106631187	Schule Hübbesweg
+Q106345762	Schule Hüllenkamp
+Q106020440	Schule Hammer Straße
+Q108295286	Schule Hanhoopsfeld
+Q98543042	Schule Hartsprung
+Q106311750	Schule Hasenweg (Hamburg)
+Q66424316	Schule Hasselbrook
+Q111129847	Schule Hastedtstraße
+Q108899692	Schule Hausbrucher Bahnhofstraße
+Q99769241	Schule Hauskoppelstieg
+Q66619165	Schule Hegholt
+Q89758812	Schule Heidacker
+Q105808497	Schule Heidhorst
+Q108921122	Schule Heidrand (Hamburg)
+Q105957285	Schule Heidstücken
+Q113452573	Schule Heinrich-Helbing-Straße
+Q106871411	Schule Hemmingstedter Weg
+Q98813571	Schule Hermannstal
+Q101438840	Schule Hermelinweg
+Q105339076	Schule Hinrichsenstraße
+Q70079885	Schule Hinsbleek
+Q80192323	Schule Hinter der Lieth
+Q95995949	Schule Hirtenweg
+Q89423737	Schule Hohe Landwehr
+Q106611695	Schule Hohnerkamp
+Q98688077	Schule Horner Weg 89
+Q84316381	Schule Humboldtstraße (Hamburg)
+Q105658745	Schule Humboldtstraße 89 (Hamburg)
+Q106155065	Schule Imstedt
+Q108936733	Schule In der alten Forst
+Q66132745	Schule Iserbarg
+Q98538735	Schule Isestraße
+Q106583155	Schule Islandstraße
+Q106726848	Schule Jenfelder Straße
+Q109744410	Schule Königstraße (Hamburg)
+Q111842998	Schule Kahlkamp
+Q106189731	Schule Kamminer Straße
+Q108250585	Schule Kapellenweg (Hamburg)
+Q91231682	Schule Karl-Arnold-Ring 11
+Q104218681	Schule Karlshöhe
+Q101110646	Schule Kellinghusenstraße
+Q90398717	Schule Kielkamp
+Q106362973	Schule Kielkoppelstraße
+Q65982888	Schule Kielortallee
+Q106634425	Schule Kirchenheerweg
+Q102280446	Schule Kirchwerder Hausdeich
+Q95985256	Schule Klein Flottbeker Weg
+Q67015448	Schule Knauerstraße (Hamburg)
+Q101111269	Schule Koppel (Hamburg)
+Q1335750	Schule Krausestraße (Hamburg)
+Q72712047	Schule Krohnstieg
+Q96143243	Schule Kroonhorst
+Q105529704	Schule Kupferredder
+Q104243476	Schule Kurdamm
+Q67776584	Schule Kurze Straße (Hamburg)
+Q66317581	Schule Lämmersieth
+Q113827709	Schule Löwenstraße (Hamburg)
+Q105111671	Schule Ladenbeker Weg
+Q96472977	Schule Laeiszstraße
+Q96747194	Schule Langbargheide
+Q108892593	Schule Lange Striepen
+Q84311026	Schule Langenfort
+Q105964811	Schule Lehmkuhlenweg
+Q66475528	Schule Lehmweg (Hamburg)
+Q104163467	Schule Leuschnerstraße
+Q101419944	Schule Lienaustraße
+Q96193592	Schule Lohkampstraße
+Q96196008	Schule Lohmühlen
+Q101147276	Schule Lokstedter Damm
+Q77401082	Schule Ludwigstraße (Hamburg)
+Q108749847	Schule Luruper Hauptstraße
+Q67080552	Schule Lutterothstraße 34-36
+Q96621117	Schule Lutterothstraße 78-80
+Q99769685	Schule Möllner Landstraße
+Q108133568	Schule Müssenredder
+Q96481418	Schule Marckmannstraße
+Q90544408	Schule Maretstraße
+Q105582402	Schule Margit-Zinke-Straße
+Q105973722	Schule Marschweg (Hamburg)
+Q105822402	Schule Max-Eichholz-Ring
+Q71816980	Schule Mendelssohnstraße
+Q104120358	Schule Mendelstraße (Hamburg)
+Q109348553	Schule Mittlerer Landweg
+Q87812665	Schule Molkenbuhrstraße
+Q73383505	Schule Moorflagen
+Q106223142	Schule Moorkamp
+Q108380256	Schule Musäusstraße
+Q66424652	Schule Nettelnburg
+Q72713589	Schule Neubergerweg
+Q91629430	Schule Neuenfelder Straße
+Q99175818	Schule Neuhöfer Damm
+Q109004347	Schule Neuländer Elbdeich
+Q100346301	Schule Neumoorstück
+Q96349042	Schule Neustädter Straße (Hamburg)
+Q108923231	Schule Neuwiedenthaler Straße
+Q83705929	Schule Niekampsweg
+Q106421247	Schule Niendorfer Marktplatz
+Q97727037	Schule Nydamer Weg
+Q107245637	Schule Nymphenweg
+Q72800715	Schule Ohkamp
+Q66207487	Schule Ohlenkamp
+Q108900958	Schule Ohrnsweg
+Q69997193	Schule Oktaviostraße
+Q84562959	Schule Oppelner Straße
+Q96106972	Schule Osdorfer Weg
+Q96761865	Schule Othmarscher Kirchenweg
+Q106600812	Schule Paracelsusstraße (Hamburg)
+Q112136953	Schule Paul-Sorge-Straße
+Q91915261	Schule Perlstieg
+Q108441163	Schule Peterstraße (Hamburg)
+Q69392493	Schule Poppenbüttler Stieg
+Q104033412	Schule Potsdamer Straße (Hamburg)
+Q96481746	Schule Pröbenweg
+Q91629628	Schule Prassekstraße
+Q96309242	Schule Querkamp
+Q81826230	Schule Rönneburg
+Q89559652	Schule Rönnkamp
+Q89580733	Schule Röthmoorweg
+Q98930377	Schule Rahewinkel
+Q101007213	Schule Rahlstedter Höhe
+Q106324234	Schule Rahlstedter Straße
+Q91915892	Schule Rahmwerder Straße
+Q66220777	Schule Ratsmühlendamm
+Q106641512	Schule Redderbarg
+Q105836264	Schule Reinbeker Redder
+Q63425818	Schule Rellinger Straße
+Q99769207	Schule Rhiemsweg 6
+Q21040646	Schule Richard-Linde-Weg
+Q66424265	Schule Richardstraße (Hamburg)
+Q79122670	Schule Robert-Koch-Straße (Hamburg)
+Q91915328	Schule Rotenhäuser Damm
+Q91915307	Schule Rotenhäuser Straße
+Q89100083	Schule Rothestraße
+Q77038955	Schule Rungwisch
+Q104120298	Schule Sander Straße
+Q108308191	Schule Scheeßeler Kehre
+Q96080443	Schule Schenefelder Landstraße
+Q96654782	Schule Schierenberg
+Q104057104	Schule Schimmelmannstraße
+Q1665442	Schule Schlankreye
+Q108901865	Schule Schnuckendrift
+Q99693647	Schule Schulbergredder 13
+Q110776250	Schule Schulbergredder 21
+Q110776825	Schule Schulbergredder 21a
+Q105755159	Schule Schulkamp
+Q106468643	Schule Schwarzenbergstraße
+Q102114376	Schule Schwenckestraße 91-93
+Q1626887	Schule Seilerstraße (Hamburg)
+Q100543458	Schule Sengelmannstraße
+Q73391939	Schule Sethweg
+Q110103408	Schule Sieker Landstraße
+Q107273539	Schule Sinstorfer Weg
+Q94575952	Schule Snitgerreihe
+Q107804901	Schule Sportplatzring
+Q98637369	Schule Steinadlerweg
+Q106508942	Schule Steinfeldtstraße
+Q67779294	Schule Stengelestraße
+Q104712838	Schule Sternschanze
+Q98959575	Schule Sterntalerstraße
+Q80689857	Schule Stockflethweg
+Q85103561	Schule Strenge
+Q101552579	Schule Surenland
+Q94939626	Schule Swatten Weg
+Q107972775	Schule Tegelweg
+Q66592721	Schule Telemannstraße
+Q100874534	Schule Tessenowweg
+Q105333789	Schule Thadenstraße
+Q2250978	Schule Tieloh
+Q93975098	Schule Tonndorf
+Q79474336	Schule Tornquiststraße
+Q107972747	Schule Traberweg
+Q96075516	Schule Trenknerweg
+Q66437907	Schule Turmweg
+Q111049882	Schule Uferstraße 10
+Q111043336	Schule Uferstraße 9
+Q105728762	Schule Vörn Barkholt
+Q95467122	Schule Veermoor
+Q74423181	Schule Vizelinstraße
+Q108320018	Schule Voßberg
+Q109969508	Schule Von-Essen-Straße
+Q105582966	Schule Von-Moltke-Bogen
+Q16318311	Schule vor dem Holstentor
+Q96745681	Schule Vorhornweg
+Q105710596	Schule Wagnerstraße (Hamburg)
+Q105714307	Schule Waitzstraße
+Q98816419	Schule Weddestraße
+Q105975737	Schule Wedeler Landstraße
+Q80587537	Schule Wegenkamp
+Q105836621	Schule Weidemoor
+Q106225778	Schule Weidenstieg (Hamburg)
+Q2250980	Schule Wendenstraße 166
+Q107097470	Schule Wendenstraße 268
+Q107453872	Schule Wentorfer Straße
+Q96143223	Schule Wesperloh
+Q108198266	Schule Weusthoffstraße
+Q66424303	Schule Wielandstraße (Hamburg)
+Q106528024	Schule Wildschwanbrook
+Q90818602	Schule Windmühlenweg
+Q107352122	Schule Woellmerstraße
+Q104776808	Schule Wohlwillstraße
+Q66807306	Schule Wrangelstraße (Hamburg)
+Q91915341	Schule Zeidlerstraße
+Q108666003	Schule Zeughausmarkt
+Q106976842	Schule Zitzewitzstraße
+Q93221607	Schule Zollenspieker
+Q877586	Schulenbrooksbek
+Q106605911	Schulenburgring (Hamburg)
+Q106605912	Schulkamp (Hamburg)
+Q2251558	Schulterblatt (Hamburg)
+Q106605913	Schultzweg (Hamburg)
+Q106605914	Schumannstraße (Hamburg)
+Q114809288	Schwalbenplatz (Hamburg)
+Q106605916	Schwalbenstraße (Hamburg)
+Q106605917	Schwanenwik
+Q19308838	Schwanenwikbrücke
+Q106605918	Schwarzenbergstraße (Hamburg)
+Q2255344	Schweenssand
+Q106605919	Schwenckestraße
+Q102076317	Schwenckestraße 98-100
+Q106605920	Schwenweg
+Q114809291	Sechslingspforte
+Q106605921	Sedanstraße (Hamburg)
+Q106521764	Sedanstraße 19 (Hamburg)
+Q328859	Seebek
+Q2265353	Seemannsclub Duckdalben
+Q63373189	Seemannskirche St. Clemens am Hafen
+Q11948015	Seesreingraben
+Q2265712	Seevekanal
+Q114809292	Seewartenstraße
+Q23774735	Segelflugplatz Boberg
+Q106605922	Seilerstraße (Hamburg)
+Q106605923	Semperstraße (Hamburg)
+Q477155	Senate of Hamburg
+Q879725	Sender Billwerder-Moorfleet
+Q1500917	Sender Hamburg-Rahlstedt
+Q106605924	Sengelmannstraße
+Q106677811	Serrahnbrücke
+Q106605925	Serrahnstraße
+Q106605926	Sethweg
+Q106605927	Seumestraße (Hamburg)
+Q106605928	Shanghaiallee (Hamburg)
+Q2279838	Shopping-Center Hamburger Meile
+Q106605929	Sichter
+Q114809294	Sieberlingstraße
+Q111600518	Sieberlingstraße 7
+Q104245114	Siedenfelder Wettern
+Q2559657	Siedlung Wensenbalken
+Q1466024	Siegessäule (Altona)
+Q114809295	Siegfried-Wedells-Platz
+Q106605930	Sieker Landstraße (Hamburg)
+Q114809297	Siemersplatz
+Q628586	Sierichstraße
+Q100427343	Sierichstraße 53
+Q27989808	Sievekingdamm
+Q106605932	Sievekingplatz
+Q27976665	Sievekingsallee
+Q76307124	Sievers-Brunnen
+Q2284605	Sievertsche Tongrube
+Q106605933	Sillemstraße
+Q108566840	Simeon-Kirche (Hamburg-Bramfeld)
+Q108566841	Simon-Petrus-Kirche (Hamburg-Poppenbüttel)
+Q106605934	Simon-von-Utrecht-Straße
+Q114809298	Singapurweg
+Q114809300	Sinstorfer Kirchweg
+Q108311059	Sinstorfer Kirchweg 2
+Q106605935	Sinstorfer Weg
+Q79791281	Sitzende (Barbara Haeger)
+Q29573096	Skagerrakbrücke (Hamburg)
+Q11949949	Skagerrakkanal
+Q111024315	Skulptur (Werner) SC Poppenbüttel Hamburg-Poppenbüttel
+Q109329355	Skulptur vor dem Danske Hus in Hamburg-Altstadt
+Q113231914	Skulpturengruppen (Schwenckestraße 98-100)
+Q2294396	Slomanhaus (Hamburg)
+Q106605936	Solferinostraße
+Q78521006	Sonnenhöhe (Hamburg)
+Q106605937	Sonnenweg (Hamburg)
+Q18005132	Sonninkanal
+Q2302679	Sophie-Barat-Schule
+Q18336186	Sophienterrasse
+Q111264405	Sophienterrasse 1a
+Q114809303	Sorbenstraße (Hamburg)
+Q15128885	Sowjetische Kriegsgräberstätte Hamburg-Bergedorf
+Q106605938	Spadenteich
+Q106605940	Spaldingstraße (Hamburg)
+Q106605941	Speckenreye
+Q114809304	Speckstraße (Hamburg)
+Q15848128	Speersort
+Q16831759	Speersort 12-14
+Q26217273	Speicherstadtrathaus
+Q15129004	Spiegel-Haus (HafenCity)
+Q28066612	Spiegel-Kantine
+Q2310135	Spielbudenplatz
+Q15848187	Spitalerstraße
+Q110944071	Sporthalle Hermann-Ruge-Weg
+Q106605942	Sportplatzring (Hamburg)
+Q51846171	Spreehafen
+Q106605943	Springeltwiete
+Q2801439	Sprinkenhof
+Q91241367	Spritzenplatz (Hamburg)
+Q99690387	Störtebeker-Haus
+Q106605978	Störtebekerufer
+Q106605991	Stübenhofer Weg
+Q114809333	Stübenplatz
+Q108566842	St. Agnes (Hamburg-Tonndorf)
+Q105516171	St. Annen (Hamburg-Langenhorn)
+Q110774946	St. Annenfleet
+Q106605944	St. Annenplatz (Hamburg)
+Q106605945	St. Annenufer (Hamburg)
+Q28171313	St. Anschar (Hamburg-Eppendorf)
+Q1746647	St. Ansgar (Hamburg-Neustadt)
+Q108566844	St. Ansgar (Karl Heinz Engelin), Hamburg-Langenhorn
+Q108566848	St. Antonius-Kirche (Hamburg-Winterhude)
+Q106605946	St. Benedictstraße
+Q78491795	St. Bernard (Hamburg-Poppenbüttel)
+Q2801514	St. Bonifatius (Hamburg-Wilhelmsburg)
+Q108566849	St. Bonifatiuskirche (Hamburg-Barmbek-Nord)
+Q2317633	St. Bonifatius-Kirche (Hamburg-Eimsbüttel)
+Q108566801	St. Bruder Konrad (Hamburg-Lurup)
+Q108566851	St. Demetrius-Kirche (Hamburg-Fischbek)
+Q108566856	St. Franz-Joseph-Kirche (Hamburg)
+Q108566857	St. Gabriel (Hamburg-Volksdorf)
+Q108566860	St. Gabrielskirche (Hamburg-Barmbek-Nord)
+Q106605947	St. Georgs Kirchhof
+Q114809306	St. Georgstraße (Hamburg)
+Q1547632	St. Gertrud-Kirche (Hamburg-Altenwerder)
+Q106605948	St. Jürgens Holz
+Q564532	St. Jacobi (Hamburg)
+Q2043377	St. Johannis (Curslack)
+Q11722102	St. Johannis (Hamburg-Eppendorf)
+Q108566863	St. Johannis (Hamburg-Steilshoop)
+Q879271	St. Johannis-Kirche (Hamburg-Harvestehude)
+Q1381959	St. Joseph (Hamburg-Wandsbek)
+Q616790	St. Katharinen (Hamburg)
+Q1422348	St. Lukaskirche (Hamburg-Fuhlsbüttel)
+Q108566868	St. Maria (Hamburg-Harburg)
+Q108566864	St. Maria- und St. Shmuni-Kirche (Hamburg-Sinstorf)
+Q108566865	St. Marien (Hamburg-Bergedorf)
+Q799877	St. Marien (Hamburg-Ohlsdorf)
+Q108566867	St. Marien (Hamburg-Ottensen)
+Q2321011	St. Markus (Hamburg-Hoheluft)
+Q55743883	St. Martinus (Hamburg-Eppendorf)
+Q16218469	St. Maximilian Kolbe (Hamburg-Wilhelmsburg)
+Q19964010	St. Michael (Hamburg-Bergedorf)
+Q108566869	St. Michael-Kirche (Hamburg-Sülldorf)
+Q108566870	St. Michaelskapelle (Hamburg-Volksdorf)
+Q1455043	St. Nicolai (Hamburg-Altengamme)
+Q425622	St. Nikolai (Hamburg)
+Q1422053	St. Nikolai (Hamburg-Harvestehude)
+Q104247467	St. Olaf (Hamburg-Horn)
+Q1481182	St. Pankratius, Neuenfelde
+Q1259001	St. Pankratius (Ochsenwerder)
+Q458970	St. Pauli-Landungsbrücken
+Q108566871	St. Paulus Augustinus (Hamburg-Groß Flottbek)
+Q1607806	St. Peter (Hamburg-Groß Borstel)
+Q1531643	St. Petri (Altona)
+Q1742725	St. Petri und St Pauli, Hamburg-Bergedorf
+Q108566873	St. Petrus (Hamburg-Heimfeld)
+Q1377140	St. Prokop-Kirche (Hamburg-Stellingen)
+Q108566874	St. Simeonkirche (Hamburg-Osdorf)
+Q1679407	St. Sophienkirche (Hamburg-Barmbek-Süd)
+Q2801591	St. Stephan (Hamburg-Wandsbek)
+Q108566875	St. Theresien (Hamburg-Altona)
+Q1342586	St. Thomas a Becket Church (Hamburg)
+Q109406407	St. Thomas Morus (Hamburg-Stellingen)
+Q108566846	St.-Ansgar-Kirche (Hamburg-Niendorf)
+Q108566850	St.-Christophorus-Kirche (Hamburg-Lohbrügge)
+Q1425902	St.-Erichskirche (Hamburg-Rothenburgsort)
+Q108566855	St.-Franziskus-Kirche (Hamburg-Barmbek-Nord)
+Q108566859	St.-Gabriel-Kirche (Hamburg-Eidelstedt)
+Q874288	St.-Gertrud-Kirche (Hamburg-Uhlenhorst)
+Q108566861	St.-Jakobus-Kirche (Hamburg-Lurup)
+Q108566862	St.-Johannes-Kapelle (Hamburg-Rothenburgsort)
+Q1452652	St.-Johannis-Kirche (Altona)
+Q2319467	St.-Johanniskirche (Hamburg-Harburg)
+Q1467541	St.-Josephs-Kirche (St. Pauli)
+Q2316651	St.-Pauli-Kirche (Hamburg-St. Pauli)
+Q317892	St.-Pauli-Theater
+Q106421197	Staatliche Fachschule für Sozialpädagogik - Anna-Warburg-Schule
+Q106861487	Staatliche Fachschule für Sozialpädagogik Altona
+Q96176846	Staatliche Jugendmusikschule Hamburg
+Q2324644	Staats- und Universitätsbibliothek Hamburg
+Q1487017	Staatsarchiv Hamburg
+Q106605949	Stader Straße (Hamburg)
+Q1627588	Stadion Hoheluft
+Q114809307	Stadionstraße (Hamburg)
+Q76175386	Stadtbahnstraße
+Q107997406	Stadtbahnstraße 8
+Q106605950	Stadtdeich (Hamburg)
+Q29048962	Stadthallenbrücke
+Q2327283	Stadthaus (Hamburg)
+Q24547996	Stadthausbrücke
+Q106605951	Stadthausbrücke (street)
+Q19309458	Stadtlagerhaus
+Q1388709	Stadtparksee
+Q72820633	Stadtparkturm (Hamburg)
+Q2326366	StadtRAD Hamburg
+Q76633488	Stadtteilarchiv Ottensen
+Q98438112	Stadtteilschule Öjendorf
+Q90788470	Stadtteilschule Altona
+Q106165034	Stadtteilschule Altrahlstedt
+Q1791214	Stadtteilschule am Hafen
+Q28949662	Stadtteilschule am Heidberg
+Q1743806	Stadtteilschule Bahrenfeld
+Q105111752	Stadtteilschule Bergedorf
+Q106646678	Stadtteilschule Bergstedt
+Q95996025	Stadtteilschule Blankenese
+Q108106088	Stadtteilschule Bramfeld
+Q96193572	Stadtteilschule Eidelstedt
+Q2328167	Stadtteilschule Eppendorf
+Q94696233	Stadtteilschule Finkenwerder
+Q105942637	Stadtteilschule Flottbek
+Q96195843	Stadtteilschule Hamburg-Mitte
+Q83848089	Stadtteilschule Helmuth Hübener
+Q94574029	Stadtteilschule Horn
+Q102280198	Stadtteilschule Kirchwerder
+Q65783018	Stadtteilschule Lohbrügge
+Q96745837	Stadtteilschule Lurup
+Q65920862	Stadtteilschule Mümmelmannsberg
+Q74013574	Stadtteilschule Niendorf
+Q65966865	Stadtteilschule Oldenfelde
+Q17592554	Stadtteilschule Poppenbüttel
+Q66133391	Stadtteilschule Rissen
+Q109314001	Stadtteilschule Süderelbe
+Q91444721	Stadtteilschule Stübenhofer Weg
+Q70214017	Stadtteilschule St. Georg
+Q2328170	Stadtteilschule Stellingen
+Q105712546	Stadtteilschule Walddörfer
+Q91915288	Stadtteilschule Wilhelmsburg
+Q2328173	Stadtteilschule Winterhude
+Q106605952	Stahltwiete
+Q106605954	Stammannstraße (Hamburg)
+Q1971333	Stapelfelder Moor
+Q114809309	Stapelfelder Straße (Hamburg)
+Q110779079	Stapelfelder Straße 7
+Q106605955	Starstraße (Hamburg)
+Q61637685	Statue Heidi Kabel
+Q89417371	Statue of Adolphus III, Count of Schauenburg and Holstein (Engelbert Peiffer in Hamburg)
+Q11950341	Steendiekkanal
+Q114809327	Steiler Weg (Hamburg)
+Q114809328	Steilshooper Allee
+Q106605956	Steilshooper Straße
+Q106605957	Steinadlerweg (Hamburg)
+Q2340315	Steindamm
+Q1272996	Steinfurths Diek
+Q114809331	Stein-Hardenberg-Straße (Hamburg)
+Q106605958	Steinhauerdamm
+Q106605959	Steinikestraße (Hamburg)
+Q106605960	Steinschanze (Hamburg)
+Q2341677	Steinstraße (Hamburg)
+Q1800902	Steintor (Hamburg)
+Q106605962	Steintordamm
+Q106605963	Steintorplatz
+Q106605964	Steintorwall (Hamburg)
+Q106605965	Steintorweg
+Q106605966	Steinwegpassage (Hamburg)
+Q18008258	Steinwerder Kanal
+Q110667594	Stele (Hans-Joachim Frielinghaus) Von-Melle-Park Hamburg-Rotherbaum
+Q19309524	Stellahaus
+Q11950347	Stellau (stream)
+Q108566854	Stellinger Kirche
+Q1632531	Stellmoorer Tunneltal
+Q106605967	Stengelestraße (Hamburg)
+Q106605968	Stenvort
+Q1724036	Stephansplatz (Hamburg)
+Q106605969	Stephanstraße (Hamburg)
+Q2345735	Sternbrücke (Hamburg)
+Q106605970	Sternschanze (street in Hamburg)
+Q2345940	Sternschanzenpark
+Q65245456	Sternstraße (Hamburg)
+Q681942	Sternwarte Bergedorf
+Q106605971	Stieglitzstraße (Hamburg)
+Q106605972	Stiftstraße (Hamburg)
+Q102163472	Stiftstraße 69 (Hamburg)
+Q2350257	Stintfang (Hamburg)
+Q106605973	Stockflethweg
+Q106605974	Stockmeyerstraße (Hamburg)
+Q106605975	Stoeckhardtstraße (Hamburg)
+Q96481383	Stolperstein Johannes Prassek in Hamburg-Volksdorf
+Q106605976	Stormarner Straße
+Q106605977	Stormarnplatz
+Q106605982	Straßburger Platz (Hamburg)
+Q106605983	Straßburger Straße (Hamburg)
+Q106605984	Straßenbahnring
+Q1490256	Straßenbahntunnel Veddel
+Q1429221	Strafjustizgebäude (Hamburg)
+Q106605979	Stralsunder Straße (Hamburg)
+Q106605980	Strandtreppe (Blankenese)
+Q106605981	Strandweg (Hamburg)
+Q34379126	Streit's Haus
+Q106605985	Strengesweg
+Q2355925	Stresemannstraße (Hamburg)
+Q106605987	Struckholt
+Q67128231	Struensee-Gymnasium
+Q106605988	Struenseestraße
+Q106605989	Strutzhang
+Q106605990	Stubbenhuk
+Q111192002	Studentenwohnheim Billwiese
+Q110400925	Studentenwohnheim Grindelallee
+Q110824029	Studentenwohnheim Rahlstedt
+Q2358953	Stuhlmannbrunnen
+Q106605994	Suhrsweg
+Q11950568	Susebek
+Q106605996	Suttnerstraße (Hamburg)
+Q2375432	Synagogue Hohe Weide Hamburg
+Q106605997	Talstraße (Hamburg)
+Q106605998	Tangstedter Landstraße
+Q106605999	Tannenweg (Hamburg)
+Q1236450	Tansania-Park
+Q1285521	Tanzende Türme
+Q105171513	Tanzendes Vierländer Paar (Wilhelm Rex)
+Q106606000	Tarpen
+Q317889	Tarpenbek
+Q106606001	Tarpenbekstraße (Hamburg)
+Q19309838	Tatenberger Schleuse
+Q113178274	Tauchender Fisch (Heisig, Schwerdtfeger) Hamburg
+Q106606003	Teerhof (Hamburg)
+Q114809336	Tegelweg (Hamburg)
+Q2401758	Telemann-Museum
+Q106606005	Telemannstraße (Hamburg)
+Q20754446	Terrassenhäuser in der Hamburger Josephstraße
+Q114809337	Tesdorpfstraße (Hamburg)
+Q106606008	Tessenowweg (Hamburg)
+Q317901	Teufelsbrück
+Q19964166	Thörls Park
+Q106606014	Thörlweg (Hamburg)
+Q106606009	Thadenstraße
+Q456499	Thalia Theater (Hamburg)
+Q2408858	Thaliahof
+Q2411082	The English Theatre of Hamburg
+Q15850587	Theater an der Elbe
+Q26794477	Theater das Zimmer
+Q835524	Theater im Hafen
+Q51920	Theater im Zimmer (Hamburg)
+Q26794490	Theater in der Speicherstadt
+Q106606010	Thedestraße
+Q105101676	Thedestraße 101
+Q105363380	Thedestraße 101a
+Q105164959	Thedestraße 39
+Q106606011	Theodor-Fahr-Straße
+Q69895611	Theodor-Haubach-Schule (Hamburg)
+Q114809339	Theodor-Heuss-Platz (Hamburg)
+Q114809341	Theodorstraße (Hamburg)
+Q102500128	Theresienstieg
+Q106690027	Thielbek
+Q106606012	Thielickestieg
+Q108566876	Thomaskirche (Hamburg-Bramfeld)
+Q108566877	Thomaskirche (Hamburg-Hausbruch)
+Q11722103	Thomaskirche Meiendorf (Hamburg-Rahlstedt)
+Q106606013	Thomas-Mann-Straße (Hamburg)
+Q11951817	Tidekanal
+Q82687136	Tiefbunker Berlinertordamm
+Q23786547	Tiefbunker Kennedybrücke
+Q11951820	Tiefstackkanal
+Q106606015	Tieloh
+Q114809342	Tiergartenstraße (Hamburg)
+Q2432764	Tiger (tugboat, 1910)
+Q106606016	Tilsiter Straße (Hamburg)
+Q106606017	Timmerloh
+Q1612616	Timmermoor
+Q106606018	Timmstieg
+Q108566879	Timotheuskirche (Hamburg-Horn)
+Q106606019	Tondernstraße
+Q7769600	Top Ten Club
+Q106606020	Torfstück
+Q106606021	Tornquiststraße
+Q114809344	Traberweg (Hamburg)
+Q7831092	Trabrennbahn Bahrenfeld
+Q878324	Trams in Hamburg
+Q25089228	Transporthaus
+Q114809347	Trenknerweg
+Q28498635	Treppenviertel
+Q114809349	Trettaustraße
+Q106606022	Triftstraße (Hamburg)
+Q105510161	Trilluper Weg 3, 5
+Q108566880	Trinitatiskirche Hohenhorst (Hamburg-Rahlstedt)
+Q18681278	Trinkhalle im Hamburger Stadtpark
+Q878166	Trockendock Elbe 17
+Q114809352	Troplowitzstraße
+Q2455726	Trostbrücke
+Q106606023	Trostbrücke (street)
+Q1524874	TRUDE
+Q820800	TSG Bergedorf
+Q1147670	TSV Sasel
+Q106606024	Turmweg (Hamburg)
+Q105336448	Tweeltenbek
+Q105336457	Tweeltenbek (Gewässer)
+Q111746891	U-Bahnbrücke Osterbekkanal
+Q209371	U-Bahnhof Überseequartier
+Q2804230	U-Bahnhof Alsterdorf
+Q2465828	U-Bahnhof Alter Teichweg
+Q811635	U-Bahnhof Baumwall
+Q52690491	U-Bahnhof Berliner Tor
+Q1751987	U-Bahnhof Berne
+Q2465844	U-Bahnhof Billstedt
+Q2465845	U-Bahnhof Borgweg
+Q15103466	U-Bahnhof Buchenkamp
+Q3646299	U-Bahnhof Buckhorn
+Q2804233	U-Bahnhof Burgstraße
+Q1719687	U-Bahnhof Christuskirche
+Q1233681	U-Bahnhof Dehnhaide
+Q79851966	U-Bahnhof Elbbrücken
+Q2152075	U-Bahnhof Emilienstraße
+Q2465872	U-Bahnhof Eppendorfer Baum
+Q1584382	U-Bahnhof Farmsen
+Q2465884	U-Bahnhof Feldstraße
+Q15076918	U-Bahnhof Fuhlsbüttel
+Q14540885	U-Bahnhof Fuhlsbüttel Nord
+Q822899	U-Bahnhof Gänsemarkt
+Q3782339	U-Bahnhof Habichtstraße
+Q209340	U-Bahnhof HafenCity Universität
+Q2363470	U-Bahnhof Hagenbecks Tierpark
+Q2465907	U-Bahnhof Hagendeel
+Q617501	U-Bahnhof Hallerstraße
+Q2465909	U-Bahnhof Hamburger Straße
+Q2465914	U-Bahnhof Hammer Kirche
+Q3783675	U-Bahnhof Hauptbahnhof Nord
+Q3783676	U-Bahnhof Hauptbahnhof Süd
+Q3786232	U-Bahnhof Hoheluftbrücke
+Q42313180	U-Bahnhof Horner Geest
+Q2465936	U-Bahnhof Horner Rennbahn
+Q2465932	U-Bahnhof Hudtwalckerstraße
+Q2465945	U-Bahnhof Joachim-Mähl-Straße
+Q30890676	U-Bahnhof Jungfernstieg
+Q2465965	U-Bahnhof Kellinghusenstraße
+Q15103437	U-Bahnhof Kiwittsmoor
+Q15098644	U-Bahnhof Klein Borstel
+Q617499	U-Bahnhof Klosterstern
+Q1719628	U-Bahnhof Lübecker Straße
+Q15851861	U-Bahnhof Langenhorn Markt
+Q15851862	U-Bahnhof Langenhorn Nord
+Q6591260	U-Bahnhof Lattenkamp
+Q2465975	U-Bahnhof Legienstraße
+Q180052	U-Bahnhof Lohmühlenstraße
+Q2252910	U-Bahnhof Lutterothstraße
+Q827247	U-Bahnhof Mönckebergstraße
+Q2466005	U-Bahnhof Mümmelmannsberg
+Q826773	U-Bahnhof Meßberg
+Q3853997	U-Bahnhof Meiendorfer Weg
+Q1694188	U-Bahnhof Merkenstraße
+Q275505	U-Bahnhof Messehallen
+Q658720	U-Bahnhof Mundsburg
+Q2363905	U-Bahnhof Niendorf Nord
+Q2466015	U-Bahnhof Niendorf-Markt
+Q2466023	U-Bahnhof Ochsenzoll
+Q3881293	U-Bahnhof Ohlstedt
+Q18632070	U-Bahnhof Oldenfelde
+Q2151985	U-Bahnhof Osterstraße
+Q875571	U-Bahnhof Rödingsmarkt
+Q831350	U-Bahnhof Rathaus (Hamburg)
+Q2466044	U-Bahnhof Rauhes Haus
+Q1650147	U-Bahnhof Ritterstraße
+Q2466059	U-Bahnhof Saarlandstraße (Hamburg)
+Q2363888	U-Bahnhof Schippelsweg
+Q275746	U-Bahnhof Schlump
+Q2466068	U-Bahnhof Sengelmannstraße
+Q1417831	U-Bahnhof Sierichstraße
+Q826353	U-Bahnhof St. Pauli
+Q2466074	U-Bahnhof Steinfurther Allee
+Q827583	U-Bahnhof Steinstraße (Hamburg)
+Q826484	U-Bahnhof Stephansplatz (Hamburg)
+Q106540816	U-Bahnhof Sternschanze
+Q42321557	U-Bahnhof Stoltenstraße
+Q6590961	U-Bahnhof Straßburger Straße
+Q3997085	U-Bahnhof Trabrennbahn
+Q617555	U-Bahnhof Uhlandstraße (Hamburg)
+Q4016141	U-Bahnhof Volksdorf
+Q2466085	U-Bahnhof Wandsbek Markt
+Q108284931	U-Bahnhof Wandsbeker Chaussee
+Q1398047	U-Bahnhof Wandsbek-Gartenstadt
+Q2466086	U-Bahnhof Wartenau
+Q248623	U-Bahnlinie U1 (Hamburg)
+Q275451	U-Bahnlinie U2 (Hamburg)
+Q781351	U-Bahnlinie U3 (Hamburg)
+Q209739	U-Bahnlinie U4 (Hamburg)
+Q16321051	U-Bahnlinie U5 (Hamburg)
+Q1417357	U-Boot-Bunker Finkenwerder
+Q106606028	Uckermarkweg
+Q106606029	Uferstraße (Hamburg)
+Q106606030	Uhlandstraße (Hamburg)
+Q18632090	Uhlenhorster Fährhaus
+Q18008736	Uhlenhorster Kanal
+Q101001904	Uhrmacherfachschule (Hamburg-Ottensen)
+Q106606031	Ulmenau
+Q110768291	Ulmenliet 20
+Q106606032	Ulmenstraße (Hamburg)
+Q53141282	Umspannwerk Hamburg-Süd
+Q53224686	Umspannwerk Neuhof (Hamburg)
+Q111648232	UNA-HAKRA
+Q2494414	Unilever-Haus (Hamburg)
+Q316207	Universitätsklinikum Hamburg-Eppendorf
+Q114809353	Unnastraße (Hamburg)
+Q2497432	Unterelbe
+Q1318152	Unterfeuer Wittenbergen
+Q2499121	Untersuchungsgefängnis Holstenglacis
+Q106606033	Up de Worth (Hamburg)
+Q85626909	Uwe (ship, 1914, Brandenburg an der Havel)
+Q106606053	Vörn Barkholt
+Q106606034	Valentinskamp
+Q106606035	Valparaisostraße
+Q106606036	Vasco da Gama Platz
+Q114809357	Veddeler Marktplatz
+Q18008791	Veddelkanal
+Q66081806	Veddelkanalbrücke
+Q25089281	Veloroute 4 (Hamburg)
+Q66821215	Veloroute 6 (Hamburg)
+Q114809358	Venusberg (Hamburg)
+Q106606037	Vera-Brittain-Ufer (Hamburg)
+Q2513916	Verband für Turnen und Freizeit Hamburg
+Q113404581	Verbindungsobjekte (Diether Heisig, Hamburg)
+Q114809360	Vereinsstraße (Hamburg)
+Q18008807	Veringkanal
+Q114809361	Veringstraße (Hamburg)
+Q106606038	Veritaskai
+Q15129057	Verlagshaus Axel Springer (Hamburg)
+Q62665920	Versöhnungskirche (Hamburg-Eilbek)
+Q2518220	Versmannhaus
+Q106606039	Versmannstraße (Hamburg)
+Q20109111	Vielohgraben
+Q23454572	Vier Männer auf Bojen by Stephan Balkenhol
+Q114809363	Vierbergen (Hamburg)
+Q114809365	Viereck (Hamburg)
+Q1498475	Vierländer Bahn
+Q18632417	Vierländerin-Brunnen
+Q885045	Vierlande
+Q114809368	Vierlandenstraße (Hamburg)
+Q98590348	Viktoria-Kaserne (Hamburg)
+Q15133960	Villa de Freitas
+Q23893321	Villa Kaltehofe
+Q96238262	Villa Süchting
+Q106606040	Virchowstraße (Hamburg)
+Q105170728	Virchowstraße 50 (Hamburg)
+Q105103286	Virchowstraße 80 (Hamburg)
+Q106606041	Vizelinstraße (Hamburg)
+Q106606054	Voßhagen (Hamburg)
+Q106606042	Vogelhüttendeich
+Q106606044	Vogelweide (Hamburg)
+Q106606045	Vogesenstraße (Hamburg)
+Q114809371	Vogteistraße (Hamburg)
+Q106606046	Vogteiweg
+Q106704959	Vogthof (Hamburg)
+Q114809370	Vogt-Wells-Straße
+Q106690029	Volksdorfer Damm
+Q110474042	Volksdorfer Schulkate
+Q1971406	Volksdorfer Teichwiesen
+Q1502427	Volksdorfer Wald
+Q106606047	Volksdorfer Weg (Hamburg)
+Q108016910	Volkshochschule Hamburg-Ost
+Q105847196	Volkshochschule Leuschnerstraße
+Q26791740	Von Dratelnscher Park
+Q106606048	Von-Elm-Weg (Hamburg)
+Q106606049	Von-Essen-Straße
+Q106606051	Von-Heß-Weg
+Q106606050	Von-Hein-Straße
+Q106606052	Von-Moltke-Bogen
+Q109593398	Vorderdeich 151
+Q11955004	Vorhorngraben
+Q18632530	Vorsetzen
+Q106606119	Wöhlerstraße (Hamburg)
+Q106606124	Wördenmoorweg
+Q21036824	Wacholderpark Fuhlsbüttel
+Q106606055	Wacholderweg (Hamburg)
+Q106606056	Wagnerstraße (Hamburg)
+Q106606057	Wagrierweg
+Q18632566	Waisenhaus (Hamburg)
+Q106606058	Waitzstraße (Hamburg)
+Q1361180	Walddörfer-Gymnasium
+Q106606059	Walddörferstraße
+Q1266022	Waldfriedhof Volksdorf
+Q2543080	Wallringtunnel
+Q106606060	Wallstraße (Hamburg)
+Q114809372	Walter-Hammer-Weg
+Q114809373	Walter-Koch-Weg
+Q106606061	Walter-Rothenburg-Weg
+Q106606062	Walter-Schmedemann-Straße
+Q114809374	Waltershofer Damm
+Q114809375	Waltershofer Straße
+Q15853617	Wandrahm
+Q96375991	Wandrahmsfleet
+Q107161972	Wandrahmsfleetbrücke
+Q65246760	Wandrahmssteg
+Q2548180	Wandsbek Markt
+Q15853621	Wandsbek Quarree
+Q106606063	Wandsbeker Allee
+Q106606064	Wandsbeker Bahnhofstraße
+Q98492675	Wandsbeker Chaussee
+Q2548173	Wandsbeker Gehölz
+Q106606065	Wandsbeker Königstraße
+Q1415919	Wandsbeker Marktstraße
+Q106606066	Wandsbeker Stieg
+Q106606067	Wandsbeker Zollstraße
+Q316450	Wandse
+Q114809376	Warburgstraße
+Q1734429	Warenhaus (Mönckebergstraße 16)
+Q114809377	Warnckesweg
+Q106606068	Wartenau
+Q110411202	Wartenau 15
+Q106606069	Waseberg
+Q106606070	Washingtonallee (Hamburg)
+Q106606071	Wasmannstraße (Hamburg)
+Q27478711	Wasserschloss (Hamburg)
+Q110756688	Wasserschutzpolizeikommissariat 2 Außenstelle Alster
+Q54945661	Wasserstoffstation HafenCity, Hamburg
+Q2550609	Wasserstraßen- und Schifffahrtsamt Hamburg
+Q76307605	Wassertreppe at Planten un Blomen
+Q2551788	Wasserturm der Stadtwasserkunst in Hamburg-Rothenburgsort
+Q1805180	Wasserturm Hamburg-Stellingen
+Q2220592	Wasserturm Lohbrügge
+Q999939	Wasserturm Lokstedt
+Q2551829	Wasserturm Ohlsdorfer Friedhof
+Q2551785	Water tower, Hamburg-Langenhorn, Ochsenzoll
+Q2551782	Water tower AK Barmbek
+Q106606072	Waterloostraße (Hamburg)
+Q106606073	Wattkorn
+Q114809378	Weckmannweg (Hamburg)
+Q106606074	Weddestraße
+Q145374	Wedeler Au
+Q106606075	Wedeler Landstraße
+Q106606076	Weg 360
+Q114809379	Weg beim Jäger
+Q106606077	Wegenkamp
+Q96876132	Wegenkampgraben
+Q108876722	Wehlbrook
+Q114809380	Wehrmannstraße (Hamburg)
+Q114809384	Weiße Rose (Hamburg)
+Q106606084	Weißenburger Straße (Hamburg)
+Q15134723	Weißes Haus von Nienstedten
+Q79788650	Weibliche Gestalt (Barbara Haeger)
+Q79834008	Weiblicher Engel (Barbara Haeger)
+Q106606078	Weichselmünder Straße
+Q106606079	Weidemoor (Hamburg)
+Q106606080	Weidenallee
+Q106606081	Weidenbaumsweg
+Q106606082	Weidenstieg (Hamburg)
+Q106606083	Weidestraße (Hamburg)
+Q114809381	Weimarer Straße (Hamburg)
+Q114809383	Weissenhof (Hamburg)
+Q881793	Wellingsbüttel Manor
+Q76373558	Wellingsbütteler Landstraße
+Q11955130	Wellingsbüttler Grenzgraben
+Q76414372	Wellingsbüttler Weg
+Q106606085	Wendemuthstraße (Hamburg)
+Q106606086	Wendenstraße (Hamburg)
+Q98382759	Wendloher Graben
+Q106606087	Wentorfer Straße (Hamburg)
+Q106606088	Wentzelplatz
+Q106606089	Werderstraße (Hamburg)
+Q114809385	Werftstraße (Hamburg)
+Q114809386	Werner-Otto-Straße
+Q98771749	Wesselhoeftpark
+Q98708536	Westerpark (Hamburg)
+Q106606090	Westerrode
+Q11955142	Westerrodegraben
+Q104223857	Westerschule Finkenwerder
+Q106606091	Westerstraße (Hamburg)
+Q1971431	Westerweiden
+Q11955143	Westlicher Bahnhofskanal
+Q106606092	Westphalensweg
+Q114809387	Weusthoffstraße
+Q114809388	Wexstraße (Hamburg)
+Q108566881	Wichernkirche (Hamburg-Hamm)
+Q2567421	Wichern-Schule (Hamburg)
+Q106606094	Wichernsweg
+Q106606095	Wielandstraße (Hamburg)
+Q100322444	Wiemeldorfer Moorgraben
+Q11955149	Wiemersbek
+Q106606096	Wiesendamm (Hamburg)
+Q29479402	Wiesendammbrücke (Hamburg)
+Q106606097	Wiesenredder (Hamburg)
+Q114809389	Wiesingerweg (Hamburg)
+Q114809390	Wikingerweg (Hamburg)
+Q106606098	Wildschwanbrook
+Q114809391	Wilhelm-Bauche-Weg
+Q1591849	Wilhelm-Gymnasium (Hamburg)
+Q106606099	Wilhelm-Metzger-Straße
+Q106606100	Wilhelm-Raabe-Weg
+Q59084457	Wilhelmsburger Brücke
+Q11955158	Wilhelmsburger Dove Elbe
+Q26250821	Wilhelmsburger Inselpark
+Q26821645	Wilhelmsburger Rathauspark
+Q2576214	Wilhelmsburger Reichsstraße
+Q114809392	Wilhelmsburger Straße (Hamburg)
+Q24248553	Wilhelmsburger Windmühle "Johanna"
+Q106606101	Wilhelmstraße (Hamburg)
+Q106606102	Willersweg
+Q106606103	Willistraße (Hamburg)
+Q106606104	Willy-Brandt-Straße (Hamburg)
+Q96375006	Willy-Brandt-Straße 47 (Hamburg)
+Q106606105	Willy-Jacobs-Weg
+Q106606106	Wilmersdorfer Straße (Hamburg)
+Q106606107	Wilstedter Weg
+Q106606108	Wilstorfer Straße (Hamburg)
+Q106606109	Wincklerstraße (Hamburg)
+Q106606110	Windmühlenweg (Hamburg)
+Q106606111	Winsener Straße (Hamburg)
+Q187286	Winterhuder Fährhaus
+Q106606112	Winterhuder Kai
+Q106606113	Winterhuder Marktplatz
+Q96776980	Winterhuder Weg (Hamburg)
+Q106606114	Wittekopsweg
+Q106606115	Witthöfftstraße
+Q106690039	Witthof (Hamburg)
+Q1385238	Wittmoor
+Q7886874	Wittmoor concentration camp
+Q114809393	Witts Allee
+Q106606116	Woellmerstraße
+Q114809395	Woermannsweg
+Q106606117	Wohldorfer Straße (Hamburg)
+Q11955183	Wohldorfer Wald
+Q106606118	Wohlers Allee (Hamburg)
+Q106606120	Wohlwillstraße
+Q66438340	Wohnanlage Turmweg (Hamburg)
+Q110424403	Wohnheim Bornstraße
+Q15132482	Wohnpark Trabrennbahn Farmsen
+Q1611199	Wolfgang-Meyer-Sportanlage
+Q106690033	Wolfgangsweg (Hamburg)
+Q114809396	Wolfshagen (Hamburg)
+Q106606121	Wolliner Straße (Hamburg)
+Q106606122	Woltmanstraße
+Q106606123	Woold Bergstedt
+Q106606125	Woyrschweg
+Q106606126	Wrangelkoppel
+Q106606127	Wrangelstraße (Hamburg)
+Q106606128	Wrauster Bogen
+Q109673843	Wrauster Bogen 54
+Q100783329	Wrietreyegraben
+Q106606129	Wulffsblöcken
+Q106606130	Wulffsgang
+Q106606131	Wulffsgrund
+Q106606132	Wulffstwiete
+Q106606133	Yokohamastraße (Hamburg)
+Q19312165	Zürich-Haus, Hamburg
+Q108566882	Zachäus-Kirche (Hamburg-Langenhorn)
+Q106606134	Zeidlerstraße (Hamburg)
+Q15855624	Zeisehallen
+Q106606135	Zeisigstraße (Hamburg)
+Q114809397	Zellmannstraße
+Q110556904	Zentrum für Marine und Atmosphärische Wissenschaften
+Q106606136	Zeppelinstraße (Hamburg)
+Q18633233	Zeughausmarkt
+Q8063038	ZEUS (particle detector)
+Q114809398	Zimmermannstraße (Hamburg)
+Q106606137	Zimmerpforte
+Q106606138	Zimmerstraße (Hamburg)
+Q108566883	Zionskirche (Hamburg-Hohenfelde)
+Q205483	Zippelhaus
+Q106606139	Zirkusweg
+Q114809399	Zitadellenstraße
+Q106992067	Zitzewitzstraße
+Q1714318	Ziviljustizgebäude
+Q218602	Zollenbrücke
+Q218701	Zollkanal
+Q220254	Zoo Hamburg
+Q220267	Zoologisches Museum Hamburg
+Q106606140	Zoppoter Straße (Hamburg)
+Q58443136	Zum Goldenen Handschuh
+Q2604966	Zum Silbersack
+Q14531344	Zur Ritze
+Q106606141	Zweibrückenstraße (Hamburg)
+Q59296780	Zweite Ausschläger Brücke

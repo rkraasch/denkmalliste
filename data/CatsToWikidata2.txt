@@ -1,0 +1,985 @@
+{| class="sortable wikitable" 
+! CommonsCat || Wikidata || ID
+|-
+| [[:c:Category:Öjendorfer Park|Öjendorfer Park]] || [[:d:Q17353914]] ||39042
+|-
+| [[:c:Category:Überseering 12|Überseering 12]] || [[:d:Q42231504]] ||22055
+|-
+| [[:c:Category:Überseering 35|Überseering 35]] || [[:d:Q54918912]] ||22057
+|-
+| [[:c:Category:Überseering 40|Überseering 40]] || [[:d:Q108750877]] ||22054
+|-
+| [[:c:Category:Überseering 45 / New-York-Ring 2|Überseering 45 / New-York-Ring 2]] || [[:d:Q110551568]] ||21102
+|-
+| [[:c:Category:Adventskirche (Hamburg-Schnelsen)|Adventskirche (Hamburg-Schnelsen)]] || [[:d:Q379865]] ||19394
+|-
+| [[:c:Category:Agnesstraße 1 (Hamburg)|Agnesstraße 1 (Hamburg)]] || [[:d:Q109877868]] ||29598
+|-
+| [[:c:Category:Alfredstraßenbrücke|Alfredstraßenbrücke]] || [[:d:Q56035760]] ||22289
+|-
+| [[:c:Category:Allermöher Deich 105|Allermöher Deich 105]] || [[:d:Q104175547]] ||29732
+|-
+| [[:c:Category:Allermöher Deich 445|Allermöher Deich 445]] || [[:d:Q109715078]] ||27673
+|-
+| [[:c:Category:Alsterfleet|Alsterfleet]] || [[:d:Q1614236]] ||14751
+|-
+| [[:c:Category:Altbau der Staats- und Universitätsbibliothek Hamburg|Altbau der Staats- und Universitätsbibliothek Hamburg]] || [[:d:Q107762039]] ||19301
+|-
+| [[:c:Category:Alte Oberfinanzdirektion Hamburg|Alte Oberfinanzdirektion Hamburg]] || [[:d:Q436055]] ||29153
+|-
+| [[:c:Category:Alte Post (Hamburg)|Alte Post (Hamburg)]] || [[:d:Q436110]] ||29210
+|-
+| [[:c:Category:Alter Elbtunnel|Alter Elbtunnel]] || [[:d:Q460264]] ||13163
+|-
+| [[:c:Category:Alter Friedhof Harburg|Alter Friedhof Harburg]] || [[:d:Q18616186]] ||27874
+|-
+| [[:c:Category:Alter Friedhof Wandsbek|Alter Friedhof Wandsbek]] || [[:d:Q43812915]] ||23250
+|-
+| [[:c:Category:Alter Hammer Friedhof|Alter Hammer Friedhof]] || [[:d:Q437953]] ||13811
+|-
+| [[:c:Category:Alter Niendorfer Friedhof|Alter Niendorfer Friedhof]] || [[:d:Q438118]] ||19391
+|-
+| [[:c:Category:Altes Krematorium Hamburg-Alsterdorf|Altes Krematorium Hamburg-Alsterdorf]] || [[:d:Q47504016]] ||29593
+|-
+| [[:c:Category:Altes Zollhaus (Hamburg-HafenCity)|Altes Zollhaus (Hamburg-HafenCity)]] || [[:d:Q26951150]] ||12190
+|-
+| [[:c:Category:Altonaer Rathaus|Altonaer Rathaus]] || [[:d:Q444036]] ||16123
+|-
+| [[:c:Category:Amtsgericht Bergedorf|Amtsgericht Bergedorf]] || [[:d:Q480735]] ||27911
+|-
+| [[:c:Category:Amtsgericht Blankenese|Amtsgericht Blankenese]] || [[:d:Q110205964]] ||18199
+|-
+| [[:c:Category:Amtsgericht Wandsbek|Amtsgericht Wandsbek]] || [[:d:Q110206015]] ||24573
+|-
+| [[:c:Category:Apostelkirche (Hamburg-Eißendorf)|Apostelkirche (Hamburg-Eißendorf)]] || [[:d:Q108566753]] ||28211
+|-
+| [[:c:Category:Auditorium Maximum (Universität Hamburg)|Auditorium Maximum (Universität Hamburg)]] || [[:d:Q16240789]] ||19530
+|-
+| [[:c:Category:Aueschule Finkenwerder|Aueschule Finkenwerder]] || [[:d:Q106558963]] ||29353
+|-
+| [[:c:Category:Auferstehungskirche (Hamburg-Barmbek)|Auferstehungskirche (Hamburg-Barmbek)]] || [[:d:Q759617]] ||30821
+|-
+| [[:c:Category:Autobahnbrücke Moorfleet|Autobahnbrücke Moorfleet]] || [[:d:Q10602002]] ||14429
+|-
+| [[:c:Category:Bahnhof Bergedorf Süd|Bahnhof Bergedorf Süd]] || [[:d:Q18173158]] ||27245
+|-
+| [[:c:Category:Bahnhof Blankenese|Bahnhof Blankenese]] || [[:d:Q800871]] ||18110
+|-
+| [[:c:Category:Bahnhof Hasselbrook|Bahnhof Hasselbrook]] || [[:d:Q800891]] ||24471
+|-
+| [[:c:Category:Ballettzentrum Hamburg|Ballettzentrum Hamburg]] || [[:d:Q874154]] ||13809
+|-
+| [[:c:Category:Barmbeker Stichkanal|Barmbeker Stichkanal]] || [[:d:Q808346]] ||30806
+|-
+| [[:c:Category:Bellevuebrücke|Bellevuebrücke]] || [[:d:Q28604520]] ||21516
+|-
+| [[:c:Category:Bergstedter Kirche|Bergstedter Kirche]] || [[:d:Q820252]] ||27081
+|-
+| [[:c:Category:Bergstedter Markt|Bergstedter Markt]] || [[:d:Q106605030]] ||24277
+|-
+| [[:c:Category:Berner Heerweg 187|Berner Heerweg 187]] || [[:d:Q111203537]] ||24602
+|-
+| [[:c:Category:Billwerder Billdeich 424|Billwerder Billdeich 424]] || [[:d:Q106640704]] ||26223
+|-
+| [[:c:Category:Binnenalster|Binnenalster]] || [[:d:Q3238460]] ||29927
+|-
+| [[:c:Category:Binnenhafen (Hamburg)|Binnenhafen (Hamburg)]] || [[:d:Q863909]] ||14864
+|-
+| [[:c:Category:Black Form – Dedicated to the Missing Jews (Sol LeWitt)|Black Form – Dedicated to the Missing Jews (Sol LeWitt)]] || [[:d:Q880257]] ||39121
+|-
+| [[:c:Category:Blankeneser Kirche|Blankeneser Kirche]] || [[:d:Q881579]] ||30412
+|-
+| [[:c:Category:Bleichenbrücke|Bleichenbrücke]] || [[:d:Q19275518]] ||38948
+|-
+| [[:c:Category:Blohms Park|Blohms Park]] || [[:d:Q19835553]] ||13095
+|-
+| [[:c:Category:Boberger Furtweg 1|Boberger Furtweg 1]] || [[:d:Q109347064]] ||27677
+|-
+| [[:c:Category:Bodelschwingh-Kirche (Hamburg-Winterhude)|Bodelschwingh-Kirche (Hamburg-Winterhude)]] || [[:d:Q108566758]] ||24406
+|-
+| [[:c:Category:Bogenstraße (Hamburg)|Bogenstraße (Hamburg)]] || [[:d:Q106605057]] ||30595
+|-
+| [[:c:Category:Bovehaus (Hamburg-Wandsbek)|Bovehaus (Hamburg-Wandsbek)]] || [[:d:Q14906471]] ||23262
+|-
+| [[:c:Category:Brahms Kontor|Brahms Kontor]] || [[:d:Q897345]] ||29190
+|-
+| [[:c:Category:Broder-Hinrick-Kirche (Hamburg-Langenhorn)|Broder-Hinrick-Kirche (Hamburg-Langenhorn)]] || [[:d:Q108566760]] ||24411
+|-
+| [[:c:Category:Broschekhaus|Broschekhaus]] || [[:d:Q990681]] ||29172
+|-
+| [[:c:Category:Bucerius Kunst Forum|Bucerius Kunst Forum]] || [[:d:Q877566]] ||11979
+|-
+| [[:c:Category:Bugenhagenkirche (Hamburg-Barmbek)|Bugenhagenkirche (Hamburg-Barmbek)]] || [[:d:Q1002408]] ||30899
+|-
+| [[:c:Category:Bugenhagenkirche (Hamburg-Bergedorf)|Bugenhagenkirche (Hamburg-Bergedorf)]] || [[:d:Q108566761]] ||29282
+|-
+| [[:c:Category:Bult 10 (Hamburg)|Bult 10 (Hamburg)]] || [[:d:Q107659584]] ||25414
+|-
+| [[:c:Category:Burgruine Henneberg (Nachbildung)|Burgruine Henneberg (Nachbildung)]] || [[:d:Q19276057]] ||29679
+|-
+| [[:c:Category:Campus Hebebrandstraße|Campus Hebebrandstraße]] || [[:d:Q105547318]] ||29605
+|-
+| [[:c:Category:Cantate-Kirche (Hamburg-Duvenstedt)|Cantate-Kirche (Hamburg-Duvenstedt)]] || [[:d:Q108566762]] ||29659
+|-
+| [[:c:Category:Chilehaus|Chilehaus]] || [[:d:Q542783]] ||29133
+|-
+| [[:c:Category:Christianeum|Christianeum]] || [[:d:Q317150]] ||29321
+|-
+| [[:c:Category:Christian-Förster-Straße|Christian-Förster-Straße]] || [[:d:Q106605114]] ||30694
+|-
+| [[:c:Category:Christianskirche (Hamburg-Ottensen)|Christianskirche (Hamburg-Ottensen)]] || [[:d:Q1082972]] ||29245
+|-
+| [[:c:Category:Christ-König-Kirche (Hamburg-Lokstedt)|Christ-König-Kirche (Hamburg-Lokstedt)]] || [[:d:Q61310657]] ||20096
+|-
+| [[:c:Category:Christophorus-Kirche (Hamburg-Hummelsbüttel)|Christophorus-Kirche (Hamburg-Hummelsbüttel)]] || [[:d:Q20754121]] ||26910
+|-
+| [[:c:Category:Christuskirche (Hamburg-Wandsbek)|Christuskirche (Hamburg-Wandsbek)]] || [[:d:Q1087331]] ||29642
+|-
+| [[:c:Category:Christuskirche Altona|Christuskirche Altona]] || [[:d:Q108566764]] ||30215
+|-
+| [[:c:Category:Chrysanderstraße 4|Chrysanderstraße 4]] || [[:d:Q110226251]] ||27926
+|-
+| [[:c:Category:City-Hof|City-Hof]] || [[:d:Q19277450]] ||29292
+|-
+| [[:c:Category:City-Nord-Park|City-Nord-Park]] || [[:d:Q21036574]] ||39053
+|-
+| [[:c:Category:Colonnaden|Colonnaden]] || [[:d:Q1110928]] ||29951
+|-
+| [[:c:Category:Cornelius-Kirche (Hamburg-Neugraben-Fischbek)|Cornelius-Kirche (Hamburg-Neugraben-Fischbek)]] || [[:d:Q108566766]] ||28455
+|-
+| [[:c:Category:Curslacker Deich 140|Curslacker Deich 140]] || [[:d:Q109600947]] ||27173
+|-
+| [[:c:Category:Curslacker Heerweg 1|Curslacker Heerweg 1]] || [[:d:Q110598500]] ||29713
+|-
+| [[:c:Category:Dankeskirche (Hamburg-Rahlstedt)|Dankeskirche (Hamburg-Rahlstedt)]] || [[:d:Q101513784]] ||31119
+|-
+| [[:c:Category:Deichtorhallen|Deichtorhallen]] || [[:d:Q1183156]] ||11834
+|-
+| [[:c:Category:Deutsche Bundesbank Hamburg|Deutsche Bundesbank Hamburg]] || [[:d:Q113402114]] ||29970
+|-
+| [[:c:Category:Dietrich-Bonhoeffer-Kirche Oldenfelde (Hamburg-Rahlstedt)|Dietrich-Bonhoeffer-Kirche Oldenfelde (Hamburg-Rahlstedt)]] || [[:d:Q14551353]] ||29739
+|-
+| [[:c:Category:Dominikanerkloster St. Johannis (Hamburg)|Dominikanerkloster St. Johannis (Hamburg)]] || [[:d:Q18121807]] ||19950
+|-
+| [[:c:Category:Dove Elbe|Dove Elbe]] || [[:d:Q315688]] ||27461
+|-
+| [[:c:Category:Dreieinigkeitskirche (Hamburg-Allermöhe)|Dreieinigkeitskirche (Hamburg-Allermöhe)]] || [[:d:Q11722101]] ||26215
+|-
+| [[:c:Category:Dreifaltigkeitskirche (Hamburg-Hamm)|Dreifaltigkeitskirche (Hamburg-Hamm)]] || [[:d:Q1170288]] ||30165
+|-
+| [[:c:Category:Duwockskamp 1|Duwockskamp 1]] || [[:d:Q107428527]] ||25170
+|-
+| [[:c:Category:Edmund-Haus|Edmund-Haus]] || [[:d:Q23780480]] ||11873
+|-
+| [[:c:Category:Ehemaliges Restaurant Randel, Gebäude|Ehemaliges Restaurant Randel, Gebäude]] || [[:d:Q100447920]] ||26889
+|-
+| [[:c:Category:Ehrenmal der Radiologie|Ehrenmal der Radiologie]] || [[:d:Q1300206]] ||13521
+|-
+| [[:c:Category:Eichtalpark|Eichtalpark]] || [[:d:Q1296746]] ||24561
+|-
+| [[:c:Category:Eifflerstraße 3|Eifflerstraße 3]] || [[:d:Q104812793]] ||16828
+|-
+| [[:c:Category:Elbchaussee 530|Elbchaussee 530]] || [[:d:Q111964585]] ||16703
+|-
+| [[:c:Category:Ellerholzweg 1a|Ellerholzweg 1a]] || [[:d:Q63380853]] ||14764
+|-
+| [[:c:Category:Emilie-Wüstenfeld-Gymnasium|Emilie-Wüstenfeld-Gymnasium]] || [[:d:Q63098932]] ||18383
+|-
+| [[:c:Category:Emporio (Hamburg)|Emporio (Hamburg)]] || [[:d:Q1339402]] ||29977
+|-
+| [[:c:Category:Engelbert Peiffer - Statue of Saint Ansgar - Trostbrücke Hamburg|Engelbert Peiffer - Statue of Saint Ansgar - Trostbrücke Hamburg]] || [[:d:Q104151027]] ||12071
+|-
+| [[:c:Category:Ensemble Adolf-von-Elm-Hof/Mehringweg|Ensemble Adolf-von-Elm-Hof/Mehringweg]] || [[:d:Q109719034]] ||31208
+|-
+| [[:c:Category:Erlöserkirche (Hamburg-Borgfelde)|Erlöserkirche (Hamburg-Borgfelde)]] || [[:d:Q1355744]] ||30027
+|-
+| [[:c:Category:Erlöserkirche (Hamburg-Lohbrügge)|Erlöserkirche (Hamburg-Lohbrügge)]] || [[:d:Q108566776]] ||26244
+|-
+| [[:c:Category:Europa Passage|Europa Passage]] || [[:d:Q1375224]] ||12491
+|-
+| [[:c:Category:Fernsichtbrücke|Fernsichtbrücke]] || [[:d:Q28600335]] ||28987
+|-
+| [[:c:Category:Feuerwache Alsterdorf|Feuerwache Alsterdorf]] || [[:d:Q19279594]] ||21301
+|-
+| [[:c:Category:Feuerwache Berliner Tor|Feuerwache Berliner Tor]] || [[:d:Q19285020]] ||29205
+|-
+| [[:c:Category:Feuerwache Veddel|Feuerwache Veddel]] || [[:d:Q19279596]] ||29215
+|-
+| [[:c:Category:Finnische Seemannskirche in Hamburg|Finnische Seemannskirche in Hamburg]] || [[:d:Q63349428]] ||29300
+|-
+| [[:c:Category:Finnlandhaus|Finnlandhaus]] || [[:d:Q1418221]] ||12656
+|-
+| [[:c:Category:Fleethaus Hamburg-Harburg|Fleethaus Hamburg-Harburg]] || [[:d:Q96376709]] ||29286
+|-
+| [[:c:Category:Former railway station Bergedorf|Former railway station Bergedorf]] || [[:d:Q437745]] ||25151
+|-
+| [[:c:Category:Franksche Laubenganghäuser auf dem Dulsberg|Franksche Laubenganghäuser auf dem Dulsberg]] || [[:d:Q1807150]] ||30932
+|-
+| [[:c:Category:Friedenskirche (Hamburg-St. Pauli)|Friedenskirche (Hamburg-St. Pauli)]] || [[:d:Q28374409]] ||13346
+|-
+| [[:c:Category:Friedhof Öjendorf|Friedhof Öjendorf]] || [[:d:Q1457488]] ||29344
+|-
+| [[:c:Category:Friedhof Altona|Friedhof Altona]] || [[:d:Q18286210]] ||17706
+|-
+| [[:c:Category:Friedhof Blankenese|Friedhof Blankenese]] || [[:d:Q41680828]] ||29439
+|-
+| [[:c:Category:Friedhof Groß Flottbek|Friedhof Groß Flottbek]] || [[:d:Q26821519]] ||29509
+|-
+| [[:c:Category:Friedrich-Ebert-Gymnasium (Hamburg)|Friedrich-Ebert-Gymnasium (Hamburg)]] || [[:d:Q882453]] ||28308
+|-
+| [[:c:Category:Fritz-Schumacher-Schule|Fritz-Schumacher-Schule]] || [[:d:Q28946766]] ||29275
+|-
+| [[:c:Category:Fritz-Schumacher-Siedlung|Fritz-Schumacher-Siedlung]] || [[:d:Q50212429]] ||30982
+|-
+| [[:c:Category:Gänsemarkt|Gänsemarkt]] || [[:d:Q1558796]] ||29982
+|-
+| [[:c:Category:Görtz-Palais|Görtz-Palais]] || [[:d:Q1559591]] ||12148
+|-
+| [[:c:Category:Gaußstraße 51 (Hamburg)|Gaußstraße 51 (Hamburg)]] || [[:d:Q105755871]] ||14371
+|-
+| [[:c:Category:Gedenkstätte Plattenhaus Poppenbüttel|Gedenkstätte Plattenhaus Poppenbüttel]] || [[:d:Q2098738]] ||26901
+|-
+| [[:c:Category:Gelehrtenschule des Johanneums|Gelehrtenschule des Johanneums]] || [[:d:Q882742]] ||30871
+|-
+| [[:c:Category:Gemeindehaus St. Michaelis|Gemeindehaus St. Michaelis]] || [[:d:Q28499802]] ||13850
+|-
+| [[:c:Category:Gemeindezentrum Mümmelmannsberg|Gemeindezentrum Mümmelmannsberg]] || [[:d:Q28037564]] ||30029
+|-
+| [[:c:Category:Girardethaus|Girardethaus]] || [[:d:Q24068718]] ||12662
+|-
+| [[:c:Category:Globushof|Globushof]] || [[:d:Q106382358]] ||14776
+|-
+| [[:c:Category:Gnadenkirche St. Pauli|Gnadenkirche St. Pauli]] || [[:d:Q9187671]] ||14314
+|-
+| [[:c:Category:Grünanlage Willersweg|Grünanlage Willersweg]] || [[:d:Q106692977]] ||14816
+|-
+| [[:c:Category:Graumanntwiete 5|Graumanntwiete 5]] || [[:d:Q104216876]] ||27641
+|-
+| [[:c:Category:Grindelallee 100|Grindelallee 100]] || [[:d:Q111901527]] ||45642
+|-
+| [[:c:Category:Groß Flottbeker Kirche (Hamburg)|Groß Flottbeker Kirche (Hamburg)]] || [[:d:Q108566782]] ||17893
+|-
+| [[:c:Category:Gut Marienhöhe|Gut Marienhöhe]] || [[:d:Q107445411]] ||15608
+|-
+| [[:c:Category:Gymnasium Allee (Hamburg)|Gymnasium Allee (Hamburg)]] || [[:d:Q1454260]] ||13384
+|-
+| [[:c:Category:Gymnasium Alstertal|Gymnasium Alstertal]] || [[:d:Q1558060]] ||29625
+|-
+| [[:c:Category:Gymnasium Altona|Gymnasium Altona]] || [[:d:Q1558062]] ||16036
+|-
+| [[:c:Category:Gymnasium Blankenese|Gymnasium Blankenese]] || [[:d:Q41576002]] ||29502
+|-
+| [[:c:Category:Gymnasium Eppendorf|Gymnasium Eppendorf]] || [[:d:Q1558106]] ||29254
+|-
+| [[:c:Category:Gymnasium Hoheluft|Gymnasium Hoheluft]] || [[:d:Q18624903]] ||19812
+|-
+| [[:c:Category:Hafenpolizeiwache No 2|Hafenpolizeiwache No 2]] || [[:d:Q56878399]] ||14972
+|-
+| [[:c:Category:Hamburg Süd (building)|Hamburg Süd (building)]] || [[:d:Q43202951]] ||29971
+|-
+| [[:c:Category:Hamburger Börse|Hamburger Börse]] || [[:d:Q558551]] ||29221
+|-
+| [[:c:Category:Hamburger Ehrenmal für die Gefallenen beider Weltkriege|Hamburger Ehrenmal für die Gefallenen beider Weltkriege]] || [[:d:Q1572997]] ||14861
+|-
+| [[:c:Category:Hamburger Hof, Hamburg|Hamburger Hof, Hamburg]] || [[:d:Q1229183]] ||29188
+|-
+| [[:c:Category:Hamburger Rathausmarkt|Hamburger Rathausmarkt]] || [[:d:Q880649]] ||12254
+|-
+| [[:c:Category:Hamburger Schulmuseum|Hamburger Schulmuseum]] || [[:d:Q1573125]] ||12183
+|-
+| [[:c:Category:Hamburg-Haus Eimsbüttel|Hamburg-Haus Eimsbüttel]] || [[:d:Q1572803]] ||30503
+|-
+| [[:c:Category:Hansaburg (Hamburg-Hamm)|Hansaburg (Hamburg-Hamm)]] || [[:d:Q109771339]] ||14241
+|-
+| [[:c:Category:Hansa-Gymnasium Bergedorf|Hansa-Gymnasium Bergedorf]] || [[:d:Q1583589]] ||27751
+|-
+| [[:c:Category:Haus der Seefahrt (Hamburg)|Haus der Seefahrt (Hamburg)]] || [[:d:Q23786394]] ||29139
+|-
+| [[:c:Category:Haus Glass|Haus Glass]] || [[:d:Q90536188]] ||29127
+|-
+| [[:c:Category:Haus Goldener Schwan (Hamburg)|Haus Goldener Schwan (Hamburg)]] || [[:d:Q22320757]] ||29177
+|-
+| [[:c:Category:Haus Stübekamp 75|Haus Stübekamp 75]] || [[:d:Q18287382]] ||23887
+|-
+| [[:c:Category:Heilandskirche (Hamburg-Uhlenhorst)|Heilandskirche (Hamburg-Uhlenhorst)]] || [[:d:Q66385182]] ||24409
+|-
+| [[:c:Category:Heiligengeistbrücke|Heiligengeistbrücke]] || [[:d:Q19963924]] ||11853
+|-
+| [[:c:Category:Heilig-Kreuz-Kirche (Hamburg-Volksdorf)|Heilig-Kreuz-Kirche (Hamburg-Volksdorf)]] || [[:d:Q1594955]] ||29708
+|-
+| [[:c:Category:Heilwig-Gymnasium|Heilwig-Gymnasium]] || [[:d:Q1595481]] ||29597
+|-
+| [[:c:Category:Heine-Haus, Jungfernstieg (Hamburg)|Heine-Haus, Jungfernstieg (Hamburg)]] || [[:d:Q110947678]] ||12774
+|-
+| [[:c:Category:Heinrich-Groß-Hof|Heinrich-Groß-Hof]] || [[:d:Q1596378]] ||30909
+|-
+| [[:c:Category:Heinrich-Heine-Denkmal, Rathausmarkt (Hamburg)|Heinrich-Heine-Denkmal, Rathausmarkt (Hamburg)]] || [[:d:Q96375132]] ||12067
+|-
+| [[:c:Category:Heinrich-Osterath-Straße 45|Heinrich-Osterath-Straße 45]] || [[:d:Q109673231]] ||29778
+|-
+| [[:c:Category:Helenenstift (Hamburg)|Helenenstift (Hamburg)]] || [[:d:Q1602061]] ||16762
+|-
+| [[:c:Category:Herz-Jesu-Kirche (Hamburg-Hamm)|Herz-Jesu-Kirche (Hamburg-Hamm)]] || [[:d:Q108566785]] ||14173
+|-
+| [[:c:Category:Hiobs-Hospital (Hamburg)|Hiobs-Hospital (Hamburg)]] || [[:d:Q28498634]] ||29225
+|-
+| [[:c:Category:Hochbunker Allende-Platz|Hochbunker Allende-Platz]] || [[:d:Q100803977]] ||19295
+|-
+| [[:c:Category:Hochbunker Von-Hein-Straße|Hochbunker Von-Hein-Straße]] || [[:d:Q100525373]] ||23261
+|-
+| [[:c:Category:Hofschläger Weg 1|Hofschläger Weg 1]] || [[:d:Q106634557]] ||29805
+|-
+| [[:c:Category:Hofwegbrücke|Hofwegbrücke]] || [[:d:Q30129726]] ||20969
+|-
+| [[:c:Category:Hohe Brücke (Hamburg)|Hohe Brücke (Hamburg)]] || [[:d:Q19285654]] ||11855
+|-
+| [[:c:Category:Hohenwischer Straße 209|Hohenwischer Straße 209]] || [[:d:Q111204014]] ||28483
+|-
+| [[:c:Category:Horner Warteschule|Horner Warteschule]] || [[:d:Q105797772]] ||13080
+|-
+| [[:c:Category:Hospitalstraße 107 (Hamburg)|Hospitalstraße 107 (Hamburg)]] || [[:d:Q106832812]] ||15466
+|-
+| [[:c:Category:Hospitalstraße 109 (Hamburg)|Hospitalstraße 109 (Hamburg)]] || [[:d:Q106832769]] ||16117
+|-
+| [[:c:Category:Husumer Straße (Hamburg)|Husumer Straße (Hamburg)]] || [[:d:Q114808930]] ||20329
+|-
+| [[:c:Category:Hygieia-Brunnen, Hamburg|Hygieia-Brunnen, Hamburg]] || [[:d:Q6063200]] ||12066
+|-
+| [[:c:Category:Ida-Ehre-Schule|Ida-Ehre-Schule]] || [[:d:Q1656469]] ||19906
+|-
+| [[:c:Category:Ilse-Löwenstein-Schule|Ilse-Löwenstein-Schule]] || [[:d:Q66023291]] ||22311
+|-
+| [[:c:Category:Imam-Ali-Moschee (Hamburg)|Imam-Ali-Moschee (Hamburg)]] || [[:d:Q668264]] ||29614
+|-
+| [[:c:Category:Informationszentrum NS-Zwangsarbeit|Informationszentrum NS-Zwangsarbeit]] || [[:d:Q19286112]] ||28596
+|-
+| [[:c:Category:Innocentiapark|Innocentiapark]] || [[:d:Q1418566]] ||19641
+|-
+| [[:c:Category:Innocentiastraße|Innocentiastraße]] || [[:d:Q106605475]] ||19978
+|-
+| [[:c:Category:Internationales Maritimes Museum Hamburg|Internationales Maritimes Museum Hamburg]] || [[:d:Q937608]] ||14139
+|-
+| [[:c:Category:Israelitische Töchterschule (Hamburg)|Israelitische Töchterschule (Hamburg)]] || [[:d:Q1598945]] ||29313
+|-
+| [[:c:Category:Jüdischer Friedhof (Altona)|Jüdischer Friedhof (Altona)]] || [[:d:Q1414486]] ||16158
+|-
+| [[:c:Category:Jüdischer Friedhof Jenfelder Straße (Hamburg-Tonndorf)|Jüdischer Friedhof Jenfelder Straße (Hamburg-Tonndorf)]] || [[:d:Q1605511]] ||29637
+|-
+| [[:c:Category:Jüdischer Friedhof Königsreihe (Hamburg-Wandsbek)|Jüdischer Friedhof Königsreihe (Hamburg-Wandsbek)]] || [[:d:Q1716773]] ||23264
+|-
+| [[:c:Category:Jüdischer Friedhof Langenfelde (Hamburg-Eimsbüttel)|Jüdischer Friedhof Langenfelde (Hamburg-Eimsbüttel)]] || [[:d:Q1716716]] ||19739
+|-
+| [[:c:Category:Jüdischer Friedhof Ohlsdorf|Jüdischer Friedhof Ohlsdorf]] || [[:d:Q1262883]] ||30955
+|-
+| [[:c:Category:Jacobipark|Jacobipark]] || [[:d:Q15820609]] ||39054
+|-
+| [[:c:Category:Jahnkampfbahn (Hamburg)|Jahnkampfbahn (Hamburg)]] || [[:d:Q108344656]] ||21315
+|-
+| [[:c:Category:Jenckelhaus|Jenckelhaus]] || [[:d:Q106832145]] ||16832
+|-
+| [[:c:Category:Jenisch-Haus|Jenisch-Haus]] || [[:d:Q1686858]] ||18006
+|-
+| [[:c:Category:Jenischpark|Jenischpark]] || [[:d:Q25089266]] ||30445
+|-
+| [[:c:Category:Johanneskirche (Hamburg-Rissen)|Johanneskirche (Hamburg-Rissen)]] || [[:d:Q26772401]] ||30442
+|-
+| [[:c:Category:Jugendkirche (Hamburg-Bahrenfeld)|Jugendkirche (Hamburg-Bahrenfeld)]] || [[:d:Q108566793]] ||29470
+|-
+| [[:c:Category:Jungfernbrücke (Hamburg)|Jungfernbrücke (Hamburg)]] || [[:d:Q1713426]] ||11867
+|-
+| [[:c:Category:JVA Fuhlsbüttel|JVA Fuhlsbüttel]] || [[:d:Q1714381]] ||23670
+|-
+| [[:c:Category:Köhlbrandbrücke|Köhlbrandbrücke]] || [[:d:Q520613]] ||14874
+|-
+| [[:c:Category:Kaischuppen 50|Kaischuppen 50]] || [[:d:Q113827388]] ||13018
+|-
+| [[:c:Category:Kaiser-Wilhelm-Denkmal (Hamburg)|Kaiser-Wilhelm-Denkmal (Hamburg)]] || [[:d:Q1721556]] ||12623
+|-
+| [[:c:Category:Kaltehofe|Kaltehofe]] || [[:d:Q1722634]] ||30194
+|-
+| [[:c:Category:Kanalbrücke Von-Essen-Straße|Kanalbrücke Von-Essen-Straße]] || [[:d:Q28859942]] ||20216
+|-
+| [[:c:Category:Kanalplatz 6 (Hamburg)|Kanalplatz 6 (Hamburg)]] || [[:d:Q96376808]] ||26954
+|-
+| [[:c:Category:Kanalplatz 8 (Hamburg)|Kanalplatz 8 (Hamburg)]] || [[:d:Q96376919]] ||28031
+|-
+| [[:c:Category:Kapstadtring 2 bis 4|Kapstadtring 2 bis 4]] || [[:d:Q71147090]] ||21860
+|-
+| [[:c:Category:Karl-Schneider-Halle|Karl-Schneider-Halle]] || [[:d:Q110887180]] ||24598
+|-
+| [[:c:Category:Karnapp|Karnapp]] || [[:d:Q106605520]] ||31171
+|-
+| [[:c:Category:Katharinenhof-Frachtenhaus|Katharinenhof-Frachtenhaus]] || [[:d:Q25089221]] ||29935
+|-
+| [[:c:Category:Katholische Bonifatiusschule (Hamburg)|Katholische Bonifatiusschule (Hamburg)]] || [[:d:Q76416817]] ||27251
+|-
+| [[:c:Category:Katholische Schule Am Weiher|Katholische Schule Am Weiher]] || [[:d:Q79030177]] ||18602
+|-
+| [[:c:Category:Katholische Schule St. Marien (Hamburg)|Katholische Schule St. Marien (Hamburg)]] || [[:d:Q85685032]] ||15886
+|-
+| [[:c:Category:Kersten-Miles-Brücke|Kersten-Miles-Brücke]] || [[:d:Q1739633]] ||12787
+|-
+| [[:c:Category:Kirche Alt-Rahlstedt (Hamburg-Rahlstedt)|Kirche Alt-Rahlstedt (Hamburg-Rahlstedt)]] || [[:d:Q1723929]] ||27420
+|-
+| [[:c:Category:Kirche am Rockenhof|Kirche am Rockenhof]] || [[:d:Q1742778]] ||31089
+|-
+| [[:c:Category:Kirche der Stille (vorm. Christophorus-Kirche; Hamburg-Altona-Nord)|Kirche der Stille (vorm. Christophorus-Kirche; Hamburg-Altona-Nord)]] || [[:d:Q28436264]] ||13404
+|-
+| [[:c:Category:Kirche Sinstorf|Kirche Sinstorf]] || [[:d:Q1224792]] ||31201
+|-
+| [[:c:Category:Kirche Tonndorf (Hamburg)|Kirche Tonndorf (Hamburg)]] || [[:d:Q108566803]] ||39182
+|-
+| [[:c:Category:Kirche Zum Guten Hirten (Hamburg-Langenfelde)|Kirche Zum Guten Hirten (Hamburg-Langenfelde)]] || [[:d:Q108566804]] ||19887
+|-
+| [[:c:Category:Kirchenhang 33|Kirchenhang 33]] || [[:d:Q109829705]] ||26790
+|-
+| [[:c:Category:Kirchenstegel 20|Kirchenstegel 20]] || [[:d:Q109638810]] ||25982
+|-
+| [[:c:Category:Kirchwerder Elbdeich 276|Kirchwerder Elbdeich 276]] || [[:d:Q109687028]] ||27607
+|-
+| [[:c:Category:Klärchenbrücke|Klärchenbrücke]] || [[:d:Q112826224]] ||21864
+|-
+| [[:c:Category:Kleinbahnhof Wohldorf|Kleinbahnhof Wohldorf]] || [[:d:Q95900488]] ||23100
+|-
+| [[:c:Category:Kleine Freiheit 68|Kleine Freiheit 68]] || [[:d:Q104869958]] ||13284
+|-
+| [[:c:Category:Klosteralleebrücke|Klosteralleebrücke]] || [[:d:Q61628903]] ||19588
+|-
+| [[:c:Category:Klosterschule (Hamburg)|Klosterschule (Hamburg)]] || [[:d:Q71248365]] ||13865
+|-
+| [[:c:Category:Kontorhaus Stubbenhuk|Kontorhaus Stubbenhuk]] || [[:d:Q19963961]] ||11987
+|-
+| [[:c:Category:Kottwitzstraße (Hamburg)|Kottwitzstraße (Hamburg)]] || [[:d:Q114808980]] ||19788
+|-
+| [[:c:Category:Krankenhaus Altona|Krankenhaus Altona]] || [[:d:Q732015]] ||29424
+|-
+| [[:c:Category:Kranzhaus|Kranzhaus]] || [[:d:Q31838662]] ||30845
+|-
+| [[:c:Category:Kreuzkirche (Hamburg-Barmbek Süd)|Kreuzkirche (Hamburg-Barmbek Süd)]] || [[:d:Q108566807]] ||30913
+|-
+| [[:c:Category:Kreuzkirche (Hamburg-Schiffbek)|Kreuzkirche (Hamburg-Schiffbek)]] || [[:d:Q108566812]] ||12874
+|-
+| [[:c:Category:Kreuzkirche (Hamburg-Wandsbek)|Kreuzkirche (Hamburg-Wandsbek)]] || [[:d:Q1316857]] ||23253
+|-
+| [[:c:Category:Kriegerdenkmal Altrahlstedt|Kriegerdenkmal Altrahlstedt]] || [[:d:Q112044239]] ||27298
+|-
+| [[:c:Category:Kriegerdenkmal Sportplatzring|Kriegerdenkmal Sportplatzring]] || [[:d:Q112633933]] ||19729
+|-
+| [[:c:Category:Kugel-Denkmal (Hamburg)|Kugel-Denkmal (Hamburg)]] || [[:d:Q15824544]] ||12024
+|-
+| [[:c:Category:Kulturpalast Hamburg|Kulturpalast Hamburg]] || [[:d:Q19963965]] ||29336
+|-
+| [[:c:Category:Kurt-Körber-Gymnasium|Kurt-Körber-Gymnasium]] || [[:d:Q1793300]] ||14396
+|-
+| [[:c:Category:Kurt-Schumacher-Haus (Hamburg)|Kurt-Schumacher-Haus (Hamburg)]] || [[:d:Q64347181]] ||13746
+|-
+| [[:c:Category:Lüttge-Garten (Hamburg)|Lüttge-Garten (Hamburg)]] || [[:d:Q59296754]] ||14419
+|-
+| [[:c:Category:Laeiszhalle|Laeiszhalle]] || [[:d:Q881121]] ||29179
+|-
+| [[:c:Category:Laeiszhof|Laeiszhof]] || [[:d:Q19288718]] ||12405
+|-
+| [[:c:Category:Landhaus Michaelsen|Landhaus Michaelsen]] || [[:d:Q27478612]] ||29381
+|-
+| [[:c:Category:Langenzugbrücke|Langenzugbrücke]] || [[:d:Q28972172]] ||21880
+|-
+| [[:c:Category:Lehrerinnenseminar Hohe Weide|Lehrerinnenseminar Hohe Weide]] || [[:d:Q106224098]] ||17275
+|-
+| [[:c:Category:Leinpfad 20 (Hamburg)|Leinpfad 20 (Hamburg)]] || [[:d:Q109911663]] ||29897
+|-
+| [[:c:Category:Leinpfad 6 (Hamburg)|Leinpfad 6 (Hamburg)]] || [[:d:Q109884378]] ||21904
+|-
+| [[:c:Category:Lessing-Denkmal (Hamburg)|Lessing-Denkmal (Hamburg)]] || [[:d:Q16832835]] ||12666
+|-
+| [[:c:Category:Lessinghaus (Hamburg)|Lessinghaus (Hamburg)]] || [[:d:Q25089801]] ||12663
+|-
+| [[:c:Category:Lettow-Vorbeck-Kaserne (Hamburg)|Lettow-Vorbeck-Kaserne (Hamburg)]] || [[:d:Q19289149]] ||31011
+|-
+| [[:c:Category:Leuchtturm Ellerholzhöft|Leuchtturm Ellerholzhöft]] || [[:d:Q1821415]] ||14523
+|-
+| [[:c:Category:Leuchtturm Neuwerk|Leuchtturm Neuwerk]] || [[:d:Q1821443]] ||13135
+|-
+| [[:c:Category:Levantehaus|Levantehaus]] || [[:d:Q1821722]] ||14997
+|-
+| [[:c:Category:Lichtwarkschule|Lichtwarkschule]] || [[:d:Q1613747]] ||20945
+|-
+| [[:c:Category:Lombardsbrücke|Lombardsbrücke]] || [[:d:Q1868756]] ||12837
+|-
+| [[:c:Category:Lotsekai|Lotsekai]] || [[:d:Q106605636]] ||28536
+|-
+| [[:c:Category:Lotsenstation Seemannshöft|Lotsenstation Seemannshöft]] || [[:d:Q114042]] ||13167
+|-
+| [[:c:Category:Luisen-Gymnasium Bergedorf|Luisen-Gymnasium Bergedorf]] || [[:d:Q1876688]] ||29818
+|-
+| [[:c:Category:Luruper Hauptstraße 132|Luruper Hauptstraße 132]] || [[:d:Q108771846]] ||15301
+|-
+| [[:c:Category:Lutherkirche (Hamburg-Eißendorf)|Lutherkirche (Hamburg-Eißendorf)]] || [[:d:Q108566817]] ||28210
+|-
+| [[:c:Category:Lutherkirche (Hamburg-Wellingsbüttel)|Lutherkirche (Hamburg-Wellingsbüttel)]] || [[:d:Q1877943]] ||31070
+|-
+| [[:c:Category:Mönckebergbrunnen|Mönckebergbrunnen]] || [[:d:Q76307576]] ||12140
+|-
+| [[:c:Category:Marienkrankenhaus Hamburg|Marienkrankenhaus Hamburg]] || [[:d:Q1897895]] ||22280
+|-
+| [[:c:Category:Marktkirche Poppenbüttel|Marktkirche Poppenbüttel]] || [[:d:Q1901084]] ||26904
+|-
+| [[:c:Category:Martin-Luther-King-Kirche (Hamburg-Steilshoop)|Martin-Luther-King-Kirche (Hamburg-Steilshoop)]] || [[:d:Q39839480]] ||31069
+|-
+| [[:c:Category:Martin-Luther-Kirche (Hamburg-Alsterdorf)|Martin-Luther-Kirche (Hamburg-Alsterdorf)]] || [[:d:Q40719190]] ||20313
+|-
+| [[:c:Category:Martinskirche (Hamburg-Rahlstedt)|Martinskirche (Hamburg-Rahlstedt)]] || [[:d:Q14551330]] ||29728
+|-
+| [[:c:Category:Matthias-Claudius-Kirche (Hamburg-Wohldorf-Ohlstedt)|Matthias-Claudius-Kirche (Hamburg-Wohldorf-Ohlstedt)]] || [[:d:Q108566820]] ||25451
+|-
+| [[:c:Category:Max-Brauer-Allee 134|Max-Brauer-Allee 134]] || [[:d:Q106857273]] ||17456
+|-
+| [[:c:Category:Max-Brauer-Allee 136|Max-Brauer-Allee 136]] || [[:d:Q106857351]] ||15620
+|-
+| [[:c:Category:Meßberghof|Meßberghof]] || [[:d:Q1545737]] ||29163
+|-
+| [[:c:Category:Mechelnbusch|Mechelnbusch]] || [[:d:Q26836288]] ||30443
+|-
+| [[:c:Category:Memorial to the 1814 burning of Appelbüttel and Marmstorf by the French|Memorial to the 1814 burning of Appelbüttel and Marmstorf by the French]] || [[:d:Q113627023]] ||28197
+|-
+| [[:c:Category:Miramarhaus|Miramarhaus]] || [[:d:Q28381828]] ||29138
+|-
+| [[:c:Category:Mittelweg 113 (Hamburg)|Mittelweg 113 (Hamburg)]] || [[:d:Q110149802]] ||29542
+|-
+| [[:c:Category:Moorfleeter Deich 408|Moorfleeter Deich 408]] || [[:d:Q109639242]] ||27668
+|-
+| [[:c:Category:Moorwerder Norderdeich 90|Moorwerder Norderdeich 90]] || [[:d:Q114240745]] ||28339
+|-
+| [[:c:Category:Museumstraße 15-19 (Hamburg)|Museumstraße 15-19 (Hamburg)]] || [[:d:Q107100416]] ||29232
+|-
+| [[:c:Category:Navigationsschule Hamburg|Navigationsschule Hamburg]] || [[:d:Q19297115]] ||13719
+|-
+| [[:c:Category:Neuapostolische Kirche Abendrothsweg|Neuapostolische Kirche Abendrothsweg]] || [[:d:Q108566825]] ||38954
+|-
+| [[:c:Category:Neuengammer Hausdeich 249|Neuengammer Hausdeich 249]] || [[:d:Q109614236]] ||29752
+|-
+| [[:c:Category:Neuer Elbtunnel|Neuer Elbtunnel]] || [[:d:Q663740]] ||30461
+|-
+| [[:c:Category:New-York-Ring 6 und 6a|New-York-Ring 6 und 6a]] || [[:d:Q64080330]] ||21103
+|-
+| [[:c:Category:Nikodemuskirche (Hamburg-Ohlsdorf)|Nikodemuskirche (Hamburg-Ohlsdorf)]] || [[:d:Q108566830]] ||23427
+|-
+| [[:c:Category:Nikolaifleet|Nikolaifleet]] || [[:d:Q1991075]] ||14750
+|-
+| [[:c:Category:Oberhafenkantine|Oberhafenkantine]] || [[:d:Q2009752]] ||14127
+|-
+| [[:c:Category:Oberpostdirektion Hamburg|Oberpostdirektion Hamburg]] || [[:d:Q19259073]] ||29978
+|-
+| [[:c:Category:Oberstraße (Hamburg)|Oberstraße (Hamburg)]] || [[:d:Q106605743]] ||19634
+|-
+| [[:c:Category:Ochsenwerder Elbdeich 251|Ochsenwerder Elbdeich 251]] || [[:d:Q107377393]] ||27649
+|-
+| [[:c:Category:Ochsenwerder Norderdeich 210|Ochsenwerder Norderdeich 210]] || [[:d:Q109715802]] ||27640
+|-
+| [[:c:Category:Ohlendorff'sche Villa|Ohlendorff'sche Villa]] || [[:d:Q18629535]] ||28593
+|-
+| [[:c:Category:Osterkirche (Hamburg-Ottensen)|Osterkirche (Hamburg-Ottensen)]] || [[:d:Q16552799]] ||14368
+|-
+| [[:c:Category:Otto von Bahrenpark|Otto von Bahrenpark]] || [[:d:Q2041140]] ||30512
+|-
+| [[:c:Category:Paul-Gerhardt-Kirche (Hamburg-Bahrenfeld)|Paul-Gerhardt-Kirche (Hamburg-Bahrenfeld)]] || [[:d:Q64577227]] ||29469
+|-
+| [[:c:Category:Paul-Gerhardt-Kirche (Hamburg-Winterhude)|Paul-Gerhardt-Kirche (Hamburg-Winterhude)]] || [[:d:Q54339437]] ||30802
+|-
+| [[:c:Category:Pestalozzi-Schule (Hamburg)|Pestalozzi-Schule (Hamburg)]] || [[:d:Q104884105]] ||30060
+|-
+| [[:c:Category:Proviantamt Bahrenfeld|Proviantamt Bahrenfeld]] || [[:d:Q114438567]] ||17833
+|-
+| [[:c:Category:Röbbek 4|Röbbek 4]] || [[:d:Q108368052]] ||29475
+|-
+| [[:c:Category:Rabenhorst (Hamburg)|Rabenhorst (Hamburg)]] || [[:d:Q106605824]] ||31075
+|-
+| [[:c:Category:Rainvilleterrasse 4|Rainvilleterrasse 4]] || [[:d:Q114237850]] ||16070
+|-
+| [[:c:Category:Raphael-Schule (Hamburg)|Raphael-Schule (Hamburg)]] || [[:d:Q95470222]] ||30439
+|-
+| [[:c:Category:Rathaus Harburg (Hamburg)|Rathaus Harburg (Hamburg)]] || [[:d:Q2132543]] ||26261
+|-
+| [[:c:Category:Rathaus Stellingen|Rathaus Stellingen]] || [[:d:Q112633503]] ||19728
+|-
+| [[:c:Category:Reeseberg 8|Reeseberg 8]] || [[:d:Q111142048]] ||28161
+|-
+| [[:c:Category:Reesendammbrücke|Reesendammbrücke]] || [[:d:Q2136598]] ||11981
+|-
+| [[:c:Category:Reformierte Kirche Ferdinandstraße (Hamburg)|Reformierte Kirche Ferdinandstraße (Hamburg)]] || [[:d:Q108566836]] ||12048
+|-
+| [[:c:Category:Reichspräsident-Ebert-Kaserne|Reichspräsident-Ebert-Kaserne]] || [[:d:Q41804671]] ||30331
+|-
+| [[:c:Category:Reimerstwiete|Reimerstwiete]] || [[:d:Q106605840]] ||29940
+|-
+| [[:c:Category:Roßkanal|Roßkanal]] || [[:d:Q11946338]] ||31250
+|-
+| [[:c:Category:Rothenbaumchaussee|Rothenbaumchaussee]] || [[:d:Q2168643]] ||18793
+|-
+| [[:c:Category:Rudolf-Steiner-Schule Altona|Rudolf-Steiner-Schule Altona]] || [[:d:Q56426045]] ||17859
+|-
+| [[:c:Category:Rugenberger Schleuse|Rugenberger Schleuse]] || [[:d:Q15126487]] ||29351
+|-
+| [[:c:Category:Rumbaumsche Schule|Rumbaumsche Schule]] || [[:d:Q90887165]] ||13215
+|-
+| [[:c:Category:Rutschbahn (Hamburg)|Rutschbahn (Hamburg)]] || [[:d:Q106605873]] ||18938
+|-
+| [[:c:Category:Saarlandstraße 30 (Hamburg)|Saarlandstraße 30 (Hamburg)]] || [[:d:Q83365207]] ||23015
+|-
+| [[:c:Category:Sandwisch 25|Sandwisch 25]] || [[:d:Q108431349]] ||29803
+|-
+| [[:c:Category:S-Bahnhof Billwerder-Moorfleet|S-Bahnhof Billwerder-Moorfleet]] || [[:d:Q18619176]] ||27684
+|-
+| [[:c:Category:S-Bahnhof Rübenkamp|S-Bahnhof Rübenkamp]] || [[:d:Q18752621]] ||23311
+|-
+| [[:c:Category:Schimmelmann-Mausoleum|Schimmelmann-Mausoleum]] || [[:d:Q14912602]] ||24546
+|-
+| [[:c:Category:Schleidenbrücke|Schleidenbrücke]] || [[:d:Q28442539]] ||24448
+|-
+| [[:c:Category:Schleusengraben (Bergedorf)|Schleusengraben (Bergedorf)]] || [[:d:Q1518034]] ||25179
+|-
+| [[:c:Category:Schloss Bergedorf|Schloss Bergedorf]] || [[:d:Q2240259]] ||38988
+|-
+| [[:c:Category:Schule Alsterdorfer Straße|Schule Alsterdorfer Straße]] || [[:d:Q83181694]] ||29600
+|-
+| [[:c:Category:Schule Altengamme-Deich|Schule Altengamme-Deich]] || [[:d:Q101843230]] ||25977
+|-
+| [[:c:Category:Schule Am Brink|Schule Am Brink]] || [[:d:Q110627878]] ||29836
+|-
+| [[:c:Category:Schule Am Soldatenfriedhof|Schule Am Soldatenfriedhof]] || [[:d:Q105886437]] ||27506
+|-
+| [[:c:Category:Schule An der Gartenstadt|Schule An der Gartenstadt]] || [[:d:Q87994993]] ||24663
+|-
+| [[:c:Category:Schule An der Isebek|Schule An der Isebek]] || [[:d:Q86218157]] ||18394
+|-
+| [[:c:Category:Schule Angerstraße 11|Schule Angerstraße 11]] || [[:d:Q106765638]] ||29269
+|-
+| [[:c:Category:Schule Angerstraße 4|Schule Angerstraße 4]] || [[:d:Q108486639]] ||22285
+|-
+| [[:c:Category:Schule Angerstraße 7|Schule Angerstraße 7]] || [[:d:Q106766943]] ||22299
+|-
+| [[:c:Category:Schule auf der Veddel|Schule auf der Veddel]] || [[:d:Q84411414]] ||13033
+|-
+| [[:c:Category:Schule Bahrenfelder Straße|Schule Bahrenfelder Straße]] || [[:d:Q85515286]] ||30516
+|-
+| [[:c:Category:Schule Bleickenallee 5|Schule Bleickenallee 5]] || [[:d:Q105674959]] ||17799
+|-
+| [[:c:Category:Schule Bogenstraße 59|Schule Bogenstraße 59]] || [[:d:Q102271786]] ||29519
+|-
+| [[:c:Category:Schule Bovestraße|Schule Bovestraße]] || [[:d:Q65983194]] ||29640
+|-
+| [[:c:Category:Schule Bramfelder Dorfplatz|Schule Bramfelder Dorfplatz]] || [[:d:Q108105466]] ||26840
+|-
+| [[:c:Category:Schule Burgstraße (Hamburg)|Schule Burgstraße (Hamburg)]] || [[:d:Q828746]] ||29357
+|-
+| [[:c:Category:Schule Daimlerstraße (Hamburg)|Schule Daimlerstraße (Hamburg)]] || [[:d:Q96050422]] ||29375
+|-
+| [[:c:Category:Schule Deepenhorn|Schule Deepenhorn]] || [[:d:Q106594361]] ||27439
+|-
+| [[:c:Category:Schule Enckeplatz|Schule Enckeplatz]] || [[:d:Q108441185]] ||12704
+|-
+| [[:c:Category:Schule Ernst-Henning-Straße|Schule Ernst-Henning-Straße]] || [[:d:Q2250964]] ||29287
+|-
+| [[:c:Category:Schule Eschenweg (Hamburg)|Schule Eschenweg (Hamburg)]] || [[:d:Q101243139]] ||29274
+|-
+| [[:c:Category:Schule Fährstraße (Hamburg)|Schule Fährstraße (Hamburg)]] || [[:d:Q89194014]] ||26025
+|-
+| [[:c:Category:Schule Foorthkamp 42|Schule Foorthkamp 42]] || [[:d:Q96240424]] ||29629
+|-
+| [[:c:Category:Schule Forsmannstraße|Schule Forsmannstraße]] || [[:d:Q66086082]] ||29603
+|-
+| [[:c:Category:Schule Frohmestraße|Schule Frohmestraße]] || [[:d:Q89565071]] ||29537
+|-
+| [[:c:Category:Schule Furtweg|Schule Furtweg]] || [[:d:Q65884118]] ||19701
+|-
+| [[:c:Category:Schule Genslerstraße|Schule Genslerstraße]] || [[:d:Q66771579]] ||22547
+|-
+| [[:c:Category:Schule Glückstädter Weg|Schule Glückstädter Weg]] || [[:d:Q108429115]] ||17324
+|-
+| [[:c:Category:Schule Goosacker|Schule Goosacker]] || [[:d:Q96142416]] ||29415
+|-
+| [[:c:Category:Schule Grabenstraße (Hamburg)|Schule Grabenstraße (Hamburg)]] || [[:d:Q104776433]] ||13216
+|-
+| [[:c:Category:Schule Grotefendweg|Schule Grotefendweg]] || [[:d:Q106013290]] ||39156
+|-
+| [[:c:Category:Schule Hasselbrook|Schule Hasselbrook]] || [[:d:Q66424316]] ||29276
+|-
+| [[:c:Category:Schule Hinter der Lieth|Schule Hinter der Lieth]] || [[:d:Q80192323]] ||29568
+|-
+| [[:c:Category:Schule Hohnerkamp|Schule Hohnerkamp]] || [[:d:Q106611695]] ||26393
+|-
+| [[:c:Category:Schule In der alten Forst|Schule In der alten Forst]] || [[:d:Q108936733]] ||29855
+|-
+| [[:c:Category:Schule Iserbarg|Schule Iserbarg]] || [[:d:Q66132745]] ||30480
+|-
+| [[:c:Category:Schule Isestraße|Schule Isestraße]] || [[:d:Q98538735]] ||18778
+|-
+| [[:c:Category:Schule Kahlkamp|Schule Kahlkamp]] || [[:d:Q111842998]] ||29443
+|-
+| [[:c:Category:Schule Kapellenweg (Hamburg)|Schule Kapellenweg (Hamburg)]] || [[:d:Q108250585]] ||28679
+|-
+| [[:c:Category:Schule Kirchwerder Hausdeich|Schule Kirchwerder Hausdeich]] || [[:d:Q102280446]] ||29780
+|-
+| [[:c:Category:Schule Kupferredder|Schule Kupferredder]] || [[:d:Q105529704]] ||25444
+|-
+| [[:c:Category:Schule Löwenstraße (Hamburg)|Schule Löwenstraße (Hamburg)]] || [[:d:Q113827709]] ||29252
+|-
+| [[:c:Category:Schule Laeiszstraße|Schule Laeiszstraße]] || [[:d:Q96472977]] ||13285
+|-
+| [[:c:Category:Schule Lehmweg (Hamburg)|Schule Lehmweg (Hamburg)]] || [[:d:Q66475528]] ||20247
+|-
+| [[:c:Category:Schule Leuschnerstraße|Schule Leuschnerstraße]] || [[:d:Q104163467]] ||29807
+|-
+| [[:c:Category:Schule Ludwigstraße (Hamburg)|Schule Ludwigstraße (Hamburg)]] || [[:d:Q77401082]] ||13301
+|-
+| [[:c:Category:Schule Lutterothstraße 34-36|Schule Lutterothstraße 34-36]] || [[:d:Q67080552]] ||18391
+|-
+| [[:c:Category:Schule Lutterothstraße 78-80|Schule Lutterothstraße 78-80]] || [[:d:Q96621117]] ||17290
+|-
+| [[:c:Category:Schule Mendelssohnstraße|Schule Mendelssohnstraße]] || [[:d:Q71816980]] ||17708
+|-
+| [[:c:Category:Schule Musäusstraße|Schule Musäusstraße]] || [[:d:Q108380256]] ||29376
+|-
+| [[:c:Category:Schule Nettelnburg|Schule Nettelnburg]] || [[:d:Q66424652]] ||27502
+|-
+| [[:c:Category:Schule Neuhöfer Damm|Schule Neuhöfer Damm]] || [[:d:Q99175818]] ||28340
+|-
+| [[:c:Category:Schule Peterstraße (Hamburg)|Schule Peterstraße (Hamburg)]] || [[:d:Q108441163]] ||12705
+|-
+| [[:c:Category:Schule Rahmwerder Straße|Schule Rahmwerder Straße]] || [[:d:Q91915892]] ||28678
+|-
+| [[:c:Category:Schule Ratsmühlendamm|Schule Ratsmühlendamm]] || [[:d:Q66220777]] ||29626
+|-
+| [[:c:Category:Schule Rhiemsweg 6|Schule Rhiemsweg 6]] || [[:d:Q99769207]] ||29334
+|-
+| [[:c:Category:Schule Robert-Koch-Straße (Hamburg)|Schule Robert-Koch-Straße (Hamburg)]] || [[:d:Q79122670]] ||29258
+|-
+| [[:c:Category:Schule Schlankreye|Schule Schlankreye]] || [[:d:Q1665442]] ||18905
+|-
+| [[:c:Category:Schule Schulbergredder 13|Schule Schulbergredder 13]] || [[:d:Q99693647]] ||26898
+|-
+| [[:c:Category:Schule Schulbergredder 21|Schule Schulbergredder 21]] || [[:d:Q110776250]] ||29681
+|-
+| [[:c:Category:Schule Schulkamp|Schule Schulkamp]] || [[:d:Q105755159]] ||29454
+|-
+| [[:c:Category:Schule Seilerstraße (Hamburg)|Schule Seilerstraße (Hamburg)]] || [[:d:Q1626887]] ||12182
+|-
+| [[:c:Category:Schule Strenge|Schule Strenge]] || [[:d:Q85103561]] ||26497
+|-
+| [[:c:Category:Schule Telemannstraße|Schule Telemannstraße]] || [[:d:Q66592721]] ||19261
+|-
+| [[:c:Category:Schule Thadenstraße|Schule Thadenstraße]] || [[:d:Q105333789]] ||15590
+|-
+| [[:c:Category:Schule Trenknerweg|Schule Trenknerweg]] || [[:d:Q96075516]] ||29419
+|-
+| [[:c:Category:Schule Vörn Barkholt|Schule Vörn Barkholt]] || [[:d:Q105728762]] ||29664
+|-
+| [[:c:Category:Schule vor dem Holstentor|Schule vor dem Holstentor]] || [[:d:Q16318311]] ||13238
+|-
+| [[:c:Category:Schule Waitzstraße|Schule Waitzstraße]] || [[:d:Q105714307]] ||17979
+|-
+| [[:c:Category:Schule Wedeler Landstraße|Schule Wedeler Landstraße]] || [[:d:Q105975737]] ||16963
+|-
+| [[:c:Category:Schule Wentorfer Straße|Schule Wentorfer Straße]] || [[:d:Q107453872]] ||27968
+|-
+| [[:c:Category:Schule Wesperloh|Schule Wesperloh]] || [[:d:Q96143223]] ||29414
+|-
+| [[:c:Category:Schule Woellmerstraße|Schule Woellmerstraße]] || [[:d:Q107352122]] ||28287
+|-
+| [[:c:Category:Schule Zeidlerstraße|Schule Zeidlerstraße]] || [[:d:Q91915341]] ||29895
+|-
+| [[:c:Category:Schule Zollenspieker|Schule Zollenspieker]] || [[:d:Q93221607]] ||29779
+|-
+| [[:c:Category:Sieberlingstraße 7|Sieberlingstraße 7]] || [[:d:Q111600518]] ||17036
+|-
+| [[:c:Category:Sievekingplatz|Sievekingplatz]] || [[:d:Q106605932]] ||12710
+|-
+| [[:c:Category:Simon-Petrus-Kirche (Hamburg-Poppenbüttel)|Simon-Petrus-Kirche (Hamburg-Poppenbüttel)]] || [[:d:Q108566841]] ||26902
+|-
+| [[:c:Category:Sprinkenhof|Sprinkenhof]] || [[:d:Q2801439]] ||29135
+|-
+| [[:c:Category:St. Antonius-Kirche (Hamburg-Winterhude)|St. Antonius-Kirche (Hamburg-Winterhude)]] || [[:d:Q108566848]] ||21424
+|-
+| [[:c:Category:St. Bonifatius-Kirche (Hamburg-Eimsbüttel)|St. Bonifatius-Kirche (Hamburg-Eimsbüttel)]] || [[:d:Q2317633]] ||18603
+|-
+| [[:c:Category:St. Gabriel (Hamburg-Volksdorf)|St. Gabriel (Hamburg-Volksdorf)]] || [[:d:Q108566857]] ||43428
+|-
+| [[:c:Category:St. Gertrud-Kirche (Hamburg-Altenwerder)|St. Gertrud-Kirche (Hamburg-Altenwerder)]] || [[:d:Q1547632]] ||11766
+|-
+| [[:c:Category:St. Johannis (Curslack)|St. Johannis (Curslack)]] || [[:d:Q2043377]] ||27171
+|-
+| [[:c:Category:St. Johannis-Kirche (Hamburg-Harvestehude)|St. Johannis-Kirche (Hamburg-Harvestehude)]] || [[:d:Q879271]] ||19119
+|-
+| [[:c:Category:St. Joseph (Hamburg-Wandsbek)|St. Joseph (Hamburg-Wandsbek)]] || [[:d:Q1381959]] ||31002
+|-
+| [[:c:Category:St. Lukaskirche (Hamburg-Fuhlsbüttel)|St. Lukaskirche (Hamburg-Fuhlsbüttel)]] || [[:d:Q1422348]] ||30968
+|-
+| [[:c:Category:St. Marien (Hamburg-Bergedorf)|St. Marien (Hamburg-Bergedorf)]] || [[:d:Q108566865]] ||31113
+|-
+| [[:c:Category:St. Marien (Hamburg-Ohlsdorf)|St. Marien (Hamburg-Ohlsdorf)]] || [[:d:Q799877]] ||23672
+|-
+| [[:c:Category:St. Markus (Hamburg-Hoheluft)|St. Markus (Hamburg-Hoheluft)]] || [[:d:Q2321011]] ||20245
+|-
+| [[:c:Category:St. Martinus (Hamburg-Eppendorf)|St. Martinus (Hamburg-Eppendorf)]] || [[:d:Q55743883]] ||24405
+|-
+| [[:c:Category:St. Michael (Hamburg-Bergedorf)|St. Michael (Hamburg-Bergedorf)]] || [[:d:Q19964010]] ||29820
+|-
+| [[:c:Category:St. Michael-Kirche (Hamburg-Sülldorf)|St. Michael-Kirche (Hamburg-Sülldorf)]] || [[:d:Q108566869]] ||16092
+|-
+| [[:c:Category:St. Nicolai (Hamburg-Altengamme)|St. Nicolai (Hamburg-Altengamme)]] || [[:d:Q1455043]] ||25974
+|-
+| [[:c:Category:St. Nikolai (Hamburg)|St. Nikolai (Hamburg)]] || [[:d:Q425622]] ||29923
+|-
+| [[:c:Category:St. Olaf (Hamburg-Horn)|St. Olaf (Hamburg-Horn)]] || [[:d:Q104247467]] ||29333
+|-
+| [[:c:Category:St. Pankratius (Ochsenwerder)|St. Pankratius (Ochsenwerder)]] || [[:d:Q1259001]] ||31127
+|-
+| [[:c:Category:St. Peter (Hamburg-Groß Borstel)|St. Peter (Hamburg-Groß Borstel)]] || [[:d:Q1607806]] ||20895
+|-
+| [[:c:Category:St. Petri und St Pauli, Hamburg-Bergedorf|St. Petri und St Pauli, Hamburg-Bergedorf]] || [[:d:Q1742725]] ||27732
+|-
+| [[:c:Category:St. Prokop-Kirche (Hamburg-Stellingen)|St. Prokop-Kirche (Hamburg-Stellingen)]] || [[:d:Q1377140]] ||29572
+|-
+| [[:c:Category:St. Sophienkirche (Hamburg-Barmbek-Süd)|St. Sophienkirche (Hamburg-Barmbek-Süd)]] || [[:d:Q1679407]] ||30903
+|-
+| [[:c:Category:St. Thomas a Becket Church (Hamburg)|St. Thomas a Becket Church (Hamburg)]] || [[:d:Q1342586]] ||12304
+|-
+| [[:c:Category:St.-Ansgar-Kirche (Hamburg-Niendorf)|St.-Ansgar-Kirche (Hamburg-Niendorf)]] || [[:d:Q108566846]] ||19871
+|-
+| [[:c:Category:St.-Christophorus-Kirche (Hamburg-Lohbrügge)|St.-Christophorus-Kirche (Hamburg-Lohbrügge)]] || [[:d:Q108566850]] ||29808
+|-
+| [[:c:Category:St.-Erichskirche (Hamburg-Rothenburgsort)|St.-Erichskirche (Hamburg-Rothenburgsort)]] || [[:d:Q1425902]] ||14053
+|-
+| [[:c:Category:St.-Gertrud-Kirche (Hamburg-Uhlenhorst)|St.-Gertrud-Kirche (Hamburg-Uhlenhorst)]] || [[:d:Q874288]] ||20958
+|-
+| [[:c:Category:St.-Johannis-Kirche (Altona)|St.-Johannis-Kirche (Altona)]] || [[:d:Q1452652]] ||15219
+|-
+| [[:c:Category:St.-Johanniskirche (Hamburg-Harburg)|St.-Johanniskirche (Hamburg-Harburg)]] || [[:d:Q2319467]] ||31192
+|-
+| [[:c:Category:St.-Pauli-Theater|St.-Pauli-Theater]] || [[:d:Q317892]] ||13537
+|-
+| [[:c:Category:Stadthaus (Hamburg)|Stadthaus (Hamburg)]] || [[:d:Q2327283]] ||29958
+|-
+| [[:c:Category:Stadtteilschule Winterhude|Stadtteilschule Winterhude]] || [[:d:Q2328173]] ||30872
+|-
+| [[:c:Category:Statue of Adolphus III, Count of Schauenburg and Holstein (Engelbert Peiffer in Hamburg)|Statue of Adolphus III, Count of Schauenburg and Holstein (Engelbert Peiffer in Hamburg)]] || [[:d:Q89417371]] ||12070
+|-
+| [[:c:Category:Stellahaus|Stellahaus]] || [[:d:Q19309524]] ||29126
+|-
+| [[:c:Category:Stellinger Kirche|Stellinger Kirche]] || [[:d:Q108566854]] ||30704
+|-
+| [[:c:Category:Sternbrücke (Hamburg)|Sternbrücke (Hamburg)]] || [[:d:Q2345735]] ||43771
+|-
+| [[:c:Category:Strafjustizgebäude (Hamburg)|Strafjustizgebäude (Hamburg)]] || [[:d:Q1429221]] ||12622
+|-
+| [[:c:Category:Studentenwohnheim Billwiese|Studentenwohnheim Billwiese]] || [[:d:Q111192002]] ||45499
+|-
+| [[:c:Category:Studentenwohnheim Grindelallee|Studentenwohnheim Grindelallee]] || [[:d:Q110400925]] ||19300
+|-
+| [[:c:Category:Stuhlmannbrunnen|Stuhlmannbrunnen]] || [[:d:Q2358953]] ||16141
+|-
+| [[:c:Category:Tansania-Park|Tansania-Park]] || [[:d:Q1236450]] ||23342
+|-
+| [[:c:Category:Thalia Theater (Hamburg)|Thalia Theater (Hamburg)]] || [[:d:Q456499]] ||29148
+|-
+| [[:c:Category:Thaliahof|Thaliahof]] || [[:d:Q2408858]] ||14223
+|-
+| [[:c:Category:Thedestraße 101|Thedestraße 101]] || [[:d:Q105101676]] ||15242
+|-
+| [[:c:Category:Thedestraße 39|Thedestraße 39]] || [[:d:Q105164959]] ||15588
+|-
+| [[:c:Category:Theodor-Haubach-Schule (Hamburg)|Theodor-Haubach-Schule (Hamburg)]] || [[:d:Q69895611]] ||15759
+|-
+| [[:c:Category:Tiefbunker Berlinertordamm|Tiefbunker Berlinertordamm]] || [[:d:Q82687136]] ||28131
+|-
+| [[:c:Category:Timotheuskirche (Hamburg-Horn)|Timotheuskirche (Hamburg-Horn)]] || [[:d:Q108566879]] ||14251
+|-
+| [[:c:Category:Trilluper Weg 3, 5|Trilluper Weg 3, 5]] || [[:d:Q105510161]] ||25430
+|-
+| [[:c:Category:Trinitatiskirche Hohenhorst (Hamburg-Rahlstedt)|Trinitatiskirche Hohenhorst (Hamburg-Rahlstedt)]] || [[:d:Q108566880]] ||31106
+|-
+| [[:c:Category:Trinkhalle im Hamburger Stadtpark|Trinkhalle im Hamburger Stadtpark]] || [[:d:Q18681278]] ||22048
+|-
+| [[:c:Category:Trockendock Elbe 17|Trockendock Elbe 17]] || [[:d:Q878166]] ||13145
+|-
+| [[:c:Category:Trostbrücke|Trostbrücke]] || [[:d:Q2455726]] ||12406
+|-
+| [[:c:Category:U-Bahnbrücke Osterbekkanal|U-Bahnbrücke Osterbekkanal]] || [[:d:Q111746891]] ||22314
+|-
+| [[:c:Category:U-Bahnhof Borgweg|U-Bahnhof Borgweg]] || [[:d:Q2465845]] ||23312
+|-
+| [[:c:Category:U-Bahnhof Buckhorn|U-Bahnhof Buckhorn]] || [[:d:Q3646299]] ||31092
+|-
+| [[:c:Category:U-Bahnhof Hamburger Straße|U-Bahnhof Hamburger Straße]] || [[:d:Q2465909]] ||23308
+|-
+| [[:c:Category:U-Bahnhof Hudtwalckerstraße|U-Bahnhof Hudtwalckerstraße]] || [[:d:Q2465932]] ||21803
+|-
+| [[:c:Category:U-Bahnhof Kellinghusenstraße|U-Bahnhof Kellinghusenstraße]] || [[:d:Q2465965]] ||30732
+|-
+| [[:c:Category:U-Bahnhof Lübecker Straße|U-Bahnhof Lübecker Straße]] || [[:d:Q1719628]] ||22288
+|-
+| [[:c:Category:U-Bahnhof Mundsburg|U-Bahnhof Mundsburg]] || [[:d:Q658720]] ||21693
+|-
+| [[:c:Category:U-Bahnhof Ohlstedt|U-Bahnhof Ohlstedt]] || [[:d:Q3881293]] ||29662
+|-
+| [[:c:Category:U-Bahnhof Rödingsmarkt|U-Bahnhof Rödingsmarkt]] || [[:d:Q875571]] ||12259
+|-
+| [[:c:Category:U-Bahnhof Saarlandstraße (Hamburg)|U-Bahnhof Saarlandstraße (Hamburg)]] || [[:d:Q2466059]] ||23198
+|-
+| [[:c:Category:U-Bahnhof Schlump|U-Bahnhof Schlump]] || [[:d:Q275746]] ||18508
+|-
+| [[:c:Category:U-Bahnhof Uhlandstraße (Hamburg)|U-Bahnhof Uhlandstraße (Hamburg)]] || [[:d:Q617555]] ||21235
+|-
+| [[:c:Category:U-Bahnhof Volksdorf|U-Bahnhof Volksdorf]] || [[:d:Q4016141]] ||27125
+|-
+| [[:c:Category:U-Bahnhof Wandsbek Markt|U-Bahnhof Wandsbek Markt]] || [[:d:Q2466085]] ||23260
+|-
+| [[:c:Category:Uhrmacherfachschule (Hamburg-Ottensen)|Uhrmacherfachschule (Hamburg-Ottensen)]] || [[:d:Q101001904]] ||16041
+|-
+| [[:c:Category:Ulmenliet 20|Ulmenliet 20]] || [[:d:Q110768291]] ||45475
+|-
+| [[:c:Category:Untersuchungsgefängnis Holstenglacis|Untersuchungsgefängnis Holstenglacis]] || [[:d:Q2499121]] ||29983
+|-
+| [[:c:Category:Versöhnungskirche (Hamburg-Eilbek)|Versöhnungskirche (Hamburg-Eilbek)]] || [[:d:Q62665920]] ||24542
+|-
+| [[:c:Category:Versmannhaus|Versmannhaus]] || [[:d:Q2518220]] ||29159
+|-
+| [[:c:Category:Vierländerin-Brunnen|Vierländerin-Brunnen]] || [[:d:Q18632417]] ||11857
+|-
+| [[:c:Category:Villa Kaltehofe|Villa Kaltehofe]] || [[:d:Q23893321]] ||14431
+|-
+| [[:c:Category:Virchowstraße 50 (Hamburg)|Virchowstraße 50 (Hamburg)]] || [[:d:Q105170728]] ||15606
+|-
+| [[:c:Category:Virchowstraße 80 (Hamburg)|Virchowstraße 80 (Hamburg)]] || [[:d:Q105103286]] ||16430
+|-
+| [[:c:Category:Volksdorfer Schulkate|Volksdorfer Schulkate]] || [[:d:Q110474042]] ||44403
+|-
+| [[:c:Category:Wacholderpark Fuhlsbüttel|Wacholderpark Fuhlsbüttel]] || [[:d:Q21036824]] ||23242
+|-
+| [[:c:Category:Walddörfer-Gymnasium|Walddörfer-Gymnasium]] || [[:d:Q1361180]] ||27410
+|-
+| [[:c:Category:Wandsbek Markt|Wandsbek Markt]] || [[:d:Q2548180]] ||23265
+|-
+| [[:c:Category:Washingtonallee (Hamburg)|Washingtonallee (Hamburg)]] || [[:d:Q106606070]] ||13073
+|-
+| [[:c:Category:Wasserturm Lohbrügge|Wasserturm Lohbrügge]] || [[:d:Q2220592]] ||26245
+|-
+| [[:c:Category:Wasserturm Lokstedt|Wasserturm Lokstedt]] || [[:d:Q999939]] ||20089
+|-
+| [[:c:Category:Westlicher Bahnhofskanal|Westlicher Bahnhofskanal]] || [[:d:Q11955143]] ||28534
+|-
+| [[:c:Category:Wiesendammbrücke (Hamburg)|Wiesendammbrücke (Hamburg)]] || [[:d:Q29479402]] ||22107
+|-
+| [[:c:Category:Wilhelmsburger Windmühle "Johanna"|Wilhelmsburger Windmühle "Johanna"]] || [[:d:Q24248553]] ||28371
+|-
+| [[:c:Category:Willy-Brandt-Straße 47 (Hamburg)|Willy-Brandt-Straße 47 (Hamburg)]] || [[:d:Q96375006]] ||11973
+|-
+| [[:c:Category:Woold Bergstedt|Woold Bergstedt]] || [[:d:Q106606123]] ||27100
+|-
+| [[:c:Category:Wrauster Bogen 54|Wrauster Bogen 54]] || [[:d:Q109673843]] ||27597
+|-
+| [[:c:Category:Ziviljustizgebäude|Ziviljustizgebäude]] || [[:d:Q1714318]] ||12620
+|-
+| [[:c:Category:Zollkanal|Zollkanal]] || [[:d:Q218701]] ||14863
+|-
+| [[:c:Category:Zweite Ausschläger Brücke|Zweite Ausschläger Brücke]] || [[:d:Q59296780]] ||13804
+|}

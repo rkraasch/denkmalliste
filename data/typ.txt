@@ -1,0 +1,1836 @@
+* Abspannwerk
+* Allee
+* Allee; Eingangsgebäude; Hoffläche; Landhaus; Tor
+* Altenheim
+* Altenheim; Pflegeheim
+* Altenteiler
+* Altenteiler (Kate)
+* Altenteiler/ Kate
+* Altenteiler; Windbäume (vor dem Haus)
+* Amtshaus; Garten; Friedhof
+* Apartmenthaus
+* Apotheke (Handwerkerhaus)
+* Apothekeneinrichtung (wandfeste Ausstattung, bewegliches Inventar und Offizin)
+* Arbeiterwohnhaus
+* Arbeiterwohnhaus (Instenhaus)
+* Arbeiterwohnhaus/Reihenhaus (Landarbeiterhäuserzeile, Typ "Langer Jammer")
+* Arbeiterwohnhaus/Reihenhaus (Typ "Instenhaus")
+* Arbeitsamt
+* Arena {Theater (nach Umnutzung)}
+* Arkadengang
+* Armenhaus
+* Atelier
+* Atelierhaus; Garten; Vorgarten
+* Ausgangsbauwerke (U-Bahn)
+* Automobilhalle
+* Außenanlagen
+* Außenanlagen (vor dem Hauptgebäude, mit Auffahrt); Pavillon; Einfriedung
+* Außenanlagen/ Ausstattung im Außenraum <Portal; Gefallenendenkmal; weitere künstlerische Ausstattung; Unterstand (nordöstl.); Treppen; Leuchten; umgebende gepflasterte bzw. gärtnerisch gestaltete Flächen; Böschungen; Sportplatz (östl.)>
+* Badeanstalt
+* Badeanstalt (Hallenbad); Filterhaus
+* Badeanstalt {Atelier- und Bürogebäude (nach Umnutzung)}
+* Badeanstalt; Einfriedung
+* Bahnanlage; Krananlage; Schuppen
+* Bahnbetriebsgebäude
+* Bahnbetriebsgebäude (Lagerhaus)
+* Bahnbetriebshof
+* Bahnbetriebshof (S-Bahn)
+* Bahnbetriebshof (U-Bahn)
+* Bahnbetriebswerk <Betriebsgebäude; Werkstattgebäude; Pförtnerhaus>
+* Bahnbrücke
+* Bahnbrücke (Güterbahn)
+* Bahnbrücke (Industriebahn)
+* Bahnbrücke (Industriebahn, einschl. Auflager und angrenzender Kaimauern)
+* Bahnbrücke (S-Bahn)
+* Bahnbrücke (U-Bahn)
+* Bahnbrücke (U-Bahn)/ Brückenwiderlager/ Bahnhofseingang (U-Bahn)
+* Bahnbrücke (U-Bahn/ Güterbahn)
+* Bahnbrücke (U-Bahn/ S-Bahn)
+* Bahnbrücke; Bahnhof; Bahnsteig
+* Bahnbrücke; Straßenbrücke
+* Bahnbrücken (S-Bahn)
+* Bahnhof
+* Bahnhof (Fernbahn/ S-Bahn)
+* Bahnhof (Güterabfertigung)
+* Bahnhof (S-Bahn)
+* Bahnhof (S-Bahn/ Fernbahn)
+* Bahnhof (U-Bahn)
+* Bahnhof (U-Bahn) <Bahnhofshalle (oberirdisch); U-Bahnstation; Ladenzeile>
+* Bahnhof (U-Bahn/ S-Bahn)
+* Bahnhof (Vorortbahn) <Bahngebäude; Rampe; Pflaster>
+* Bahnhof <Bahnhofsgebäude; Schuppen; Bahnsteig>
+* Bahnhof; Bahnsteig
+* Bahnhof; Bahnsteig; Bahnviadukt
+* Bahnhofsanlagen
+* Bahnhofsgebäude
+* Bahnhofsgebäude (Güterbahn, Halle mit Kopfbau); Pflaster; Rampe
+* Bahnhofsgebäude (Güterbahnhof) (hier Güterhalle)
+* Bahnhofsgebäude (S-Bahn)
+* Bahnhofsgebäude (U-Bahn)
+* Bahnhofsgebäude; Gleisanlage/Bahngebäude; Bahnbrücken
+* Bahnhofsgebäude; Toilettenhaus
+* Bahnsteiggebäude
+* Bahnsteigüberdachung
+* Bahntrasse (U-Bahn, erhöhte Gleisführung)
+* Bahntrasse (erhöhte Gleisführung)
+* Bahnviadukt
+* Bahnviadukt (U-Bahn)
+* Bahnviadukt (U-Bahn)/ Bahnbrücke
+* Bankgebäude
+* Bankgebäude (mit Wohnung)
+* Baracke (Büronutzung)
+* Bauernhaus
+* Bauernhaus {Kavalierhaus (nach Umnutzung)}
+* Baum; Kriegerdenkmal
+* Baumreihe
+* Baumreihe; Einfriedung; Wohnen
+* Baumreihe; Wohnen
+* Bauschmuck; Kriegerdenkmal
+* Bauskulptur (Attika)
+* Beamtenwohnhaus
+* Befestigungsanlage
+* Befestigungsanlagen {Parkanlage}
+* Begrünter Innenhof
+* Behelfsheim
+* Behelfsheim (Plattenhaus); Nutzgarten; Einfriedung <Hecke; Zaun>; Weg
+* Beratungsstelle
+* Betriebsgebäude
+* Betriebsgebäude (Nebengebäude)
+* Betriebsgebäude <Laborgebäude, Verwaltungsgebäude, Beamtenwohnhaus>
+* Betriebsgebäude; Verwaltungsgebäude
+* Betriebshof
+* Betriebswerk <Betriebsgebäude>
+* Bibliothek
+* Bibliothek (Öffentliche Bücherhalle) {Gaststätte (nach Umnutzung)}
+* Bibliotheksgebäude
+* Bleicherhaus
+* Bleicherhaus (Doppelhaus mit anschließendem rückwärtigen Wirtschaftsteil , u.a. Pack- und Plätträume)
+* Bleicherhaus (Doppelhaus)
+* Bleicherhaus (Hofbebauung, Hinterhaus)
+* Bleicherhaus (Häuserzeile, Hofbebauung, Hinterhaus)
+* Bleicherhaus (Vorderhaus)
+* Bleicherhaus (Wohngebäude mit angebautem Wirtschaftsteil, vermutl. Waschhaus); Vorgarten; Pflaster
+* Bleicherhaus (z.T. Hoflage)
+* Bleicherhaus; Vorgarten; Einfriedung; Pflaster
+* Bodenspeicher
+* Bootsanleger <Ponton; Brücke>
+* Bootshaus
+* Bootshaus/Vereinshaus
+* Bootshaus/Wohnhaus
+* Bootshaus; Brücke; Pavillon; Uferbefestigung
+* Botanischer Garten {Parkanlage}
+* Brack
+* Brauereikeller <Keller; Einfahrstor>
+* Brauhaus/ Branntweinbrennerei
+* Bronzetafel
+* Brunnen
+* Brunnen (Becken/Brunnenfigur)
+* Brunnen/ Denkmal
+* Brunnenanlage
+* Brunnenplastik
+* Brunnenskulptur
+* Brunnenskulpturen
+* Brücke
+* Brücke (Fußgängerbrücke)
+* Brücke/Grenzzeichen
+* Brücke/Steg
+* Brücke/Widerlager/Gewerbebau
+* Brücke/Widerlager/Gewerbebau/Kasematte
+* Brücke; Gewerbegebäude; Kasematte
+* Brücken
+* Brückengeländer; Kandelaber
+* Brückenskulptur
+* Bunkerhaus
+* Bunkerhaus (Krankenhausbunker); Tunnel (unter der Bülowstraße)
+* Bunkerhaus (OP-Bunker)
+* Bunkerhaus {Institutsgebäude (nach Umnutzung)}
+* Böllerstation
+* Börse
+* Bücherhalle
+* Büro- und Gewerbegebäude
+* Büro- und Wohngebäude
+* Büro- und Wohnhaus
+* Bürobau
+* Bürogebäude
+* Bürogebäude (Fabrik)
+* Bürogebäude (Verlag)
+* Bürogebäude/ Zollamt
+* Bürogebäude/Gewerbebau
+* Bürogebäude/Passage
+* Bürogebäude/Speicher
+* Bürogebäude/Wohngebäude/Hochhaus
+* Bürogebäude; Wohnen
+* Bürogeschäftshaus
+* Bürohaus
+* Bürohaus (mit Badeanstalt)
+* Bürohochhaus (mit Andachtsräumen)
+* Clubhaus
+* Clubhaus; Sportgelände (Polospielfeld)
+* Dach
+* Deich
+* Deich (Hauptdeich)
+* Deich (Sommerdeich)
+* Deich (mit Straße)
+* Deichvorland
+* Denkmal
+* Denkmal (Bronzestandbild, Granitsockel)
+* Denkmal (Denkmal für die Erhebung Schleswig-Holsteins 1848 und Kriegerdenkmal 1914/ 18)
+* Denkmal (Denkmal für die Erhebung Schleswig-Holsteins 1848)
+* Denkmal (Findling mit Tafel)
+* Denkmal (Gedenkstein/ Stele)
+* Denkmal (Kriegerdenkmal 1870/71; Gegendenkmal)
+* Denkmal (zwei Reliefs)
+* Denkmal <Gedenkstein/Eichen/Rasenfläche>
+* Denkmal/ Brunnen
+* Denkmal/ Ehrenmal
+* Denkmal/ Kriegerdenkmal (Kriegerdenkmal 1914/ 18)
+* Denkmal; Friedhof; Pflaster; Turm; Wohnen
+* Denkmal; Grabmal
+* Denkmalanlage
+* Denkmalanlage (Findlinge, z.T. mit Bronzeplatte) <Kriegerdenkmal 1848/ 51; Kriegerdenkmal 1870/ 71; Kriegerdenkmal 1914/ 18; Kriegerdenkmal 1939/ 45; Denkmal für die Erhebung Schleswig-Holsteins)>
+* Denkmalanlage (Gruppe von Gedenksteinen)
+* Denkmalanlage (Kriegerdenkmal 1870/ 71)
+* Denkmalanlage (Kriegerdenkmal 1914/ 18 und 1939/ 45) <Mauer; Stele; Tafeln>
+* Denkmalanlage (Kriegerdenkmal 1914/ 18)
+* Denkmalanlage (Kriegerdenkmal 1914/18 und 1939-45)
+* Denkmalanlage (Mauer mit Tafel und niedriger Zaun)
+* Denkmalanlage (Obelisk, Sockel, gusseiserne Einfriedung)
+* Denkmalanlage (Reiterstandbild mit vier weiteren Figuren (Allegorien))
+* Denkmalanlage (Reiterstandbild)
+* Denkmalanlage <Findling; Baum>
+* Denkmalanlage <Findling; Einfriedung>
+* Denkmalanlage <Kriegerdenkmal (Kriegerdenkmal 1870/ 71); Eiche; Teich; Findling>
+* Desinfektionshaus
+* Dienstgebäude (Militärintendantur)
+* Dienstwohngebäude
+* Dienstwohngebäude (Beamtenwohnhaus)
+* Dienstwohngebäude (Offizierswohnungen)
+* Dienstwohnhaus (Schwesternhaus)
+* Dienstwohnhaus/ Amtshaus (im 19. Jh. zwischenzeitlich genutzt als Amtsgericht)
+* Doppelhaus
+* Doppelhaus (Sommerhaus)
+* Doppelhaushälfte
+* Doppelwohnhaus
+* Doppelwohnhaus; Einfriedung
+* Dorfkern
+* Dreehus
+* Dreehus (Einzelwohnhaus vor Anbau von Nr. 22 und 24)
+* Druckausgleichsbehälter (Turmform)/ Schornstein
+* Druckereigebäude
+* Einfahrtspfosten (vermutl.)
+* Einfamilienhaus
+* Einfamilienhaus (Bahnwärterwohnhaus)
+* Einfamilienhaus (Doppelhaus)
+* Einfamilienhaus (Doppelhaushälfte)
+* Einfamilienhaus (Kernbau Bleicherhaus)
+* Einfamilienhaus (Reihenhaus gehobener Standard)
+* Einfamilienhaus (Reihenhaus, Typ Teppich-Siedlung)
+* Einfamilienhaus (Reihenvilla)
+* Einfamilienhaus (Villa) {Mehrfamilienhaus (nach Umnutzung)}
+* Einfamilienhaus (mit Garage (Anbau)); Einfriedung
+* Einfamilienhaus (mit Garage)
+* Einfamilienhaus (nur Äußeres/ Fassaden)
+* Einfamilienhaus (vororttypischer gehobener Zuschnitt)
+* Einfamilienhaus {Altenheim (nach Umbau)}; Vorgarten
+* Einfamilienhaus {Mehrfamilienhaus (nach Umbau)}
+* Einfamilienhaus/ Villa
+* Einfamilienhaus/Reihenhaus
+* Einfamilienhaus; Einfriedung
+* Einfamilienhaus; Einfriedung; Pavillon
+* Einfamilienhaus; Einfriedung; Tor
+* Einfamilienhaus; Einfriedung; Vorgarten
+* Einfamilienhaus; Einfriedung; Vorgarten; u.a.
+* Einfamilienhaus; Garage
+* Einfamilienhaus; Garage; Garten; Einfriedung
+* Einfamilienhaus; Garten
+* Einfamilienhaus; Mehrfamilienhaus
+* Einfamilienhaus; Vorgarten
+* Einfamilienhaus; Werftanlage <Werkstattgebäude; Slipananlage>
+* Einfamilienhaus; Wohnnebengebäude; Einfriedung
+* Einfamilienhaus; u.a.
+* Einfamilienreihenhaus
+* Einfamilienreihenhaus mit Vorgarten und Einfriedung
+* Einfamilienwohnhaus
+* Einfamilienwohnhaus, Einfriedung
+* Einfriedung
+* Einfriedung (Gußeisernes Gitter)
+* Einfriedung (gusseiserne Einzäunung mit Torpfeilern)
+* Einfriedung/ Tor
+* Einfriedung/Freisitz/Garage
+* Einfriedung; Etagenhaus
+* Einfriedung; Garage; Garten; Schwimmbecken; Villa; Vorgarten
+* Einfriedung; Schule
+* Einfriedung; Schulgebäude
+* Einfriedung; Siedlungsbau; Vorgarten
+* Einfriedung; Treppe; Wohnstift
+* Einfriedung; Villa
+* Einfriedung; Villa; Vorgarten
+* Einfriedung; Werkstatt; Wohnen
+* Einfriedung; Wohnen
+* Einfriedung; Wohnwirtschaftsgebäude
+* Eingangsgebäude; Remise; Villa
+* Eingangstor
+* Einkaufspassage/ Bürogebäude
+* Einkaufspassage/ Bürogebäude; Parkhaus
+* Einkaufszentrum
+* Eiskeller
+* Eiskeller; Garten; Gasthaus
+* Elektrizitätswerk <Wohnhaus; Maschinenhalle; Kesselhaus>
+* Entleerungspumpwerk
+* Entwässerungssystem
+* Erholungsheim
+* Etagengeschäftshaus
+* Etagenhau/ Geschäftshaus
+* Etagenhaus
+* Etagenhaus (Bahnbeamten- und Arbeiterwohnhaus)
+* Etagenhaus (Doppelhaus)
+* Etagenhaus (Doppelhaushälfte)
+* Etagenhaus (Fassade)
+* Etagenhaus (Genossenschaftswohnblock)
+* Etagenhaus (Hamburger Burg)
+* Etagenhaus (Hinterhaus)
+* Etagenhaus (Hinterhaus); Pflaster (in der Durchfahrt)
+* Etagenhaus (Hinterhaus); Pflaster in der Durchfahrt)
+* Etagenhaus (Hinterhaus, Wohnpassage)
+* Etagenhaus (Hinterhaus, Wohnterrasse)
+* Etagenhaus (Hofbebauung)
+* Etagenhaus (Hofbebauung); Hofflächen
+* Etagenhaus (Typ Hamburger Burg)
+* Etagenhaus (Vorderhaus einer Wohnterrasse)
+* Etagenhaus (Vorderhaus)
+* Etagenhaus (Vorderhaus); Hofbebauung
+* Etagenhaus (Vorderhaus); Mietfabrik (Hinterhaus)
+* Etagenhaus (Vorderhaus); Pflaster (in der Durchfahrt)
+* Etagenhaus (Vorderhaus); Werkstatt (Hofbebauung)
+* Etagenhaus (Vorderhaus); Wohngebäude (Hinterhaus)
+* Etagenhaus (Vorderhaus, Wohnpassage)
+* Etagenhaus (Vorderhaus, Wohnterrasse)
+* Etagenhaus (Vorderhaus, Wohnterrasse),Wohngebäude (Hinterhaus, Wohnterrasse)
+* Etagenhaus (Vorderhaus, Wohnterrasse),Wohngebäude (Vorderhaus, Wohnterrasse)
+* Etagenhaus (Vorderhaus, Wohnterrasse); Vorgärten; Pflaster
+* Etagenhaus (Vorderhaus, mit Durchfahrt)
+* Etagenhaus (Wohn- und Geschäftshaus)
+* Etagenhaus (Wohn- und Geschäftshaus, mit Lagerräumen und Kontor im EG, Hofdurchfahrt)
+* Etagenhaus (Wohngeschäftshaus)
+* Etagenhaus (Wohnstiftung)
+* Etagenhaus (mit Eiskeller)
+* Etagenhaus (mit Gastronomie)
+* Etagenhaus (mit Gastronomie, Eckgebäude)
+* Etagenhaus (mit Gaststätte und Laden)
+* Etagenhaus (mit Kontor und Lager)
+* Etagenhaus (mit Laden im Keller)
+* Etagenhaus (mit Laden im Keller) (Vorderhaus)
+* Etagenhaus (mit Laden im Keller, Vorderhaus); Speicher/ Werkstattgebäude (Hofbebauung)
+* Etagenhaus (mit Laden und Gaststätte)
+* Etagenhaus (mit Laden)
+* Etagenhaus (mit Laden); Vorplatz
+* Etagenhaus (mit Läden)
+* Etagenhaus (mit Werkstattflügel)
+* Etagenhaus (mit gewerblich genutztem Gebäudeteil)
+* Etagenhaus (vermutl.)
+* Etagenhaus Terrassenvorderhaus
+* Etagenhaus mit Vorgarten
+* Etagenhaus {Geschäftshaus (nach Umbau)}
+* Etagenhaus {Wohn- und Geschäftshaus (nach Umnutzung bzw. Erweiterung)}
+* Etagenhaus {Wohn- und Geschäftshaus (nach Umnutzung, u.a. auch Postamt)} }
+* Etagenhaus,Wohngebäude
+* Etagenhaus/ Eilguthalle (Halle im Erdgeschoss)
+* Etagenhaus/ Gaststätte (mit Saalanbau)
+* Etagenhaus/Stift
+* Etagenhaus; Einfriedung
+* Etagenhaus; Einfriedung; Vorgarten
+* Etagenhaus; Gebäude (Hofbebauung)
+* Etagenhaus; Hofbebauung (drei Gebäude)
+* Etagenhaus; Hofbebauung (gewerblich)
+* Etagenhaus; Speicher
+* Etagenhaus; Vorgarten
+* Etagenhaus; u.a.
+* Etagenhäuser (Vorderhäuser, Wohnterrasse)
+* Etagenwohnhaus
+* Fabrikanlage
+* Fabrikanlage (Fabrik- und Werkhallenkomplex)
+* Fabrikanlage (Fabrikgebäude)
+* Fabrikanlage (Fleischwarenfabrik)
+* Fabrikanlage (Papierfabrik)
+* Fabrikanlage (Tabakfabrik)
+* Fabrikanlage (Ölfabrik); Wasserturm
+* Fabrikanlage <Fabrikgebäude; Werkstattgebäude; Fabrikhallen>
+* Fabrikanlage <Fabrikgebäude; Zufahrt; Gleise; Pflaster>
+* Fabrikanlage; Straße; Pflaster; Gleise
+* Fabrikationsanlage
+* Fabrikbau
+* Fabrikgebäude
+* Fabrikgebäude (Arbeitshalle)
+* Fabrikgebäude (Eisen- und Stahlgießerei)
+* Fabrikgebäude (Fabrikhalle für Stahlfabrikation)
+* Fabrikgebäude (Fabrikhalle)
+* Fabrikgebäude (Fabrikhallen)
+* Fabrikgebäude (Geschossbau)
+* Fabrikgebäude (Großbäckerei); Schornstein; Silo
+* Fabrikgebäude (Hinterhaus)
+* Fabrikgebäude (Hofbebauung)
+* Fabrikgebäude (Kesselhaus)
+* Fabrikgebäude (Kontorgebäude mit Lagertrakt südwärts)
+* Fabrikgebäude (Kontorgebäude/Lagerhaus/Wohnhaus) (hier Vorderhaus)
+* Fabrikgebäude (Kontorgebäude/Maschinenhaus/Wohnhaus)
+* Fabrikgebäude (Maschinen- und Werkstattgebäude)
+* Fabrikgebäude (Mietfabrik)
+* Fabrikgebäude (Produktionsgebäude)
+* Fabrikgebäude (Produktionsgebäude/ Kontor- und Lagerhaus)
+* Fabrikgebäude (Raffinerieanlage)
+* Fabrikgebäude (Remise/ Stall/ Lagerhaus)
+* Fabrikgebäude (Schlosserei/Lagergebäude)
+* Fabrikgebäude (Sheddachhalle)
+* Fabrikgebäude (Weberei mit Verwaltung)
+* Fabrikgebäude (Werkstattgebäude)
+* Fabrikgebäude (Zinnschmelze)
+* Fabrikgebäude <Produktionshallen/ Montagehallen; Betriebsbüro; u.a.>
+* Fabrikgebäude/ Lagerhaus {nach Umnutzung}
+* Fabrikgebäude/ Speicher; Fabrikgebäude (Sheddachhalle)
+* Fabrikgebäude/Lagergebäude
+* Fabrikgebäude/Speicher
+* Fabrikgebäude/Verwaltungsgebäude
+* Fabrikgebäude; Hoffläche; Uferbefestigung
+* Fabrikgebäude; Speicher
+* Fabrikgebäude; Wohnhaus
+* Fabrikhalle
+* Fabrikhallen <Montagehalle; u.a.>
+* Fabrikkomplex
+* Fabrikschornstein
+* Fabrikverwaltungsgebäude
+* Fachwerkkate
+* Fahnenmast
+* Fassade
+* Fassade (Etagenhausfassade)
+* Fassade (Gaststättenfassade); Terrasse (Gartenwirtschaft)
+* Fassade (Kontorhausfassade)
+* Fassade (Stadthausfassade)
+* Fassade mit Dachansicht (Etagenhaus)
+* Fassade; Treppenhaus
+* Fassaden
+* Feierhallen
+* Fernmeldeamt (Betriebs- und Verwaltungsgebäude)
+* Fernmeldeturm
+* Fernmeldezeugamt
+* Fernsprechamt/ Postgebäude
+* Feuerwache
+* Feuerwache (Spritzenhaus)
+* Feuerwehrhaus
+* Feuerwehrremise
+* Filterwerk (Sandfiltration)
+* Fischerhaus
+* Fischerhaus (Haushälfte)
+* Fischerhaus (Tweehus)
+* Fischerhaus (Tweehus, Fachwerkhaus)
+* Fischerhaus (Tweehus-Hälfte)
+* Fischerhaus; Gartenlaube (vermutl.)
+* Fleet
+* Flugzeughallen
+* Fluss
+* Folly (Nachbau einer Burgruine)
+* Forschungszentrum
+* Forsthaus
+* Forsthof/ Wohnanwesen <Wohnhaus; Stall (mit Gärtnerwohnung); Weintreibhaus; Treibhaus; Garten; Allee; Weideflächen
+* Freifläche
+* Freiplastik
+* Freiplastik (auf Betonsockel)
+* Friedhof
+* Friedhof (Jüdischer Friedhof)
+* Friedhof (Zentralfriedhof)
+* Friedhof (jüdischer Friedhof)
+* Friedhof <Friedhofsgelände; Friedhofskapelle; Tor; Grabsteine>
+* Friedhof <Grabmäler; Kriegerdenkmal; Gedenkstein; Einfriedung; u.a.>
+* Friedhof <Grabsteine; Grüfte; Kriegerdenkmal; Friedhofskapelle; Torhaus/ Wartehalle; Einfriedungen; Tor>
+* Friedhof <Grabstätten; Friedhofskapelle; Friedhofsgebäude; u.a.>
+* Friedhof <Grabstätten; Friedhofskapelle; u.a.>
+* Friedhof <Wegenetz; Baumbestand; Grabmäler; Treppenanlage; Einfriedung; Tor>
+* Friedhof {Parkanlage (nach Umnutzung)}
+* Friedhof; Einfriedung
+* Friedhof; Grabsteine
+* Friedhof; Kirche
+* Friedhof; Park
+* Friedhofskapelle
+* Friedhofskapelle {Kirchengebäude (nach Umnutzung)}
+* Funkorgel
+* Futtermauer
+* Fußgängerbrücke
+* Fußgängertunnel (im Bahndamm); Böschungsmauern (Zyklopenmauerwerk)
+* Fährstein
+* Garage
+* Garage/Werkstatt
+* Garage; Atelier
+* Garage; Mehrfamilienhaus
+* Garage; Parkhaus; Werkstatt; Tankstelle
+* Garage; Stall; Wohnen
+* Garage; Villa
+* Garage; Wohnen
+* Garagen
+* Garagenanlage
+* Garten
+* Garten (Hecken; Wasserbecken; usw.)
+* Garten (Wiesenfläche)
+* Garten (mit Linden)
+* Garten; Landhaus
+* Garten; Landhaus; Mauer; Tor
+* Garten; Schwimmbecken
+* Garten; Wohnanlage
+* Garten; Wohnen
+* Gartenanlage <Terrassen; Gartenhaus; Baumbestand; u.a.>
+* Gartenhaus
+* Gartenhaus/Wohnhaus; Einfriedung
+* Gartenhof
+* Gartenhäuschen
+* Gartenpavillon
+* Gasreglerhaus/ Wohnhaus
+* Gasthaus
+* Gasthaus (mit Saal)
+* Gasthaus (mit Tanzsaal und Kegelbahn, im Kern urspr. Wohngebäude)
+* Gasthaus mit Saalanbau
+* Gasthaus/ Ausflugslokal <Gasthaus/ Hotel; Saalbau mit Konzert- und Ballsaal/ Aussichtsturm>
+* Gasthaus/ Wohngebäude
+* Gasthaus/ Wohnhaus
+* Gasthaus; Remise; u.a.
+* Gasthausgebäude
+* Gaststätte
+* Gaststätte (Kaffeeklappe für Hafenarbeiter)
+* Gaststätte (mit Bootsverleih)
+* Gaststätte (mit Saal)
+* Gaststätte/ Herberge
+* Gaststätte/ Wohnhaus
+* Gaststätte/Ladengebäude
+* Gaststätte; Garten
+* Gaswerk
+* Gaswerk <Gasmessanlage; Gelbkali-Fabrik; Gasförderanlage>
+* Gaswerksgebäude/ Betriebsgebäude (Halle; Gasreinigung)
+* Gaswerksgebäude/ Betriebsgebäude (Halle; Kohlenschuppen mit höherem Kohlenbunker)
+* Gaswerksgebäude/ Betriebsgebäude (Halle; Kohlenschuppen)
+* Gaswerksgebäude/ Betriebsgebäude (Kohlenturm)
+* Gaswerksgebäude/ Betriebsgebäude (Uhren- und Reglerhaus)
+* Gaswerksgebäude/ Betriebsgebäude (Verwaltungsgebäude)
+* Gaswerksgebäude/ Betriebsgebäude (Werkstattgebäude)
+* Gaswerksgebäude/ Betriebsgebäude; Einfriedung (zur Straße)
+* Gebäude
+* Gebäude (Hofbebauung, Hinterhaus)
+* Gebäudeteil (Erdgeschoss)
+* Gebäudeteile
+* Gedenkstein
+* Gedenksteine (Findlinge)
+* Gedenkstätte
+* Gedenktafel
+* Gedenkzeichen; Kirchengebäude
+* Gefechtsturm
+* Gefängnis
+* Gefängnisbau
+* Gehwegplatten
+* Gemeindehaus
+* Gemeindehaus (Gemeindesaal, Anbau an Etagenhaus)
+* Gemeindehaus mit Kindergarten
+* Gemeindehaus/ Pfarrhaus
+* Gemeindehaus/ Wohnhaus
+* Gemeindehaus/Pastorat
+* Gemeindehaus; Kirche
+* Gemeindehaus; Kirchengebäude
+* Gemeindehaus; Pastorat
+* Gemeindehaus; Pastorat; Turm
+* Gemeindehaus; Pfarrhaus
+* Gemeindezentrum
+* Gemeindezentrum (Kirchengebäude mit Gemeinderäumen)
+* Gemeindezentrum (Kirchengebäude/ Gemeindehaus/ Pfarrhaus)
+* Gemeindezentrum <Kindergarten; u.a.>
+* Gemeindezentrum <Kirchengebäude; Gemeindesaal; Skulpturen; Außenanlagen (Treppen, Mauern, Freiflächen usw.)>
+* Gemeindezentrum <Kirchengebäude; u.a.>
+* Gemeindezentrum <Kirchensaal; u.a.>
+* Gemeindezentrum <Pfarrhaus; u.a.>
+* Gemeindezentrum; Kirchengebäude
+* Gemeindezentrum; Pastorat
+* Gericht
+* Gerichtsgebäude
+* Gerichtsgebäude; Gefängnis
+* Gerätehaus
+* Geschosswohnungsbau
+* Geschäftsgebäude
+* Geschäftsgebäude/ Lagergebäude
+* Geschäftsgebäude; Siedlungsbau
+* Geschäftshaus
+* Geschäftshaus {Etablissement (nach Umnutzung)}
+* Geschäftshaus/ Gaststätte
+* Geschäftshaus/ Kontorhaus
+* Geschäftshaus; Speicher (rückwärtig)
+* Gesellschaftshaus
+* Getreidespeicher (Silo); Verladebrücke (stationäre Anlage zur Wasserseite)
+* Gewerbebau
+* Gewerbebau (Hinterhaus)
+* Gewerbebau (Hofbebauung)
+* Gewerbebau (Hofbebauung)/Speicher (Kanalbebauung)
+* Gewerbebau (Hofbebauung, Gewerbehof)
+* Gewerbebau (Speichergebäude)
+* Gewerbebau/ Wohnhaus
+* Gewerbebau/Speicher
+* Gewerbebauten
+* Gewerbegebäude
+* Gewerbekomplex
+* Gewerbekomplex <Gewerbegebäude; Büro- und Gewerbegebäude; u.a.>
+* Gewächshaus (Erdgewächshaus)
+* Gewächshäuser
+* Gewässer
+* Glasfenster
+* Gleisanlagen (Überreste); Bahnsteig (Überreste)
+* Glockenturm
+* Grabmal
+* Grabmal (Ehrengrabstätte mit Gedenkstein und eingefriedetem Grabfeld)
+* Grabmal {Denkmal (nach Umgestaltung)}
+* Grabmal; Kirche
+* Grabmale
+* Grabmale; Grabanlagen
+* Grabschmuck
+* Grabsteine
+* Grabsteine/ Erinnerungsmale
+* Grabsteine/ Erinnerungsmale (mit Einfriedung)
+* Grabsteine; Grüfte mit liegenden Grabplatten; Grabstätten
+* Grenzstein
+* Grenzstein (Fischereibegrenzungsstein)
+* Grenzstein (Forst- und Ämterstein)
+* Grenzstein (Wegeunterhaltungsstein)
+* Grenzstein (Zunft)
+* Grenzstein (vermutl.)
+* Grenzstein/Grenzsäule
+* Grotte (Gartengrotte)
+* Großmarkt
+* Gräber
+* Grünanlage
+* Grünanlage (gärtnerisch gestalteter Vorplatz östlich des Schulgebäudes)
+* Grünanlage <Grünflächen; Teich; Bäume (Eichen)>
+* Grünfläche
+* Grünfläche; Entwässerungsgraben
+* Grüngestaltung
+* Grünstreifen
+* Gutsanlage <Herrenhaus; Stallgebäude; Nebengebäude; Geflügelhaus; Instenhaus; Lagerhaus; Torhaus; Allee; Pflaster; Teich; Grünfläche>
+* Gutsgelände (historisch geprägte Flächen)
+* Gutshaus
+* Gutshaus {Landhaus (nach Umbau)}
+* Gärtner- bzw. Kutscherhaus; Einfriedung
+* Gärtnerei
+* Gärtnerhaus
+* Gärtnerhaus/ Verwalterhaus; Einfriedung
+* Gärtnerhaus/Torhaus
+* Gärtnerhaus; Remise; Stall; Taubenhaus; Villa; Weg
+* Gärtnerhaus; Taubenhaus/ Gerätehaus
+* Gärtnerhaus; Zaun
+* Gärtnerwohnhaus
+* Göpelhaus
+* Güterbahnhofsgebäude/ Bahnschuppen
+* Güterbahnhofsgebäude/Bahnschuppen
+* Güterwagenhalle
+* HJ-Heim
+* Hafen
+* Hafen; Kanal
+* Hafenbecken <Hafenbecken; Uferbefestigung>; Schlengelanlage
+* Hafentreppe (mit Kasematten, Geländer und Laternen)
+* Halbportalkrananlage
+* Halle (Straßenbahndepot)
+* Halle 15
+* Halle 15.1
+* Hallen 14 bis 14.2
+* Handwerkerhaus
+* Handwerkerhaus (Reepschlägerei) {Mehrfamilienhaus (nach Umnutzung}
+* Hangbefestigung/ Hanggestaltung <Futtermauern; Geländer; Gitter; Treppen; terrassiertes Gelände>
+* Hauptgebäude
+* Haus für Sportler
+* Hausgarten
+* Heckeneinfriedung
+* Heim
+* Heim ("Erziehungsanstalt für sittlich verwahrloste Knaben") {Mehrfamilienhaus (nach Umbau 1923)}
+* Heimgebäude
+* Heuberg
+* Hinterhaus
+* Hochbahnviadukt
+* Hochbrücke
+* Hochschulgebäude
+* Hochschulgebäude (Fachhochschule)
+* Hochschulgebäude; Institutsgebäude
+* Hof
+* Hofanlage
+* Hofanlage <Bauernhaus; Scheune>
+* Hofanlage <Hoffläche; u.a.>
+* Hofanlage <Wohngebäude/ Stallgebäude; Einfriedung; u.a.>
+* Hofanlage <Wohngebäude; Scheune/ Stall>
+* Hofanlage <Wohnwirtschaftsgebäude; Backhaus>
+* Hofanlage <Wohnwirtschaftsgebäude; Garten; Einfriedung; u.a.>
+* Hofanlage <Wohnwirtschaftsgebäude; Prunkpforte>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheune; Arbeiterwohnhaus>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheune; Bäume; Zaun>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheune; Einfriedung>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheune; Hausgarten>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheune; Hoffläche; Windbäume; Lattenzaun; Auffahrt>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheune; Nebengebäude; Einfriedung; u.a.>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheune; Obstgarten <Baumreihe; Einfriedung>>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheune; Pflaster>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheune; Schneitelbäume>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheune; Stall; Pflaster>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheune; Stall>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheune; Stallscheune; u.a.>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheune; Tore; u.a.>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheune; Waschhaus>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheune; Windbäume>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheune; massives Nebengebäude>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheune; u.a.>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheune>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheunen; Backhaus; u.a.>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheunen; Einfriedung>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheunen; Speicher; Stall>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheunen; Tor; Einfriedung; Pflaster>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheunen; Tor; Einfriedung>
+* Hofanlage <Wohnwirtschaftsgebäude; Scheunen>
+* Hofanlage <Wohnwirtschaftsgebäude; Speicher (Turmspeicher)>
+* Hofanlage <Wohnwirtschaftsgebäude; Stall>
+* Hofanlage <Wohnwirtschaftsgebäude; Ställe; Einfriedung>
+* Hofanlage <Wohnwirtschaftsgebäude; Wirtschaftsgebäude>
+* Hofanlage <Wohnwirtschaftsgebäude; u.a.>
+* Hofbebauung
+* Hofeinfahrtssteine
+* Hoffläche
+* Hoffläche (rückwärtig)
+* Hoffläche; Mauer
+* Hofpflasterung
+* Hotel
+* Hotel (Strandhotel)
+* Hotel {Geschäftshaus (nach Umnutzung)}
+* Hotel/ Kontorhaus
+* Hotel; Einfriedung
+* Hotelhochhaus
+* Hufnerhaus
+* Hufnerhaus; Scheune
+* Hufnerhaus; u.a.
+* Höft
+* Höft; u.a.
+* Inneneinrichtung
+* Innenhof
+* Innungshaus
+* Institutsgebäude
+* Institutsgebäude (Impfanstalt)
+* Institutsgebäude/ Bibliothek
+* Jugendheim (Haus der Jugend)
+* Kaianlagen
+* Kaianlagen (in Teilen)
+* Kaianlagen <Kräne; u.a.>
+* Kaimauern/Wassertreppen
+* Kaischuppen
+* Kanal
+* Kanal/Fleet
+* Kanal; Schleuse
+* Kanal; Uferbefestigung/ Treppen
+* Kanal; Ufereinfassungen
+* Kanal; Ufereinfassungsn
+* Kanal; Ufermauern
+* Kanal; Wasserfläche
+* Kanalabschnitt
+* Kandelaber
+* Kapelle
+* Kapelle (Begräbniskapelle)
+* Kapelle; Mausoleum
+* Kapelle; Turm
+* Kasematte
+* Kasematte/Gewerbebau
+* Kasematten mit Vorplatz
+* Kaserne
+* Kaserne (Luftwaffe) <Mannschaftsunterkünfte; Zwischentrakte; Stabsgebäude/ Wirtschaftsgebäude; Kraftfahrzeughallen/ Geschützhallen; Heizwerk; Wachgebäude;  Einfriedungen; Findling (vor dem Tor); Straßen- und Wegenetz; begrünte Freiflächen; u.a.>
+* Kaserne <Mannschaftsunterkünfte; Offiziersheim; Offizierskasino; Stabsgebäude; Wirtschaftsgebäude; Kraftfahrzeughallen/ Geschützhallen (mit Flakturm); Technikhalle/ Heizwerk; Torhaus; Einfriedungen; u.a. >
+* Kaserne {Schulanlage (Bundeswehr)}
+* Kasernenanlage
+* Kasernenanlage (Polizeikaserne)
+* Kasernenanlage (Polizeikaserne) <Kasernengebäude, Pulvermagazin>
+* Kasernenanlage (Polizeikaserne) <Turnhalle; Schmiede>
+* Kasernenanlage (Polizeikaserne) <Wagenschuppen; Stall>
+* Kasernengebäude
+* Kasernengebäude (Fahrzeugschuppen)
+* Kasernengebäude (Mannschaftsgebäude)
+* Kasernengebäude (Polizeikaserne)
+* Kasernengebäude (Reithalle/Exerzierhaus)
+* Kasernengebäude (Stabsgebäude)
+* Kasernengebäude (Stabsgebäude) {Polizeiwache (nach Umnutzung)}
+* Kasernengebäude (Turnhalle/Stall)
+* Kasernengebäude (Wirtschaftsgebäude)
+* Kasernengebäude, Kasernenstabsgebäude (Torgebäude mit Haupteingang) {Krankenhaus (nach Umnutzung 1945)}
+* Kate
+* Kate (Gaststätte (seit 1890))
+* Kate {Gasthaus}
+* Kate/ Bauernhaus {Wohnhaus (nach Umbau)}
+* Kate; Einfriedung
+* Kate; Remise
+* Kate; Vorgarten
+* Kaufhaus
+* Kaufhaus {Speicher (nach Translozierung)}
+* Kaufmannshaus (Wohnhaus mit Speicher, Typ althamburgisches Bürgerhaus)
+* Kaufmannshaus; Speicher (Anbau); Fabrikgebäude (Anbau)
+* Kavaliershaus/ Sommerwohnhaus
+* Keller
+* Kesselhaus
+* Kesselhaus mit Schlot
+* Kesselhaus/ Maschinenhaus
+* Kindergarten
+* Kinderheim
+* Kinderheim/ Kindergarten
+* Kinderheim/ Pflegeheim/ Wohnheim
+* Kinderkrippe
+* Kindertagesstätte
+* Kino
+* Kinosaal
+* Kiosk
+* Kiosk/ Toilettenhäuschen
+* Kiosk/Toilettenhaus
+* Kiosk; Arkaden; Leuchten; Bäume; Bänke; u.a.
+* Kirche
+* Kirche; Gemeindezentrum
+* Kirchengebäude
+* Kirchengebäude (Kirchensaal mit Turm)
+* Kirchengebäude (Kirchensaal); Einfriedung
+* Kirchengebäude (Notkirche)
+* Kirchengebäude (Notkirche, Einbau in Kirchenruine)
+* Kirchengebäude (Ruine) {Mahnmal (nach Zerstörung und Umwidmung)}
+* Kirchengebäude (Turm)
+* Kirchengebäude (mit Nebenräumen)
+* Kirchengebäude (mit Verbindungsbauten)
+* Kirchengebäude mit Gemeindehaus
+* Kirchengebäude mit Gemeindehaus; Pastorat; Turm
+* Kirchengebäude mit zwei Pastoraten
+* Kirchengebäude/ Gemeindeschule (katholisch)
+* Kirchengebäude/ Gemeindezentrum
+* Kirchengebäude/ Kirchturm
+* Kirchengebäude; Gemeindehaus; Pastorat
+* Kirchengebäude; Gemeindezentrum; Kinderheim
+* Kirchengebäude; Kirchenausstattung
+* Kirchengebäude; Kirchturm
+* Kirchengebäude; Kirchturm (Glockenturm)
+* Kirchengebäude; Kirchturm (freistehend)
+* Kirchengebäude; Nebengebäude (Anbauten); Kirchturm
+* Kirchengebäude; Pastorat
+* Kirchengebäude; Pastorat (Anbau)
+* Kirchengebäude; Pastorat; Gemeindehaus
+* Kirchengebäude; Pfarrhaus
+* Kirchengebäude; Turm
+* Kirchenkreishaus
+* Kirchenschiff
+* Kirchturm
+* Kirchturm; Einfriedung
+* Kleintierstall
+* Kleinviehstall
+* Kleinwohnhaus
+* Kleinwohnhaus (Doppelhaus)
+* Kleinwohnhaus (Handwerkerhaus)
+* Kleinwohnhaus (Kate); Bäume
+* Kleinwohnhaus (mit Werkstatt)
+* Kleinwohnhaus (ortstypisches Reihenwohnhaus mit drei Hausteilen)
+* Kleinwohnhaus/Reihenhaus (Langer Jammer)
+* Kleinwohnhaus; u.a.
+* Klinikgebäude/Institutsgebäude
+* Kloster
+* Knick
+* Kolleg
+* Konfirmandensaal
+* Kongresszentrum
+* Kontor- und Geschäftshaus
+* Kontorhaus
+* Kontorhaus (Fassade)
+* Kontorhaus (mit Lager, Produktions- und Werkstätten)
+* Kontorhaus (mit Speicherböden)
+* Kontorhaus (mit Tankstelle)
+* Kontorhaus {Bankgebäude (nach Umbau)}
+* Kontorhaus; Fabrikanlage (nach Umnutzung 1927/29)
+* Konzentrationslager
+* Konzentrationslager <Garagen>
+* Konzentrationslager <Häftlingsunterkünfte>
+* Konzentrationslager <Klinkerwerk>
+* Konzentrationslager <Wohngebäude>
+* Konzertgebäude
+* Kornspeicher
+* Kraftwerk
+* Kraftwerksanlage <Kesselhaus; Schornstein>
+* Kran
+* Krananlage
+* Krananlage <Halbportalkran; Kranbahn>
+* Krananlage <Kranbahn; Laufkatze>
+* Krane
+* Krankenhaus
+* Krankenhaus (Kinderkrankenhaus)
+* Krankenhaus; Schule
+* Krankenhausanlage
+* Krankenhausanlage (Krankenhausgebäude; Einfriedungen; Treppen; Kandelaber; Außenanlagen (z.T.))
+* Krankenhausanlage <Gebäude; Pavillons; Krankenhausgelände (parkähnliche Anlage mit Wegenetz und Pflanzungen)>
+* Krankenhausanlage <Krankenhausgebäude; Kapelle; Ärztehaus>
+* Krankenhausanlage <Krankenhausgebäude; Pförtnerhäuschen>; Jüdischer Friedhof
+* Krankenhausgebäude
+* Krankenhausgebäude (Behandlungs- und Bettenhaus)
+* Krankenhausgebäude (Krankenpavillon, Verwaltungsgebäude)
+* Krankenhausgebäude (Krankenpavillons)
+* Krankenhausgebäude (Schwesternheim)
+* Krankenhausgebäude (Verwaltungsgebäude)
+* Krankenhausgebäude (Wirtschaftsgebäude)
+* Krankenhausgebäude (mit Operationssaal und Hörsaal)
+* Krankenhausgebäude/ Betriebsgebäude/ Maschinenhaus (Kesselhaus)
+* Krankenhausgebäude/ Institutsgebäude
+* Krankenhausgebäude; Einfriedungen; Außenanlagen (z.T.)
+* Krankenhausgelände <Außengestaltung; Alleen; Wege; Einfriedungen (mit Trafohaus); Brunnenhaus; u.a.>
+* Krankenhauskomplex
+* Kranwärterhaus
+* Krematorium
+* Kriegerdenkmal
+* Kriegerdenkmal (1870/71)
+* Kriegerdenkmal (Friedenseiche mit Findling)
+* Kriegerdenkmal (Kriegerdenkmal 1848 und 1870/ 71)
+* Kriegerdenkmal (Kriegerdenkmal 1848/ 49, u.a.) <Gedenkstein; Eiche>
+* Kriegerdenkmal (Kriegerdenkmal 1864/ 66)
+* Kriegerdenkmal (Kriegerdenkmal 1870/ 71 u.a.)
+* Kriegerdenkmal (Kriegerdenkmal 1870/ 71)
+* Kriegerdenkmal (Kriegerdenkmal 1870/ 71) (Findling unter Eiche)
+* Kriegerdenkmal (Kriegerdenkmal 1870/ 71); Baum
+* Kriegerdenkmal (Kriegerdenkmal 1870/ 71, u.a.)
+* Kriegerdenkmal (Kriegerdenkmal 1914/ 18 und 1939/ 45)
+* Kriegerdenkmal (Kriegerdenkmal 1914/ 18 und 1939/ 45) (Findling)
+* Kriegerdenkmal (Kriegerdenkmal 1914/ 18 und 1939/ 45) <Kreuze; Stelen; Tafel>
+* Kriegerdenkmal (Kriegerdenkmal 1914/ 18)
+* Kriegerdenkmal (Kriegerdenkmal 1914/ 18) (Denkmalanlage aus verklinkerter Stele mit Erinnerungstafeln und umfassenden Mäuerchen)
+* Kriegerdenkmal (Kriegerdenkmal 1914/ 18; Kriegerdenkmal 1939/ 45)
+* Kriegerdenkmal (Kriegerdenkmal 1914/ 18; hier Findling mit Tafel einschließlich Einfriedung und Hecke)
+* Kriegerdenkmal (Kriegerdenkmal 1914/18 und 1939/45)
+* Kriegerdenkmal (Kriegerdenkmal 1914/18)
+* Kriegerdenkmal (Kriegerdenkmal 1939/ 45)
+* Kriegerdenkmal (Kriegerdenkmal 1939/ 45) (drei Findlinge mit Bronzetafel)
+* Kriegerdenkmal (Kriegerdenkmal 1939/ 45) <Hain (Birkenhain); 
+Kreuze (Gruppen aus jeweils drei Kreuzen); Tafeln (zwei Tafeln mit Namen der Gefallenen); Findling>
+* Kriegerdenkmal (Regimentsehrenmal)
+* Kriegerdenkmal <Kriegerdenkmal 1870/71; Kriegerdenkmal 1914/18; Kriegerdenkmal 1939/45>
+* Kräne
+* Kulturlandschaft
+* Kunst im öffentlichen Raum
+* Kunst im öffentlichen Raum (Lichtobjekt)
+* Kutscherhaus
+* Kutscherhaus/ Remise/ Stall; Wohnhaus (nach Umnutzung)
+* Küchengebäude
+* Küsterhaus
+* Küsterhaus/ Organistenwohnhaus
+* Laden
+* Ladengebäude
+* Ladenzeile
+* Lager- und Werkstattgebäude/ Wohnhaus
+* Lagergebäude
+* Lagergebäude  mit Wagenhalle (Hinterhaus)
+* Lagergebäude/ Werkstattgebäude (Möbelfabrikation, Hinterhaus)
+* Lagerhaus
+* Lagerhaus; Pflaster; Vorgarten; Werkstatt; Wohnen
+* Lagerhaus; Postgebäude
+* Landarbeiterhaus
+* Landarbeiterhaus; Zaun
+* Landhaus
+* Landhaus (mit Garage)
+* Landhaus {Rathaus (nach Umnutzung)}
+* Landhaus/ Jagdhaus
+* Landhaus/ Wohnwirtschaftsgebäude
+* Landhaus; Einfriedung
+* Landhaus; Einfriedung; Tor
+* Landhaus; Einfriedungen; Auffahrt
+* Landhaus; Garten
+* Landhaus; Garten (vermutl.)
+* Landhaus; Garten; Einfriedung
+* Landhaus; Gartenpavillon
+* Landhaus; Mauer; Sieberling; Einfriedung
+* Landhaus; Stützmauer
+* Landhaus; Stützmauer (erhaltene Teile)
+* Landhaus; Tor; Garten
+* Landhaus; Torhaus; Allee; Hoffläche; Einfriedung/ Tor (zur Straße)
+* Landhaus; Zaun
+* Landhaus; u.a.
+* Landhausgarten
+* Landheim
+* Laube
+* Lehr- und Tagungsgebäude
+* Lehrgebäude
+* Lehrgebäude (Institutsgebäude/ Hörsaalgebäude)
+* Lehrgebäude/ Hörsaalgebäude
+* Lehrgebäude/ Institutsgebäude (Fachschule)
+* Lehrgebäude/ Institutsgebäude (Maschinenhaus/ Maschinenbaulaboratorium)
+* Lehrgebäude/ Institutsgebäude (Schiffsbaulaboratorium)
+* Leihhaus
+* Leuchtturm
+* Litfaßsäule
+* Logenhaus
+* Lokschuppen
+* Lokschuppen/Werkstatt
+* Lotsenhaus
+* Lotsenhaus/ Feuerwache
+* Luftschutzbau
+* Luftschutzbau (Betonformsteinunterstand)
+* Luftschutzbau (Ringtreppenturm)
+* Läden/ Geschäftspavillons (Ladenzentrum)
+* Löschteich (vermutl.)
+* Markthalle
+* Markthalle (Gebäudeteil)
+* Markthalle (Großmarkthalle); u.a.
+* Markthalle (Zentralviehmarkt)
+* Markthalle; Marktfläche
+* Maschinenhaus
+* Maschinenhaus/ Kesselhaus (Wasserwerk (Pumpwerk))
+* Mauer
+* Mauern (Stützmauern)
+* Mausoleum
+* Mausoleum; Einfriedung
+* Mehrfamilienhaus
+* Mehrfamilienhaus (Doppelhaus)
+* Mehrfamilienhaus (Doppelhaushälfte)
+* Mehrfamilienhaus (Eisenbahnerwohnungen)
+* Mehrfamilienhaus (Hinterhaus)
+* Mehrfamilienhaus (Hinterhaus); Einfriedigung (Zaun zum Garten); Hoffläche
+* Mehrfamilienhaus (Mietshaus)
+* Mehrfamilienhaus (Reihenhaus)
+* Mehrfamilienhaus (Reihenhauszeile, Wohnpassage)
+* Mehrfamilienhaus (Siedlungsbau der 1920er/ 1930er Jahre)
+* Mehrfamilienhaus (Siedlungsbau der 1930er Jahre)
+* Mehrfamilienhaus (Siedlungsbau der 1930er Jahre); Garage
+* Mehrfamilienhaus (Siedlungsbau)
+* Mehrfamilienhaus (Siedlungsbau); Zubehör (in Umgebung des Gebäudes, darunter Grünflächen, Einfriedungen, Wege)
+* Mehrfamilienhaus (Typ Sahlhaus)
+* Mehrfamilienhaus (Vorderhaus)
+* Mehrfamilienhaus (Wohnpassage)
+* Mehrfamilienhaus (Wohnterrasse)
+* Mehrfamilienhaus (mit Gaststätte und Laden)
+* Mehrfamilienhaus (mit Laden)
+* Mehrfamilienhaus (mit Laden); Einfriedung
+* Mehrfamilienhaus (mit Laden); Einfriedung (Nr. 42)
+* Mehrfamilienhaus (mit Laden); Einfriedung (Nr. 48)
+* Mehrfamilienhaus (mit Laden); Einfriedung (Nr. 77)
+* Mehrfamilienhaus (mit Laden, Handwerksbetrieb (Fleischerei))
+* Mehrfamilienhaus (mit Laden, Vorderhaus)
+* Mehrfamilienhaus (mit Laden, vermutl.)
+* Mehrfamilienhaus (mit Läden) (Hochhaus)
+* Mehrfamilienhaus (mit Werkstatt und Laden)
+* Mehrfamilienhaus (mit Werkstatt)
+* Mehrfamilienhaus (mit Werkstatt, zugl. Hinterhaus)
+* Mehrfamilienhaus (vororttypischer gehobener Zuschnitt)
+* Mehrfamilienhaus mit Vereinsräumen
+* Mehrfamilienhaus/ Beamtenwohnhaus (Doppelhaus)
+* Mehrfamilienhaus/ Gaststätte
+* Mehrfamilienhaus/ Kino
+* Mehrfamilienhaus/Beamtenwohnhaus
+* Mehrfamilienhaus/Geschäftshaus (Hochhaus)
+* Mehrfamilienhaus; Betriebsgebäude
+* Mehrfamilienhaus; Einfriedung
+* Mehrfamilienhaus; Einfriedung (Mauer)
+* Mehrfamilienhaus; Einfriedung (in Teilen)
+* Mehrfamilienhaus; Einfriedung; Tor
+* Mehrfamilienhaus; Einfriedung; u.a.
+* Mehrfamilienhaus; Einfriedungen; u.a.
+* Mehrfamilienhaus; Garagen; Außenanlage (rückwärtig)
+* Mehrfamilienhaus; Gartenpavillon; historische Teile der Einfriedung (insbesondere Mauer an Straßenecke); u.a.
+* Mehrfamilienhaus; Speicher
+* Mehrfamilienhaus; Stallgebäude
+* Mehrfamilienhaus; Vorgarten; Einfriedung
+* Mehrfamilienhaus; Werkstatt
+* Mehrfamilienhaus; Werkstattgebäude
+* Mehrfamilienhaus; u.a.
+* Mehrfamilienhäuser (Eisenbahnerwohnungen); Vorgarten
+* Mehrfamlienhaus
+* Mehrzweckgebäude (Bürgerhaus)
+* Meilenstein
+* Meilenstein (Halbmeilenstein)
+* Meilenstein (Kilometerstein)
+* Mensa
+* Mietfabrik
+* Mietfabrik (Hinterhaus)
+* Mietfabrik (Hofbebauung)
+* Mietswohnhaus
+* Mietwohnhaus
+* Mietwohnhaus (Vorderhaus)
+* Mietwohnhaus; Einfriedung; Schuppen (rückwärtig)
+* Militärversorgungseinrichtung (Bekleidungsamt) <Werkgebäude; Dienstgebäude/Wohngebäude; Einfriedung; Freiflächen>
+* Militärversorgungseinrichtung (Proviantamt) <Dienstgebäude; Scheune; Lagerschuppen; Bäckerei; Latrine; Einfriedung; Pflaster; Baumbestand>
+* Moschee
+* Motel
+* Munitionsbunker
+* Museum
+* Museumsgebäude
+* Museumsgebäude/ Schulgebäude
+* Musikschule (ehem.)
+* Mälzerei
+* Mühle (Holländerwindmühle, Dampfmühle)
+* Mühlenanlage (Großmühlenbetrieb)
+* Mühlenanlage (Industrie-Getreidemühle)
+* Mühlenensemble
+* Mühlengebäude
+* Mühlengebäude (Feldentwässerungsmühle)
+* Mühlengebäude (Industrie-Getreidemühle)
+* Mühlenteich
+* Müllerwohnhaus
+* Mütter- und Säuglingsheim
+* Mütterheim
+* Nebengebäude
+* Nebengebäude (Kindertagesstätte)
+* Oberleitungsmasten (Straßenbahn)
+* Operngebäude
+* Orgel
+* Ortskern
+* Park
+* Park (Grünanlagen des Krankenhauses); Einfriedung
+* Park (Volkspark)
+* Park (Wirtshauspark)
+* Park (mit gesamter baulicher Ausstattung)
+* Park; Parkausstattung <Pavillon; Teich; u.a.>
+* Park; Plastik
+* Park; Teich; Einfriedung
+* Park; Tor (Parktor)
+* Park; Uferbefestigung; Wasserfläche
+* Parkanlage
+* Parkausstattung (Wasserkaskaden)
+* Parkhaus
+* Parkhaus/ Bürohaus
+* Passagierempfangs- und -abfertigungsgebäude/ Verwaltungsgebäude
+* Pastorat
+* Pastorat (Doppelhaus)
+* Pastorat/ Gemeindehaus
+* Pastorat/ Gemeindehaus (mit Gemeinde- und Konfirmandensaal)
+* Pastorat/ Konfirmandensaal
+* Pastorat/Gemeindehaus
+* Pastorat/Küsterei
+* Pastorat/Wohnhaus
+* Pastorat; Einfriedung
+* Pastorat; u.a.
+* Pastorate
+* Pavillon
+* Pavillon (Borkenhäuschen)
+* Pavillon (Gartenhäuschen)
+* Pavillon (Gartenpavillon)
+* Pavillon (Taubenhaus)
+* Pavillon/ Teehaus
+* Pavillon/Café
+* Pavillon; Mauer (Altenheim/Pflegeheim)
+* Pegelhaus
+* Pegelmesser
+* Pfarrhaus
+* Pferdestall
+* Pferdestall {Feuerwache (seit 1922)}
+* Pferdeställe
+* Pflaster
+* Pflaster; Straßenbeleuchtung; Wohnen
+* Pflasterung, Schienen
+* Pflegeheim
+* Pflegeheim <Unterkunftsgebäude; Verwaltungsgebäude; Badehaus/ Waschhaus/ Wasserturm; Maschinenhaus/  Kesselhaus (mit Schornstein); Pumpenhaus; Remise; Außenanlagen (Allee/ Freiflächen/ Gartenflächen); Einfriedung; Denkmal; u.a.>
+* Pförtnerhaus
+* Pförtnerhaus/ Gärtnerhaus
+* Pförtnerhaus/Wohnhaus
+* Pförtnerhaus; Einfriedung; Hofpflaster
+* Pförtnerhaus; Remise
+* Pförtnerhäuschen
+* Plastik
+* Plastik (Andachtsgruppe, Kreuzwegstation)
+* Plastik (Apothekerzeichen)
+* Plastik (Betonguss-Plastik)
+* Platz
+* Platzanlage
+* Platzanlage (Stadtplatz)
+* Platzanlage <Pflasterung; Treppen; u.a.>
+* Platzanlage; Denkmal (Kriegerdenkmal 1870/71)
+* Polizeiwache
+* Polizeiwache (Normalpolizeiwache)
+* Portal
+* Portalkräne
+* Postgebäude
+* Probstei/ Kirchenkreishaus
+* Promenade; Grünanlage
+* Pumpenhalle
+* Pumpstation
+* Rappolthaus mit Figurengruppe
+* Rathaus
+* Rathaus (nach Erweiterung und Umbau des 1844 errichteten und 1866 umgebauten Vorgängerbaus (Bahnhof Altona))
+* Rathaus (vor Umbau Villa)
+* Rauhfutterscheune
+* Rechenzentrum
+* Regierung/ Verwaltung/ Sicherheit
+* Reihenhaus
+* Reihenhaus (Bude)
+* Reihenhaus (Dreifachhaus)
+* Reihenhaus (Reihenmietshaus, Wohnterrasse)
+* Reihenhaus (Reihenmietshaus, Wohnterrasse); Etagenhaus (nach gestaltprägendem Umbau 1889/90)
+* Reihenhaus; Einfriedung
+* Reihenvilla
+* Reihenvilla (Doppelhaushälfte)
+* Reihenvilla (Endhaus)
+* Reihenvilla; Einfriedung
+* Reihenvilla; Remise; Stall
+* Reihenvilla; u.a.
+* Reithalle
+* Remise
+* Remise (mit Lagerraum)
+* Remise (mit Wohnung, vermutl.)
+* Remise/ Scheune (mit Wohnteil nach Osten)
+* Remise; Pförtnerhaus
+* Remise; Villa
+* Remise; Wohnen
+* Remisen {Bürogebäude (nach Aufstockung)}
+* Rinderschlachthalle
+* Ringlokschuppen
+* Ringlokschuppengebäude
+* Rollkräne
+* Rundbunker
+* Rundpavillon
+* Röhrenbunker
+* Rückhaltebecken (Wasserwerk (Pumpwerk))
+* Sahlhaus
+* Sanitärbaracke
+* Schalthäuschen
+* Scheune
+* Scheune (Fachwerk) {Wohnhaus (nach Umnutzung)}
+* Scheune; Wohnwirtschaftsgebäude
+* Schiffsladebrücke
+* Schiffsladebrücke; Kran
+* Schlachthof
+* Schlachthof <Schweinestall; Schlachthalle>
+* Schlachthofgebäude (Quarantänestall)
+* Schleuse
+* Schleuse; Brücke
+* Schleuse; Sperrwerk
+* Schleusenanlage; Kanalabschnitt
+* Schleusenwärterhaus
+* Schloss
+* Schmiede
+* Schonstein
+* Schul- und Lehrgebäude
+* Schulanlage
+* Schulanlage (Doppelvolksschule)
+* Schulanlage (Gymnasium) <Schulgebäude>
+* Schulanlage (Hilfsschule)
+* Schulanlage (Realschule)
+* Schulanlage (Realschule/ Lyzeum)
+* Schulanlage (Volksschule)
+* Schulanlage (Volksschule) <Schulgebäude; Einfriedung>
+* Schulanlage <Schulgebäude (Klassentrakte, Fachräume, Verwaltung, usw.); Turnhalle; Aula; Laubengänge; Skulpturen; Mauern im Hofbereich; weitere erhaltene Reste der historischen Außenraumgestaltung>
+* Schulanlage <Schulgebäude; Außenanlagen (u.a. Einfriedung)>
+* Schulanlage <Schulgebäude; Einfriedung; Hoffläche>
+* Schulanlage <Schulgebäude; Einfriedung>
+* Schulanlage <Schulgebäude; Einfriedungen>
+* Schulanlage <Schulgebäude; Sportplatz>
+* Schulanlage <Schulgebäude; Turnhalle>
+* Schulanlage <Turnhalle; Verwaltungsgebäude; Schulgebäude>
+* Schulanlage; Krankenbaracken {Schulpavillon (nach Umnutzung)}
+* Schule
+* Schule (Dorfschule)
+* Schule (Handelsschule); Einfriedung
+* Schule (Oberrealschule)
+* Schule (Real- bzw. Oberrealschule)
+* Schule (Realschule)
+* Schule (Volksschule)
+* Schule (Volksschule); Einfriedung
+* Schule <Schulgebäude/ Wohnhaus; u.a.>
+* Schule <Schulgebäude; Laubengang; u.a.>
+* Schule <Schulgebäude; Turnhalle; Jugendheim>
+* Schule; Wohnen
+* Schulgebäude
+* Schulgebäude (Anbau 1900)
+* Schulgebäude (Doppelschule)
+* Schulgebäude (Doppelvolksschule für Jungen und Mädchen)
+* Schulgebäude (Dorfschule) {Gaststätte (nach Umnutzung)}
+* Schulgebäude (Dorfschule) {Geschäftshaus (nach Umnutzung)}
+* Schulgebäude (Dorfschule) {Wohnhaus (Umnutzung nach 1945)}
+* Schulgebäude (Dorfschule) {Wohnhaus (nach Umbau)}
+* Schulgebäude (Gemeindeschule)
+* Schulgebäude (Gewerbeschulgebäude)
+* Schulgebäude (Hauptschule) {Wohngebäude (nach Umnutzung)}
+* Schulgebäude (Kirchenschule)
+* Schulgebäude (Kirchenschule) {Gemeindehaus (nach Umnutzung)}
+* Schulgebäude (Kirchenschule)/ Küsterwohnhaus
+* Schulgebäude (Klassen- und Verwaltungstrakte; Schulpavillons; Aula; Turnhalle); Laubengänge; Außengestaltung
+* Schulgebäude (Knaben-Mittelschule)
+* Schulgebäude (Lyzeum)
+* Schulgebäude (Mädchenmittelschule)
+* Schulgebäude (Mädchenschule)
+* Schulgebäude (Mädchenvolksschule)
+* Schulgebäude (Realschule)
+* Schulgebäude (Volksschule)
+* Schulgebäude (Zwischentrakt/Mehrzweckhalle/Pavillons); Stützmauer
+* Schulgebäude (mit Hausmeisterwohnung)
+* Schulgebäude (mit Schulleiter- und Hausmeisterwohnung)
+* Schulgebäude (vermutl.); Einfriedung
+* Schulgebäude mit Portal
+* Schulgebäude {Bibliothek (nach Umnutzung)}
+* Schulgebäude {Wohngebäude (nach Umnutzung)}
+* Schulgebäude {Wohnhaus (nach Umnutzung)}
+* Schulgebäude/ Hochschulgebäude
+* Schulgebäude/ Jugendheim/ Theater
+* Schulgebäude/Lehrgebäude; Platzanlage <Einfriedung>; Freitreppe
+* Schulgebäude/Veranstaltungsgebäude
+* Schulgebäude; Bäume
+* Schulgebäude; Einfriedung
+* Schulgebäude; Toilettenhaus; Bäume
+* Schulgebäude; Toilettenhäuschen
+* Schulgebäude; Turnhalle (Anbau)
+* Schulgebäude; Turnhalle; Einfriedungen; gärtnerisch gestalteter Vorplatz (östlich des
+* Schulgebäude; Wohngebäude (Lehrerwohnhaus)
+* Schulkindergarten
+* Schulkomplex
+* Schulungsgebäude (mit Wohnteil, DRK-Kolonnenhaus)
+* Schuppen
+* Schuppen (Hinterhaus)
+* Schuppen/ Garagen
+* Schuppen; Rollkräne; Bahnanlage
+* Schwesternhaus
+* Schwimm- und Sprungbecken
+* Schwimmbad
+* Schwimmhalle
+* Schöpfpumpwerksgebäude
+* Schöpfwerk
+* Seemannsheim
+* Seezeichen
+* Siedlungbau
+* Siedlungsbau
+* Siedlungsbau (Typ Hamburger Burg)
+* Siedlungsbau (Typ Laubenganghaus)
+* Siedlungsbau (Wohnanlage gehobenen Standards); Vorgarten; Einfriedung
+* Siedlungsbau (mit Laden)
+* Siedlungsbau <Wohngebäude; Durchfahrt/ Treppenanlagen; Außenanlagen; Bäume; Einfriedung>
+* Siedlungsbau mit Vorgärten
+* Siedlungsbau/ Etagenhaus
+* Siedlungsbau/ Gemeinschaftshaus
+* Siedlungsbau/ Geschäftshaus
+* Siedlungsbau/ Postgebäude
+* Siedlungsbau/Wohnstift
+* Siedlungsbau; Grünanlage
+* Siedlungsbau; Wohnstift
+* Siel/Einstiegsbauwerk
+* Silo
+* Silo; Fabrikationsgebäude; Kaianlagen
+* Skulptur
+* Skulptur (Tierskulpturen)
+* Skulptur (in Verbindung mit Treppenanlage)
+* Skulpturen
+* Slipanlage (Querslipanlage)
+* Sommerhaus {Landhaus (nach Erweiterung)}
+* Speicher
+* Speicher (Hinterhaus)
+* Speicher (Hofbebauung)
+* Speicher (Mehl- und Getreidespeicher)
+* Speicher (mit Geschäft (Postamt))
+* Speicher {Wohnhaus (nach Umbau)}
+* Speicher/ Betriebsgebäude (Bäckerei, Hofbebauung)
+* Speicher/ Fabrikgebäude
+* Speicher; Portal
+* Speicher; Silos; u.a.
+* Speicher; Wohn- und Geschäftsgebäude
+* Speichergebäude
+* Spielplatz
+* Sporthalle
+* Sportplatz
+* Sportplatz (Polizeikaserne)
+* Sportstadiongebäude
+* Stabsgebäude
+* Stadion
+* Stadthaus
+* Stadthaus (Doppelhaus)
+* Stadthaus (Doppelhaushälfte)
+* Stadthaus (Palais)
+* Stadthaus (Reihenhaus, Doppelhaushälfte)
+* Stadtplatz
+* Stadtplatz/ Parkanlage
+* Stadtvilla
+* Staffagebau/ Gaststätte (Typ Niedersächsisches Bauernhaus)
+* Stall
+* Stall (mit Speicherboden)
+* Stall (vermutl.) {Wohnhaus (nach Umnutzung)}
+* Stall {Wohnwirtschaftsgebäude (nach Anbau des Wohnteils mit Pferdestall 1910)}
+* Stall- und Garagengebäude/Wohnhaus (Gärtnerwohnung)
+* Stall/ Backhaus
+* Stall/ Garage/ Remise {Institutsgebäude (nach Umnutzung)}
+* Stall/Scheune {Wohnhaus (nach Umnutzung)}
+* Stall; Garage
+* Stall; Wohnen
+* Stallgebäude
+* Stallgebäude (Garage) {Wohn- und Bürogebäude (nach Umnutzung)}
+* Stallgebäude (Hofbebauung)
+* Stallgebäude (Hunde- und Kälberstall)
+* Stallgebäude (Kälber- und Hammelstall)
+* Stallgebäude (Pferdestall)
+* Stallgebäude (Viehstall)
+* Stallgebäude (mit Wohnteil) {Wohnhaus (nach Umbau)}
+* Stallgebäude (vermutl.)
+* Stallgebäude {Wohnhaus (nach Umbau)}
+* Stallgebäude/ Remise
+* Stallgebäude/ Werkstattgebäude (Hinterhaus)
+* Steinbrüstung
+* Steinbänke
+* Steinwerk (urspr.) {Wohngebäude (nach Umbau ab 1527, herzöglicher Wohnsitz)} {Amtshaus (nach Umbau um 1820)} {Mehrfamilienhaus, Mietwohnhaus (nach Umbau)}
+* Sternwarte
+* Stift
+* Stift (Stiftsgebäude)
+* Stift (Wohnstift)
+* Stiftsgebäude
+* Stiftsgebäude (Wohnstift)
+* Stiftsgebäude/Wohnhaus
+* Straße
+* Straßen- und Eisenbahn-Hubbrücke
+* Straßen- und Eisenbahn-Rampe
+* Straßenabschnitt (Chaussee) <Pflaster; u.a.>
+* Straßenabschnitt/ Promenade (Allee)
+* Straßenabschnitt/ Promenade (Allee); Platzanlage
+* Straßenabschnitt/Pflaster
+* Straßenbrücke
+* Straßenbrücke (Autobahn)
+* Straßenbrücke (Drehbrücke)
+* Straßenbrücke (Klappbrücke)
+* Straßenbrücke (Portalbrücke)
+* Straßenbrücke/ Bahnbrücke
+* Straßenbrücke; Eisenbahnbrücke
+* Straßenbrücke; Ufermauern
+* Straßenbrücken
+* Straßenfläche (Pflaster)
+* Straßenpflaster
+* Straßenprofil
+* Straßenschild
+* Studentenwohnheim
+* Stützmauer
+* Stützmauer/ Treppenanlage (mit Treppengeländer)
+* Stützmauern (mit Geländer und Laternen)
+* Stüzmauer; Grünanlage
+* Synagoge
+* Synagoge (Ruine); Wohnhaus (Vorderhaus)
+* Synagoge; Wohnen
+* Säuglings- und Mädchenheim; Polizeistation
+* Tagungsgebäude
+* Tankstelle
+* Tankstelle/ Werkstatt
+* Taubenhaus
+* Teich
+* Terrassen
+* Terrassen; Treppenanlagen
+* Theater
+* Tiefbunker
+* Tiefbunker/Rundbunker (Erprobungsbau)
+* Tierhaus
+* Tierklinik/ Stallgebäude
+* Tierpark
+* Toilettengebäude
+* Toilettengebäude/ Kiosk
+* Toilettenhaus
+* Toilettenhäuschen
+* Toilettenhäuschen/ Pavillon
+* Torgebäude
+* Torhaus
+* Torhaus/ Wohngebäude (Altenheim/Pflegeheim)
+* Torpfosten
+* Trafohaus/ Pavillon (Verkaufsraum)/ Toilettenanlage
+* Transformatorenhaus
+* Transformatorenhäuschen
+* Trauerhalle
+* Treibhaus
+* Treppen und Grünbereich
+* Treppenanlage
+* Treppenanlage; Denkmal; Gitter
+* Treppenanlage; Pflaster; Stützmauer
+* Treppenbrücke
+* Tribüne
+* Trinkhalle
+* Trockendock
+* Trockendock; Werftkräne
+* Tunnel
+* Tunnel (Bahnanlage)
+* Tunnel (Bahntunnel)
+* Tunnel (Leitungstunnel)
+* Tunnel <Tunnelröhren; Schachtgebäude; u.a.>
+* Tunnel/ Lüfterbauwerk
+* Tunneleingang (U-Bahn)
+* Tunneleingänge (U-Bahn)
+* Turm
+* Turmbunker (Zombeck)
+* Turmkran
+* Turnhalle
+* Turnhalle (Schulturnhalle)
+* Turnhalle/ Aula
+* Tweehus
+* Tweehus (Haushälfte)
+* Tweehus; u.a.
+* U-Bahnbrücke
+* Uferbefestigung
+* Ufergestaltung/ Uferbefestigung; u.a.
+* Ufermauern
+* Vasen
+* Veranstaltungsgebäude/ Gaststätte (mit verschiedenen Sälen, Musikklub); Hotel
+* Veranstaltungsgebäude/Etablissement
+* Veranstaltungshalle
+* Vereinshaus
+* Vereinshaus (mit Versammlungs-, Sozialarbeits- und Wohnräumen)
+* Vereinshaus/ Gaststätte (Kaffeeklappe)
+* Verkaufspavillon
+* Verkaufspavillon/Kiosk
+* Verkehrsflächen (Straßenfläche; Platzanlage)
+* Verladestation
+* Verlagsgebäude
+* Versorgungseinrichtung (Armenküche)
+* Verwaltungsgebäude
+* Verwaltungsgebäude (Finanzamt)
+* Verwaltungsgebäude (Gewerbebetrieb)
+* Verwaltungsgebäude (Hochhaus)
+* Verwaltungsgebäude (Standortkommandantur)
+* Verwaltungsgebäude (Versicherung); Mehrfamilienwohnhaus
+* Verwaltungsgebäude (Zoll)
+* Verwaltungsgebäude (mit Gaststätte und Saal)
+* Verwaltungsgebäude {Polizeiwache (nach Umnutzung)}
+* Verwaltungsgebäude {Wohngebäude (nach Umnutzung)}
+* Verwaltungsgebäude/ Altenheim/ Wohn- und Dienstgebäude (kirchlich)
+* Verwaltungsgebäude/ Bahnhofsgebäude
+* Verwaltungsgebäude/ Betriebsgebäude (Post-/ Zollabfertigung)
+* Verwaltungsgebäude/ Dienstgebäude
+* Verwaltungsgebäude/ Dienstgebäude/ Zollgebäude
+* Verwaltungsgebäude/ Eingangsgebäude
+* Verwaltungsgebäude/ Mehrfamilienhaus
+* Verwaltungsgebäude/ Mehrfamilienhaus; Skulpturen (zwei Skulpturen, ehem. Schmuck der Außentreppe)
+* Verwaltungsgebäude/ Mehrzweckgebäude
+* Verwaltungsgebäude/ Pumpenhaus
+* Verwaltungsgebäude/ Wohnhaus
+* Verwaltungsgebäude; Wohngebäude
+* Viadukt (mit Kasematten)
+* Villa
+* Villa (Reihenvilla); Einfriedung
+* Villa (Reihenvilla); Einfriedung; Tor
+* Villa (Sommerhaus)
+* Villa (einschl. des Inventars)
+* Villa mit Garten
+* Villa {Rathaus (nach Erweiterung/ nach Umbau)}
+* Villa {Verwaltungsgebäude (nach Zusammenfassung und Umnutzung)}
+* Villa; Außenanlagen (Umgebung der Villa)
+* Villa; Einfriedung
+* Villa; Einfriedung; Garten
+* Villa; Einfriedung; Tor
+* Villa; Einfriedung; Tore
+* Villa; Einfriedung; Vorgarten
+* Villa; Garage ("Auto-Remise")
+* Villa; Garten
+* Villa; Garten (vermutl.)
+* Villa; Garten; Einfriedung
+* Villa; Gartenhaus; Einfriedung
+* Villa; Grundstück; Einfriedung
+* Villa; Hausgarten; Einfriedung;
+* Villa; Remise
+* Villa; Schule (nach Umnutzung 1898)
+* Villa; Stützmauer
+* Villa; Stützmauer; Torpfeiler; Hecke; Garten
+* Villa; Vorgarten
+* Villa; Vorgarten; Einfriedung
+* Villa; Vorgarten; Einfriedungen
+* Villa; Vorgarten; Zaun
+* Villa; Zaun; Vorgarten
+* Villa; Zubehör
+* Villa; u.a.
+* Volkshaus
+* Vordergebäude
+* Vorderhaus
+* Vorfahrtsbauwerk
+* Vorgarten
+* Vorgarten; Einfriedung (jenseits des Weges)
+* Vorgarten; Schneitelbäume
+* Vorgartenpostamente mit Keramikvasen
+* Vorsetzen
+* Wachgebäude
+* Waisenhaus
+* Waisenhaus {Pfarrhaus/ Kindertagesstätte (nach Umnutzung)}
+* Wandbild
+* Wandgemälde
+* Wandgemäldezyklus: "Marschlandschaft“, „Nächtliche Werft“, „Blick von der Lombardbrücke“
+* Wandlerhäuschen
+* Wartehäuschen
+* Warteschule
+* Warteschule/ Krippe
+* Waschhaus
+* Wasserbassin
+* Wasserbecken; Ufermauern
+* Wasserfläche
+* Wasserfläche (Kanal)
+* Wasserfläche <Teich; Kanal>
+* Wasserfläche; Ufer
+* Wasserfläche; Ufereinfassung
+* Wasserfläche; Ufereinfassung; Grünanlage
+* Wasserfläche; Ufereinfassung; Vereins-/Bootshaus
+* Wassergraben
+* Wassermühle
+* Wassertreppe
+* Wasserturm
+* Wasserturm {Planetarium (nach Umnutzung)}
+* Wasserturm/ Bahngebäude
+* Wasserwerk
+* Wasserwerk (Grundwasserwerk)
+* Wasserwerk (Grundwasserwerk) <Betriebsgebäude; Betriebstechnik; Reinwasserbehälter; Filterbecken; Treppenanlage; Stützmauer (mit Inschrift); u.a.>
+* Wasserwerksgebäude (Pumpenhaus/Aufbereitungsanlage/Wasserbehälter) {Wohngebäude (nach Umnutzung)}
+* Wehr
+* Werftanlage
+* Werftanlage <Plattenlager; Anzeichnerei/ Schnürboden; Werkhallen (Schiffsbauwerkstätten); u.a.>
+* Werftanlage <Verwaltungsgebäude; Maschinenbauhalle; Lotsenhaus; Feuerwache; Trockendock; u.a.>
+* Werftanlage; Industrieanlage
+* Werfthalle
+* Werftkomplex
+* Werk- und Armenhaus
+* Werkhalle
+* Werksgebäude (Brauerei)
+* Werksgebäude (Druckerei)
+* Werksgebäude (Halle mit Wohn- und Büroteil)
+* Werksgebäude (Mälzerei)
+* Werksschutzbunker (Personenschutzbunker)
+* Werkstatt
+* Werkstatt/Lagergebäude
+* Werkstattanlage (Fahrzeugwerkstätten)
+* Werkstattgebäude
+* Werkstattgebäude (Fischräucherei, Hinterhaus)
+* Werkstattgebäude (Hinterhaus)
+* Werkstattgebäude (Hofbebauung)
+* Werkstattgebäude (mit Schornstein)
+* Werkstattgebäude/Lager (Hinterhaus)
+* Windbäume
+* Windmühle
+* Windmühle; u.a.
+* Wirtschaftsgebäude
+* Wirtschaftsgebäude (Nebengebäude)
+* Wirtschaftsgebäude/ Stallgebäude
+* Wirtschaftsgebäude/Verwaltungsgebäude (Altenheim/Pflegeheim)
+* Wohn- und Geschäftsgebäude
+* Wohn- und Geschäftshaus
+* Wohn- und Geschäftshaus (Apotheke); Garage
+* Wohn- und Geschäftshaus (Boardinghaus)
+* Wohn- und Geschäftshaus (Vorderhaus)
+* Wohn- und Geschäftshaus (Vorderhaus, Wohnterrasse)
+* Wohn- und Geschäftshaus (Wohnhaus mit Kotorräumen)
+* Wohn- und Geschäftshaus (mit Apothekenvorbau)
+* Wohn- und Geschäftshaus (z.T. Privatklinik)
+* Wohn- und Geschäftshäuser
+* Wohn- und Kontorhaus
+* Wohn- und Wirtschaftsgebäude {Laden (nach Umnutzung)}
+* Wohnanwesen
+* Wohnbaracke/Bürobaracke (Baracke Typ R.L.IV)
+* Wohnen
+* Wohngebäude
+* Wohngebäude (Altenheim/Pflegeheim)
+* Wohngebäude (Altenwohnungen)
+* Wohngebäude (Arbeiterwohnhaus)
+* Wohngebäude (Arbeiterwohnhäuser)
+* Wohngebäude (Boardinghaus)
+* Wohngebäude (Budenreihe)
+* Wohngebäude (Doppelhaus)
+* Wohngebäude (Doppelhaus); Einfriedung
+* Wohngebäude (Doppelhaus); Stall (Kleintierstall)
+* Wohngebäude (Eckhaus)
+* Wohngebäude (Einzelhaus)
+* Wohngebäude (Gutsverwalterhaus)
+* Wohngebäude (Handwerkerhaus)
+* Wohngebäude (Hinterhaus)
+* Wohngebäude (Hinterhaus),Wohngebäude (Hinterhaus, Wohnterrasse)
+* Wohngebäude (Hinterhaus, Wohnpassage)
+* Wohngebäude (Hinterhaus, Wohnterrasse)
+* Wohngebäude (Hinterhaus, Wohnterrasse); Vorgärten; Pflaster
+* Wohngebäude (Hinterhäuser)
+* Wohngebäude (Hinterhäuser, Wohnpassage)
+* Wohngebäude (Hinterhäuser, Wohnterrasse)
+* Wohngebäude (Hinterhäuser, Wohnterrasse),Wohngebäude (Vorderhaus, Wohnterrasse)
+* Wohngebäude (Hofbebauung)
+* Wohngebäude (Hofbebauung, Hinterhaus)
+* Wohngebäude (Hofbebauung, Wohnpassage)
+* Wohngebäude (Küsterhaus)/ Schulgebäude (Kirchenschule)
+* Wohngebäude (Lehrerwohnhaus)
+* Wohngebäude (Mehrfamilienhaus, Hinterhaus)
+* Wohngebäude (Palais) {Bürogebäude (nach Wiederaufbau)}
+* Wohngebäude (Reihenhaus)
+* Wohngebäude (Reihenhäuser)
+* Wohngebäude (Sommerhaus bzw. Jagdhaus in der Art eines Bauernhaus)
+* Wohngebäude (Sommerhaus)
+* Wohngebäude (Vorderhaus)
+* Wohngebäude (Vorderhaus); Werkstatt (Hofgebäude)
+* Wohngebäude (Vorderhaus, Wohnpassage)
+* Wohngebäude (Vorderhaus, Wohnterrasse)
+* Wohngebäude (Vorderhaus, Wohnterrasse),Wohnhaus (Wohnpassage)
+* Wohngebäude (Vorderhaus, Wohnterrasse); Wohngebäude (Hinterhaus, Wohnterrasse)
+* Wohngebäude (Wohnterrasse)
+* Wohngebäude (ländlich)
+* Wohngebäude (mit Arztpraxis); Garten; Mauer
+* Wohngebäude (mit Bäckerei, vermutl., Deichbebauung)
+* Wohngebäude (mit Läden und Treppe)
+* Wohngebäude (mit z.T. gewerblicher Nutzung)
+* Wohngebäude (vermutl.) {Schulgebäude (nach Umnutzung 1821, Privatschule)}
+* Wohngebäude Hinterhaus
+* Wohngebäude mit Hinterflügel
+* Wohngebäude {Polizeiwache (nach Umbau 1891)}
+* Wohngebäude/ Atelierhaus; Einfriedung; Pflaster
+* Wohngebäude/ Bürohaus
+* Wohngebäude/ Gasthaus
+* Wohngebäude/ Gasthaus (mit Saal)
+* Wohngebäude/ Gaststätte; u.a.
+* Wohngebäude/ Schulungsgebäude
+* Wohngebäude/ Stallgebäude
+* Wohngebäude/ Verwalterhaus
+* Wohngebäude/ Verwaltungsgebäude
+* Wohngebäude/ Verwaltungsgebäude (Dienstgebäude)
+* Wohngebäude/Stallgebäude/Altenteiler
+* Wohngebäude; Einfriedung
+* Wohngebäude; Einfriedung; Windbäume
+* Wohngebäude; Speicher
+* Wohngebäude; u.a.
+* Wohngeschäftshaus
+* Wohngeschäftshaus (Apotheke)
+* Wohngeschäftshaus (Vorderhaus, Wohnpassage)
+* Wohngeschäftshaus (Vorderhaus, Wohnterrasse)
+* Wohngeschäftshaus / Kontorhaus
+* Wohngeschäftshaus/ Kontorhaus
+* Wohngeschäftshaus/Kontorhaus
+* Wohngeschäftshaus; Arkaden
+* Wohngeschäftshaus; Kontorhaus
+* Wohnhaus
+* Wohnhaus (Deichbebauung)
+* Wohnhaus (Deichbebauung); Einfriedung
+* Wohnhaus (Direktorenwohnhaus; Schulnebengebäude)
+* Wohnhaus (Doppelhaus)
+* Wohnhaus (Doppelhaus); Stall (Kleintierstall)
+* Wohnhaus (Doppelhaus, Haushälfte)
+* Wohnhaus (Doppelhaus, Typ Bude)
+* Wohnhaus (Doppelhaushälfte)
+* Wohnhaus (Gästehaus; Sommerhaus)
+* Wohnhaus (Hinterhaus)
+* Wohnhaus (Hofbebauung)
+* Wohnhaus (Hofbebauung, Wohnterrasse)
+* Wohnhaus (Hofgebäude)
+* Wohnhaus (Küsterhaus) / Schulgebäude (Kirchenschule)
+* Wohnhaus (Reihenhaus)
+* Wohnhaus (Reihenhaus, Doppelhaus)
+* Wohnhaus (Reihenhaus, Doppelhaushälfte)
+* Wohnhaus (Sommerhaus)
+* Wohnhaus (Stadthaus)
+* Wohnhaus (Stadthaus) {Etagenhaus (nach Umbau)}
+* Wohnhaus (Stadthaus, Doppelhaus)
+* Wohnhaus (Typ Bude)
+* Wohnhaus (Villa mit Remise)
+* Wohnhaus (Villa)
+* Wohnhaus (Vorderhaus)
+* Wohnhaus (Vorderhaus, mit Veranda und Einfriedung)
+* Wohnhaus (Wohnpassage)
+* Wohnhaus (Wohnterrasse)
+* Wohnhaus (Zwillingshaus)
+* Wohnhaus (mit Anbau zum Garten, Vorderhaus)
+* Wohnhaus (mit Anbauten)
+* Wohnhaus (mit Apotheke)
+* Wohnhaus (mit Arztpraxis)
+* Wohnhaus (mit Atelier); Einfriedung; Garten
+* Wohnhaus (mit Atelier); Garten
+* Wohnhaus (mit Bäckerei und Laden)
+* Wohnhaus (mit Bäckerei)
+* Wohnhaus (mit Garten)
+* Wohnhaus (mit Gaststätte und Laden)
+* Wohnhaus (mit Gaststätte)
+* Wohnhaus (mit Kontorräumen)
+* Wohnhaus (mit Kutscherwohung)
+* Wohnhaus (mit Laden)
+* Wohnhaus (mit Schulnutzung) {Wohnhaus/ Werkstatt (nach Umnutzung)}
+* Wohnhaus (mit Stall, Anbau)
+* Wohnhaus (mit Tierarztpraxis)
+* Wohnhaus (mit Verbindungsgang)
+* Wohnhaus (mit Werkstatt und Stall)
+* Wohnhaus (mit Werkstatt)
+* Wohnhaus (mit z.T. gewerblicher Nutzung, Hofbebauung)
+* Wohnhaus (vermutl.)
+* Wohnhaus mit Garten
+* Wohnhaus mit Garten; Brunnen
+* Wohnhaus und Garten
+* Wohnhaus {Bahnhofsgebäude (nach Umnutzung)}
+* Wohnhaus {Bankgebäude (nach Umnutzung)}
+* Wohnhaus {Gastwirtschaft}
+* Wohnhaus {Geschäftshaus (nach Umnutzung)}
+* Wohnhaus {Mehrfamilienhaus} {Ledigenhaus}
+* Wohnhaus {Pastorat (nach Umnutzung)}
+* Wohnhaus {Schulgebäude/ Lehrerwohnhaus (nach Umnutzung 1808)} {Geschäftshaus (nach Umnutzung 1888)}
+* Wohnhaus {Schulhaus (1851-1860 Armenschule)}
+* Wohnhaus {Verwaltungsgebäude (nach Umnutzung}; Fabrikationsgebäude (Florylingebäude)
+* Wohnhaus {Wohn- und Geschäftshaus}
+* Wohnhaus {Wohnwirtschaftsgebäude (nach Umbau)}
+* Wohnhaus, Stall/ Remise
+* Wohnhaus- und Geschäftsgebäude
+* Wohnhaus/ Atelierhaus
+* Wohnhaus/ Atelierhaus; Garten
+* Wohnhaus/ Gartenhaus
+* Wohnhaus/ Geschäftshaus
+* Wohnhaus/ Geschäftshaus (vermutl.)
+* Wohnhaus/ Geschäftshaus/ Gaststätte
+* Wohnhaus/ Pfarrhaus
+* Wohnhaus/ Speicher
+* Wohnhaus/ Stall
+* Wohnhaus/ Tierklinik
+* Wohnhaus/ Werkstatt (Weberei)
+* Wohnhaus; Atelierhaus; Vorgarten; Garten
+* Wohnhaus; Außenanlagen; Einfriedungen
+* Wohnhaus; Baumreihe (vor dem Haus)
+* Wohnhaus; Einfriedung
+* Wohnhaus; Einfriedung; Linden
+* Wohnhaus; Einfriedung; Tor
+* Wohnhaus; Garten
+* Wohnhaus; Garten; Einfriedung
+* Wohnhaus; Garten; Hecken; Einfriedung
+* Wohnhaus; Garten; Hofplatz; Einfriedung
+* Wohnhaus; Gartenpavillon; u.a.
+* Wohnhaus; Geländer; Einfriedung
+* Wohnhaus; Nebengebäude
+* Wohnhaus; Pflaster (in der Durchfahrt)
+* Wohnhaus; Portal
+* Wohnhaus; Remise
+* Wohnhaus; Remise; Einfriedung
+* Wohnhaus; Schuppen
+* Wohnhaus; Schuppen; Zaun
+* Wohnhaus; Stallgebäude
+* Wohnhaus; Verwaltungsgebäude; Pförtnerhaus; Grünanlage
+* Wohnhaus; Werkstattgebäude
+* Wohnhaus; Windbaum
+* Wohnhaus; Windbäume
+* Wohnhaus; Zaun
+* Wohnhaus; Zufahrt (mit Umfahrungsrondell); Baumbestand; Stützmauern (aus Bruchstein)
+* Wohnhaus; u.a.
+* Wohnheim {Arbeiterhotel}
+* Wohnheim {Heim für alleinstehende Frauen und Mädchen}
+* Wohnheim/Stift
+* Wohnhochhaus
+* Wohnhochhaus; Außenanlagen
+* Wohnhäuser (ehem. zwei Gebäude) {Hotel (nach Umnutzung)}
+* Wohnsiedlung
+* Wohnstift
+* Wohnstift (Altenwohnanlage)
+* Wohnstift (Stiftsgebäude; Pavillons (zur Straße); Einfriedungen; Außenanlagen)
+* Wohnstift <Stiftsgebäude>
+* Wohnwirtschaftsgebäude
+* Wohnwirtschaftsgebäude (Fachhallenhaus)
+* Wohnwirtschaftsgebäude (Fachhallenhaus); u.a.
+* Wohnwirtschaftsgebäude (Nr. 12 Wirtschaftsteil, Nr. 14 Wohnteil); Einfriedung
+* Wohnwirtschaftsgebäude (Typ Hufnerhaus) {Scheune (nach Umnutzung)}
+* Wohnwirtschaftsgebäude (Wirtschaftsgebäude mit Wohnteil)
+* Wohnwirtschaftsgebäude (mit Gaststätte)
+* Wohnwirtschaftsgebäude {Kirchengebäude (nach Ausbau)}
+* Wohnwirtschaftsgebäude {Laden (nach Umnutzung}
+* Wohnwirtschaftsgebäude {Restaurant bzw. Laden (nach Umnutzung)}
+* Wohnwirtschaftsgebäude/Landhaus; Bäume
+* Wohnwirtschaftsgebäude; Bäume; Pflaster
+* Wohnwirtschaftsgebäude; Einfriedung
+* Wohnwirtschaftsgebäude; Einfriedung; Bäume
+* Wohnwirtschaftsgebäude; Gasthaus (nach Umnutzung 1929)
+* Wohnwirtschaftsgebäude; Prunkpforte
+* Wohnwirtschaftsgebäude; Scheune
+* Wohnwirtschaftsgebäude; Scheune; Einfriedung; u.a.
+* Wohnwirtschaftsgebäude; Scheune; Speicher
+* Wohnwirtschaftsgebäude; Verkehrsfläche (zwischen Haus und Straße)
+* Wohnwirtschaftsgebäude; Wirtschaftsgebäude
+* Wohnwirtschaftsgebäude; Wurt
+* Wohnwirtschaftsgebäude; u.a.
+* Wäscherei
+* Zentrale Versorgungsanlage
+* Zollamt
+* Zollgebäude
+* Zollhaus/ Fährhaus {Gasthaus (nach Umbau)}; Saal
+* Zollpavillon
+* Zollrampe
+* Zollschuppen (mit Büroteil)
+* Zollzaun
+* Zufahrt
+* Zuwegung
+* Zweifamilienhaus
+* Zweifamilienhaus (Doppelhaus); Vorgarten
+* Zweifamilienhaus (vermutl.)
+* Zweifamilienhaus (vermutl.); Einfriedung; Vorgarten
+* Zweifamilienhaus/ Reihenhaus
+* Zweifamilienhaus; Einfriedung; Vorgarten
+* Zweifamilienhaus; Remise
+* Zweifamilienhaus; Vorgarten; Einfriedung
+* begrünter Innenhof
+* Ämterstein (Amt der Reeper)

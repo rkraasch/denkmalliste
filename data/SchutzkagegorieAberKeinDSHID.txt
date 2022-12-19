@@ -1,0 +1,113 @@
+{| class="sortable wikitable"
+! Lfd. Nr. || Wikidata-Item || Bezeichnung || Beschreibung || Artikel
+|-
+| 1 || [[d:Q2310135|Q2310135]] || Spielbudenplatz || Platz in Hamburg‎ || [[Spielbudenplatz]]
+|-
+| 2 || [[d:Q1724036|Q1724036]] || Stephansplatz || Platz in Hamburg || [[Stephansplatz (Hamburg)]]
+|-
+| 3 || [[d:Q22952556|Q22952556]] || Mehr!-Theater am Großmarkt || Multifunktionstheater in Hamburg || [[Mehr! Theater am Großmarkt]]
+|-
+| 4 || [[d:Q30112705|Q30112705]] || Dammbrücke || Straßenbrücke im Hamburger Stadtteil Alsterdorf die Alster || [[Dammbrücke (Hamburg)]]
+|-
+| 5 || [[d:Q777866|Q777866]] || Ausbesserungswerk Hamburg-Harburg || ehemaliges Ausbesserungswerk für Eisenbahn-Fahrzeuge || [[Ausbesserungswerk Hamburg-Harburg]]
+|-
+| 6 || [[d:Q27477445|Q27477445]] || Ostbake || historisches Seezeichen, Neuwerk, Hamburg || 
+|-
+| 7 || [[d:Q26794478|Q26794478]] || Theater in der Washingtonallee || Theater in Hamburg-Horn || [[Theater in der Washingtonallee]]
+|-
+| 8 || [[d:Q20644172|Q20644172]] || Hamburger Speicherstadt und Kontorhausviertel mit Chilehaus || Welterbestätte in Deutschland || [[Speicherstadt und Kontorhausviertel mit Chilehaus]]
+|-
+| 9 || [[d:Q1739852|Q1739852]] || Markthalle Hamburg || Gebäudekomplex am Klosterwall im Hamburger Stadtteil Hammerbrook || [[Markthalle Hamburg]]
+|-
+| 10 || [[d:Q19311513|Q19311513]] || Werner-von-Melle-Büste || Büste im Hauptgebäude der Universität Hamburg || [[Werner-von-Melle-Büste]]
+|-
+| 11 || [[d:Q1783238|Q1783238]] || Kontorhausviertel || südöstlicher Bereich der Hamburger Altstadt || [[Kontorhausviertel]]
+|-
+| 12 || [[d:Q26794477|Q26794477]] || Theater das Zimmer || Theater in Hamburg-Horn || [[Theater das Zimmer]]
+|-
+| 13 || [[d:Q858079|Q858079]] || IMO 5060794 || Museumsschiff in Hamburg || [[Cap San Diego]]
+|-
+| 14 || [[d:Q1683705|Q1683705]] || Jarrestadt || Wohnbereich im Hamburger Stadtteil Winterhude || [[Jarrestadt]]
+|-
+| 15 || [[d:Q28066612|Q28066612]] || Spiegel-Kantine || Design-Innenraum, im Museum für Kunst und Gewerbe Hamburg || [[Spiegel-Kantine]]
+|-
+| 16 || [[d:Q99805135|Q99805135]] || Hohenfelder Brücke || Straßenbrücke in Hamburg || [[Hohenfelder Brücke]]
+|-
+| 17 || [[d:Q19278901|Q19278901]] || Ehrenhain Hamburgischer Widerstandskämpfer || Gräber- und Gedenkstätte auf dem Hamburger Friedhof Ohlsdorf || [[Ehrenhain Hamburgischer Widerstandskämpfer]]
+|-
+| 18 || [[d:Q108666003|Q108666003]] || Schule Zeughausmarkt || Schulgebäude in Hamburg-Neustadt || 
+|-
+| 19 || [[d:Q19964149|Q19964149]] || Skulptur im Laeiszhof || Figurengruppe in der Eingangshalle des Laeiszhofs in der Hamburger Altstadt || [[Skulptur im Laeiszhof]]
+|-
+| 20 || [[d:Q19826503|Q19826503]] || Ottensener Industriebahn ||  || [[Ottensener Industriebahn]]
+|-
+| 21 || [[d:Q21205543|Q21205543]] || Friedhof der Namenlosen || Friedhof auf Neuwerk || 
+|-
+| 22 || [[d:Q98649550|Q98649550]] || Haynstraße 1, 3, Hegestraße 41 || Gebäude-Ensemble in Hamburg || 
+|-
+| 23 || [[d:Q2551785|Q2551785]] || Wasserturm Hamburg-Ochsenzoll || Wasserturm in Hamburg || [[Wasserturm Hamburg-Ochsenzoll]]
+|-
+| 24 || [[d:Q54418279|Q54418279]] || Heizwerk Barmbek ||  || 
+|-
+| 25 || [[d:Q29015730|Q29015730]] || Holi || Kino in Hamburg || [[Holi (Kino)]]
+|-
+| 26 || [[d:Q28005811|Q28005811]] || Oberpostdirektion || Ehemaliges Bauwerk in Hamburg || [[Oberpostdirektion (City Nord)]]
+|-
+| 27 || [[d:Q1494692|Q1494692]] || Gartenstadt Berne || Siedlungsgebiet im Hamburger Stadtteil Farmsen-Berne || [[Gartenstadt Berne]]
+|-
+| 28 || [[d:Q105825085|Q105825085]] || Hoop op Welvaart || Tjalk im Museumshafen Hamburg || 
+|-
+| 29 || [[d:Q25388618|Q25388618]] || Bullerei || Restaurant im ehemaligen Schlachthof im Hamburger Schanzenviertel || [[Bullerei]]
+|-
+| 30 || [[d:Q1390772|Q1390772]] || Fabrik || Kultur- und Kommunikationszentrum in Hamburg || [[Fabrik (Hamburg)]]
+|-
+| 31 || [[d:Q19259586|Q19259586]] || Architekturfragmente des Hamburg Museums ||  || [[Architekturfragmente des Museums für Hamburgische Geschichte]]
+|-
+| 32 || [[d:Q28661154|Q28661154]] || Eppendorfer Brücke || Straßenbrücke in Hamburg über den Isebekkanal || [[Eppendorfer Brücke]]
+|-
+| 33 || [[d:Q15059619|Q15059619]] || Rödingsmarkt || Straße im Stadtteil Hamburg-Altstadt || [[Rödingsmarkt]]
+|-
+| 34 || [[d:Q2432764|Q2432764]] || Tiger (Schiff, 1910) || betriebsfähiger Dampfschlepper im Museumshafen Oevelgönne || [[Tiger (Schiff, 1910)]]
+|-
+| 35 || [[d:Q110776250|Q110776250]] || Grundschule Poppenbüttel || Grundschule in Hamburg-Poppenbüttel || 
+|-
+| 36 || [[d:Q2341677|Q2341677]] || Steinstraße || Hauptverkehrsstraße in der Hamburger Innenstadt || [[Steinstraße (Hamburg)]]
+|-
+| 37 || [[d:Q800870|Q800870]] || Bahnhof Hamburg-Barmbek || U- und S-Bahnhof in Hamburg || [[Bahnhof Hamburg-Barmbek]]
+|-
+| 38 || [[d:Q1417408|Q1417408]] || Finkenau || Straße in Hamburg-Uhlenhorst || [[Finkenau (Hamburg)]]
+|-
+| 39 || [[d:Q820762|Q820762]] || Haus Katharinenstraße 9 || nicht erhaltenes Bürgerhaus in der Hamburger Innenstadt || [[Haus Katharinenstraße 9]]
+|-
+| 40 || [[d:Q2551790|Q2551790]] || Wasserturm Hamburg-Winterhude || Wasserturm in Hamburg || [[Wasserturm Hamburg-Winterhude]]
+|-
+| 41 || [[d:Q1722634|Q1722634]] || Kaltehofe || Elbinsel in Hamburg || [[Kaltehofe]]
+|-
+| 42 || [[d:Q34379126|Q34379126]] || Streit's Haus Filmtheater || ehemaliges Kino in Hamburg, Deutschland || 
+|-
+| 43 || [[d:Q1935490|Q1935490]] || Millerntor || Platz in Hamburg‎ || [[Millerntor]]
+|-
+| 44 || [[d:Q627794|Q627794]] || Arbeitsgericht Hamburg || deutsches Arbeitsgericht || [[Arbeitsgericht Hamburg]]
+|-
+| 45 || [[d:Q866205|Q866205]] || Bischofsturm (Hamburg) || Ein ringförmiges Turmfundament aus dem 12. Jahrhundert in Hamburg || [[Bischofsturm (Hamburg)]]
+|-
+| 46 || [[d:Q2229170|Q2229170]] || Schaarhörn || Hamburger Museumsschiff || [[Schaarhörn]]
+|-
+| 47 || [[d:Q86828291|Q86828291]] || Spirituosen- und Likörfabrik Louis Hilke || ehemalige Getränkehersteller in Hamburg-Harburg || [[Spirituosen- und Likörfabrik Louis Hilke]]
+|-
+| 48 || [[d:Q31839652|Q31839652]] || Gartenstadt Farmsen || Großwohnsiedlung im Hamburger Stadtteil Farmsen-Berne || [[Gartenstadt Farmsen]]
+|-
+| 49 || [[d:Q2466068|Q2466068]] || U-Bahnhof Sengelmannstraße || U-Bahnhof in Hamburg || [[U-Bahnhof Sengelmannstraße]]
+|-
+| 50 || [[d:Q1573128|Q1573128]] || Hamburger Seemannskirchen || Kirchengebäude in Hamburg || [[Hamburger Seemannskirchen]]
+|-
+| 51 || [[d:Q1496306|Q1496306]] || Kellinghusenstraße || Straße in Hamburg-Eppendorf || [[Kellinghusenstraße]]
+|-
+| 52 || [[d:Q1743806|Q1743806]] || Stadtteilschule Bahrenfeld || städtische Schule in der Freien und Hansestadt Hamburg || [[Stadtteilschule Bahrenfeld]]
+|-
+| 53 || [[d:Q1419819|Q1419819]] || Mennonitengemeinde zu Hamburg und Altona || Kirchengebäude in Hamburg || [[Mennonitengemeinde zu Hamburg und Altona]]
+|-
+| 54 || [[d:Q16886704|Q16886704]] || Prototyp (Museum) || Automobilmuseum in Hamburg || [[Prototyp (Museum)]]
+|-
+| 55 || [[d:Q1683402|Q1683402]] || Wandesburg || Burg in Deutschland || [[Wandesburg]]
+|}
