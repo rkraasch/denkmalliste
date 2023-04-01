@@ -85,7 +85,7 @@ def setQualifier(item, clmnm:str, qualnm:str, qualtp: str, tgt:str, tgt2:str="de
         claim.addQualifier(qualifier, summary=u'Adding qualifier.') #Adding qualifier 
 
 def openJSONfile(fn: str) -> dict:
-    with open("./public/data/" + fn + ".json", 'r') as f:
+    with open("./data/" + fn + ".json", 'r') as f:
         s = json.load(f)
         f.close()
         return(s)
